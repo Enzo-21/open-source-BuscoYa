@@ -1,0 +1,1 @@
+KN\<?php exit; ?>a:1:{s:7:"content";a:4:{i:49;s:3:"eat";i:50;s:4:"shop";i:51;s:4:"stay";i:52;s:5:"visit";}}

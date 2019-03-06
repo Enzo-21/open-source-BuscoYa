@@ -1,0 +1,1 @@
+j\<?php exit; ?>a:1:{s:7:"content";s:126:"a:5:{s:12:"is_valid_key";s:1:"0";s:15:"expiration_time";i:0;s:7:"version";s:5:"1.7.9";s:3:"url";s:0:"";s:9:"offerings";a:0:{}}";}

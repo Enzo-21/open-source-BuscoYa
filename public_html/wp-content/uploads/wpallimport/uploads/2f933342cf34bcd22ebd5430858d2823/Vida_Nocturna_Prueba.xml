@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<nombre><![CDATA[Dicson Camote]]></nombre>
+		<telfono><![CDATA[0351 15 269-5860]]></telfono>
+		<categoraprimaria><![CDATA[Coctelerías]]></categoraprimaria>
+		<categorasecundaria><![CDATA[]]></categorasecundaria>
+		<barrio><![CDATA[Claret]]></barrio>
+		<direccin><![CDATA[Av. Recta Martinoli 5869X5021 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Carta de Vinos]]></nombre>
+		<telfono><![CDATA[0351 570-7135]]></telfono>
+		<categoraprimaria><![CDATA[Vinotecas]]></categoraprimaria>
+		<categorasecundaria><![CDATA[]]></categorasecundaria>
+		<barrio><![CDATA[Tablada Park]]></barrio>
+		<direccin><![CDATA[Emilio Pettoruti 2541X5009JDI Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Constantino Bar]]></nombre>
+		<telfono><![CDATA[0351 15 365-2354]]></telfono>
+		<categoraprimaria><![CDATA[Coctelerías]]></categoraprimaria>
+		<categorasecundaria><![CDATA[Cocina brasileña]]></categorasecundaria>
+		<barrio><![CDATA[Villa Centenario]]></barrio>
+		<direccin><![CDATA[Rafael Nuñez 4865Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Pacifico Bar]]></nombre>
+		<telfono><![CDATA[]]></telfono>
+		<categoraprimaria><![CDATA[Coctelerías]]></categoraprimaria>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Luis de Tejeda 4556X5009 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bar Hawai]]></nombre>
+		<telfono><![CDATA[]]></telfono>
+		<categoraprimaria><![CDATA[Bares]]></categoraprimaria>
+		<categorasecundaria><![CDATA[Cafetería]]></categorasecundaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Nicolas Avellaneda 300X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Memphis Social Bar]]></nombre>
+		<telfono><![CDATA[]]></telfono>
+		<categoraprimaria><![CDATA[Bares]]></categoraprimaria>
+		<categorasecundaria><![CDATA[]]></categorasecundaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Cnel. Pringles 383X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Blue Bar]]></nombre>
+		<telfono><![CDATA[0351 488-3491]]></telfono>
+		<categoraprimaria><![CDATA[Bares]]></categoraprimaria>
+		<categorasecundaria><![CDATA[Comida rápida]]></categorasecundaria>
+		<barrio><![CDATA[Villa Cabrera]]></barrio>
+		<direccin><![CDATA[Av. Octavio Pinto 2756X5000 Córdoba]]></direccin>
+	</node>
+</data>

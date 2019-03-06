@@ -1,0 +1,838 @@
+AWSTATS DATA FILE 7.4 (build 20150714)
+# If you remove this file, all statistics for date 201711 will be lost/reset.
+# Last config file used to build this data file was /home/buscoya/domains/buscoya.com.ar/awstats/.data/awstats.buscoya.com.ar.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2105                
+POS_TIME 2793                
+POS_VISITOR 10973               
+POS_DAY 19193               
+POS_DOMAIN 3809                
+POS_LOGIN 4044                
+POS_ROBOT 4199                
+POS_WORMS 5340                
+POS_EMAILSENDER 5471                
+POS_EMAILRECEIVER 5614                
+POS_SESSION 19648               
+POS_SIDER 19860               
+POS_FILETYPES 5749                
+POS_DOWNLOADS 6151                
+POS_OS 6199                
+POS_BROWSER 6524                
+POS_SCREENSIZE 7816                
+POS_UNKNOWNREFERER 7890                
+POS_UNKNOWNREFERERBROWSER 8538                
+POS_ORIGIN 8892                
+POS_SEREFERRALS 9037                
+POS_PAGEREFS 9205                
+POS_SEARCHWORDS 9945                
+POS_KEYWORDS 10107               
+POS_MISC 2456                
+POS_ERRORS 10176               
+POS_CLUSTER 3900                
+POS_SIDER_403 10354               
+POS_SIDER_400 10576               
+POS_SIDER_404 10658               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171201002448 3491 1169750 18051529930814
+FirstTime 20171117205424
+LastTime 20171130225334
+LastUpdate 20171201011300 3491 0 3490 0 0
+TotalVisits 287                 
+TotalUnique 190                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 201                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 50 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 18 104 2052522 569 605 8531391
+1 2 9 453194 412 499 7424931
+2 15 141 3892843 348 661 29462719
+3 20 111 2530971 301 630 33737185
+4 59 388 9857594 310 698 34116584
+5 150 1325 42664254 445 794 30146129
+6 693 2824 76538187 655 1037 32020984
+7 277 793 17043632 436 829 30912675
+8 137 1465 50056108 484 786 28592100
+9 309 1364 38985335 668 887 23792746
+10 370 2700 79985504 506 630 20634643
+11 298 892 19856069 837 983 26933181
+12 389 1721 42472964 455 593 17670088
+13 692 2017 47439880 970 1082 21723649
+14 831 2792 60738913 885 2984 49562374
+15 642 2507 102433971 1518 8486 176345844
+16 908 3343 76246314 872 1034 15697499
+17 728 3515 87238435 719 884 13197447
+18 253 1228 29271754 1117 1819 45932140
+19 115 1338 52735416 758 1060 30230424
+20 149 1427 53116856 1971 2890 164064049
+21 209 1440 31119468 977 1736 45069702
+22 52 350 10403714 733 858 58478013
+23 51 504 15162797 474 548 6978586
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 7367 34298 952296695
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 26
+crawl 9777 199743759 20171129151248 2
+googlebot 6201 52651087 20171130232411 166
+[\s_+:,\.\;\/\\-]bot 6087 110011601 20171125210534 0
+googlebot\-image 4233 470498195 20171130210620 0
+wordpress 3196 2529274 20171130232348 0
+mj12bot 1700 35075620 20171130115442 31
+yandex 101 4009617 20171130130747 15
+phantom 82 2450867 20171129192452 0
+ia_archiver 77 5398942 20171130045529 13
+facebook 72 3952298 20171130225001 0
+commons\-httpclient 5 495067 20171129190041 0
+no_user_agent 22 45824237 20171130015116 0
+metauri 10 954539 20171122091351 0
+^java\/[0-9] 1 39581 20171127132943 0
+slurp 4 2180 20171122085804 2
+ahrefsbot 8 243923 20171130060905 2
+unknown 12 7408 20171130072905 12
+xovibot 3 408325 20171126001434 0
+dataprovider\.com 12 471596 20171126191733 1
+python 2 76818 20171120225551 0
+surveybot 1 40800 20171123213601 0
+bot[\s_+:,\.\;\/\\-] 7 424646 20171128053225 0
+twitterbot 19 2827633 20171128020446 4
+wget 1 197797 20171130013119 0
+ltx71 2 1196 20171130003008 2
+baiduspider 15 358455 20171130194217 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 17
+css 4174 28249993 0 0
+ttf 194 16973 0 0
+woff 1311 1733477 0 0
+woff2 458 18528991 0 0
+php 5260 103462922 0 0
+html 3 3161 0 0
+tif 1 571 0 0
+xml 1 1419 0 0
+jpg 13750 520574402 0 0
+eot 14 336998 0 0
+bmp 2 918 0 0
+png 2266 216446372 0 0
+js 5921 48173303 0 0
+jpeg 435 12581744 0 0
+Unknown 126 196035 0 0
+svg 207 242552 0 0
+gif 175 1746864 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+linuxandroid 2242 179
+winxp 5 4
+macosx11 343 51
+winphone 82 8
+ios_iphone 4852 455
+win8 3 3
+unix 101 12
+java 5 0
+macosx5 1 1
+linuxubuntu 2 2
+linux 8 8
+win7 3743 926
+macosx 5278 1016
+macosx10 139 15
+Unknown 1680 152
+win8.1 10711 3883
+win10 5102 651
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 61
+msie6.0 1 1
+firefox57.0 1647 129
+chrome52.0.2743.116 83 7
+opera12.17 2 2
+opera9.50 1 1
+safari11.0 3338 299
+chrome12.0.742.100 1 1
+chrome34.0.1847.137 1 1
+chrome38.0.1025.166 94 6
+android 2 1
+chrome55.0.2883.91 111 13
+chrome64.0.3269.3 254 54
+chrome39.0.2171.95 2 2
+safari8.0.7 51 6
+chrome36.0.1985.125 13 13
+chrome53.0.2785.34 4 4
+chrome58.0.3029.110 2 2
+iphone 270 31
+msie8.0 93 14
+chrome61.0.3163.100 315 52
+chrome45.0.2454.93 1 1
+msie7.0 1 0
+chrome50.0.2661.102 20 20
+firefox40.1 8 8
+firefox41.0 1 1
+chrome43.0.2357.93 81 7
+chrome62.0.3202.89 107 11
+chrome49.0.2623.112 1 1
+firefox27.0 1 1
+Unknown 36 17
+chrome60.0.3112.116 58 6
+firefox3.6.7 1 1
+chrome59.0.3071.115 307 41
+firefox3.5.6 1 1
+firefox53.0 1 1
+firefox3.0.16 1 1
+safari10.0.2 1 1
+chrome58.0.3029.83 49 4
+firefox55.0 1 1
+safari10.0 864 69
+chrome18.0.1025.46 1 1
+safari10.0.3 82 9
+chrome62.0.3202.94 23750 6255
+firefox12.0 1 1
+firefox3.0.5 1 1
+chrome46.0.2490.80 2 2
+chrome45.0.2454.94 1 1
+chrome54.0.2840.71 4 4
+chrome62.0.3202.84 1601 112
+mozilla 3 3
+chrome45.0.2454.101 1 1
+netscape5.0 3 3
+chrome32.0.1700.76 165 27
+chrome62.0.3202.97 100 11
+msie10.0 46 7
+chrome46.0.2486.0 82 8
+firefox51.0 1 1
+chrome40.0.2214.93 1 1
+chrome61.0.3163.98 246 30
+safari 380 56
+firefox3.6.13 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Ruby 20171129142712
+Poster 20171129192442
+WhatsApp/2.17.395_A 20171130205457
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20171127145533
+Mozilla/5.0_(compatible;_um-LN/1.0;_mailto:_techinfo@ubermetrics-technologies.com) 20171122091930
+Google-AdWords-Express 20171128053231
+wp-android 20171130220801
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com) 20171121063745
+Go-http-client/1.1 20171130115520
+WhatsApp/2.17.80_i 20171120202548
+WhatsApp/2.17.70_i 20171120213637
+Mozilla/5.0_(Android_6.0;_Mobile;_rv:57.0)_Gecko/57.0_Firefox/57.0 20171130205651
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+Ruby 20171129142712
+Poster 20171129192442
+WhatsApp/2.17.395_A 20171130205457
+Apache-HttpClient/4.5.2_(Java/1.8.0_72) 20171129190042
+Google-AdWords-Express 20171128053231
+Go-http-client/1.1 20171130115520
+WhatsApp/2.17.70_i 20171120213637
+WhatsApp/2.17.80_i 20171120202548
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 295 340
+From1 9 9
+From2 52 63
+From3 55 55
+From4 6956 33831
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 49 60
+yandex 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 17
+http://www.ladoctapublicidades.com 19 19
+https://www.youtube.com 4 4
+http://1054.com.ar 4 4
+http://l.instagram.com 4 4
+https://l.instagram.com 3 3
+https://www-ladoctapublicidades-com.cdn.ampproject.org/v/www.ladoctapublicidades.com/amp/ 3 3
+http://www.ladoctapublicidades.com 3 3
+https://t.co/NqaxUgEuzA 3 3
+http://m.facebook.com 2 2
+http://www.web-grafica.com.ar 2 2
+https://www.linkedin.com 1 1
+http://158.69.189.149 1 1
+http://ladoctapublicidades.com 1 1
+http://l.facebook.com/l.php 2 2
+http://www.web-grafica.com.ar/portfolio/ 1 1
+https://l.facebook.com 1 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+buscoya 4
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+buscoya 4
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 3 3834
+503 107 80364
+406 4 892
+302 212 179056
+405 1 471
+500 6 4808
+301 198 94220
+404 780 12170998
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 2
+/wp-admin/edit.php 1 http://www.buscoya.com.ar/wp-admin/plugins.php
+/wp-admin/admin-ajax.php 2 http://www.buscoya.com.ar/wp-admin/admin.php
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 201
+190.18.225.176 2934 8585 182265174 20171130225334
+186.153.211.68 1150 4110 98958675 20171124100007
+181.29.171.7 752 2892 75958493 20171124073354
+152.168.83.33 366 1983 47455438 20171128192607
+190.210.221.112 362 1088 32059419 20171127104814
+186.124.18.1 207 1120 31389376 20171126160448
+186.124.179.0 116 718 23702284 20171122093754
+181.10.83.18 110 1089 31827930 20171130143651
+186.137.242.77 98 567 14134232 20171129231940
+159.203.130.12 61 127 23687775 20171129152258
+200.69.231.209 8 87 2408293 20171129083823
+181.9.164.249 5 80 2148123 20171126111004
+200.125.75.1 12 136 3155368 20171129162751
+190.30.203.92 2 11 364773 20171123120020
+170.51.24.107 4 49 585031 20171129155212
+220.181.132.178 1 1 0 20171129221141
+190.224.172.101 5 55 1387601 20171129163318
+185.200.190.157 2 2 373836 20171125033402
+148.240.238.10 1 1 185552 20171125000939
+54.219.178.100 7 7 280573 20171126082312
+181.29.134.140 1 1 192847 20171128063231
+190.31.16.183 8 86 2344377 20171129231235
+176.77.1.174 1 11 137778 20171127005450
+171.13.14.132 1 1 0 20171130035109
+70.39.246.37 3 3 85103 20171121063745
+213.183.51.182 2 2 78310 20171121222656
+15.211.201.92 10 380 10216857 20171129144831
+64.233.172.252 4 36 1190351 20171129154527
+31.13.113.192 0 11 306115 
+181.110.1.175 8 81 2170152 20171130105403
+144.76.22.208 1 1 40627 20171120220042
+190.104.235.21 7 87 2278769 20171128085312
+171.13.14.148 1 1 0 20171126135902
+181.28.229.42 22 159 6125979 20171129091706
+181.29.171.25 17 259 7076571 20171129163142
+186.108.247.49 5 18 373496 20171128221033
+181.229.147.60 52 560 19103306 20171129155206
+38.80.23.33 1 1 189202 20171129084454
+182.118.20.149 2 2 0 20171129221144
+37.145.34.25 2 35 235161 20171121091721
+173.252.84.87 1 14 300823 20171123071419
+31.13.113.197 0 7 756635 
+181.9.164.7 5 78 1719277 20171123060309
+64.233.172.254 0 23 540470 
+173.252.84.88 3 10 140231 20171120201043
+148.251.81.40 2 2 550 20171122091933
+54.67.67.222 3 3 12567 20171124073746
+181.92.180.18 2 9 778358 20171125004624
+50.116.16.218 1 1 39184 20171130023357
+66.102.8.213 2 2 80460 20171127145533
+190.18.16.88 9 100 2807662 20171125045401
+190.17.56.56 4 5 416552 20171121191827
+54.197.176.132 8 54 719461 20171130121644
+190.18.16.35 5 82 2119804 20171127213256
+181.110.146.200 42 75 999772 20171130073903
+176.116.14.181 1 1 39180 20171130075746
+190.30.216.112 11 116 4855193 20171130125613
+146.185.223.5 5 6 18682 20171123032124
+190.2.248.226 8 88 2471620 20171130064150
+54.67.31.58 0 2 2278252 
+128.72.177.9 0 5 103558 
+66.249.88.49 1 1 37206 20171128053231
+190.193.152.156 0 7 255566 
+190.117.163.114 11 105 3162157 20171124100054
+181.230.187.51 15 132 4633744 20171121131327
+170.51.33.166 2 2 1639 20171128093229
+186.23.247.203 1 1 750 20171128085911
+199.19.249.196 3 3 312018 20171129144826
+161.69.99.11 1 1 39447 20171122021203
+54.184.176.139 1 1 38657 20171122105152
+192.145.239.27 2 2 187796 20171130220801
+190.18.189.239 7 85 2454648 20171128143124
+152.170.70.135 10 342 11640930 20171129112406
+158.46.163.249 1 1 38988 20171123173907
+173.252.84.91 1 22 414118 20171120201035
+144.76.23.212 1 1 41380 20171122085405
+190.190.43.55 0 1 196052 
+54.193.98.16 1 1 39753 20171129142704
+95.24.93.85 2 3 62629 20171121091717
+181.9.160.170 9 87 2640544 20171129111305
+93.89.221.55 1 1 39408 20171121123018
+173.252.84.89 2 33 800226 20171125052042
+108.174.2.204 0 2 530167 
+35.166.132.47 1 1 37778 20171125160929
+173.252.84.86 3 27 710516 20171120201043
+93.142.52.83 1 1 189880 20171128163220
+54.204.142.245 1 1 22850 20171130115520
+167.59.95.44 2 16 427125 20171119175328
+220.181.132.180 2 2 0 20171129161315
+52.88.80.40 1 1 39816 20171128160939
+190.194.217.121 43 619 31081827 20171121195827
+106.120.162.107 2 2 0 20171129161424
+186.182.229.41 11 108 2921421 20171127060041
+66.249.85.16 28 504 17448188 20171130061225
+181.110.3.216 37 303 11566687 20171126180512
+181.110.90.46 8 82 1701528 20171120214239
+23.96.208.137 3 3 117500 20171122085441
+190.246.200.7 7 93 2816097 20171126203141
+182.118.20.158 2 2 0 20171126135859
+199.116.173.196 2 2 141241 20171129143938
+181.165.93.155 8 8 32790 20171125110852
+52.27.2.86 1 1 181702 20171122085605
+31.13.113.193 1 11 236831 20171125052606
+194.67.221.77 1 1 190542 20171124211736
+181.9.160.54 1 1 654 20171118182550
+66.249.85.15 24 511 14894364 20171130061107
+171.13.14.149 1 1 0 20171130035140
+178.62.99.175 1 1 37690 20171130003202
+93.115.20.189 1 1 186878 20171126063818
+195.76.194.58 13 103 2710310 20171127062227
+198.71.230.39 2 2 189143 20171129073838
+190.18.236.209 8 86 2553913 20171129172212
+173.252.84.92 3 82 2214360 20171125052042
+74.87.163.26 1 1 38935 20171121130349
+54.159.209.175 1 1 38546 20171130114749
+54.87.112.197 2 2 24420 20171130124318
+191.97.129.195 10 292 10041119 20171129154535
+200.3.94.26 7 83 1870853 20171121150319
+220.181.132.179 1 1 0 20171130035106
+13.56.159.157 1 1 4189 20171128012843
+189.120.139.130 1 1 39205 20171125205056
+187.0.251.20 17 129 4811041 20171130060628
+190.236.198.55 1 1 193278 20171125234155
+181.9.163.156 4 12 5029982 20171129155106
+46.252.153.50 2 2 185068 20171129192442
+108.174.2.205 0 1 363680 
+64.233.172.225 2 35 629059 20171129154704
+74.87.163.42 1 1 23009 20171121130353
+66.249.85.17 26 473 15019123 20171130061145
+181.29.22.16 5 5 30653 20171130061036
+52.53.129.36 2 2 79252 20171129064601
+31.13.113.199 2 34 729813 20171125052606
+181.164.199.172 7 90 2496385 20171129150227
+27.70.170.155 1 1 193439 20171126010047
+181.94.56.125 9 104 2973650 20171130122353
+186.121.199.10 7 85 2107684 20171129194253
+181.94.36.220 9 82 1773429 20171121104344
+84.126.133.112 1 5 73283 20171121052502
+190.226.97.14 12 52 1279436 20171130153746
+190.192.105.135 8 85 2070546 20171130070920
+190.17.222.165 8 88 2256309 20171130220115
+95.28.166.52 1 6 59962 20171127005451
+106.120.162.93 2 2 0 20171126140021
+200.115.234.196 1 1 195768 20171127162642
+181.167.82.49 13 100 3255552 20171128233647
+103.67.235.16 2 2 186632 20171128201628
+181.47.136.103 4 4 384927 20171129115806
+190.210.152.180 23 235 8424235 20171130105135
+181.230.181.19 8 87 2236013 20171128083150
+95.165.131.246 4 43 404482 20171125005511
+200.127.187.121 33 330 11039459 20171130180946
+144.76.23.73 1 1 39244 20171122085009
+190.136.239.22 10 10 133248 20171122100619
+95.24.22.177 7 32 408259 20171127005523
+142.4.218.156 1 1 189738 20171126191735
+209.90.225.250 3 3 42287 20171128213118
+192.243.53.20 2 2 43839 20171128062346
+202.46.54.109 1 1 40094 20171122104448
+34.212.65.157 1 1 39389 20171126120255
+200.69.209.193 11 100 2669671 20171129220505
+190.30.175.89 2 2 1301 20171129183126
+190.246.165.242 14 106 2876828 20171126082233
+190.136.247.143 2 10 193048 20171125154551
+181.9.131.21 7 66 1404796 20171126220603
+152.170.102.107 14 142 3166806 20171121124055
+181.9.162.145 12 341 11709790 20171127101550
+186.141.198.236 6 58 694365 20171127231523
+173.252.84.90 3 34 924604 20171125052042
+190.31.206.38 12 108 3309434 20171129194841
+186.143.134.228 0 1 78193 
+24.232.41.31 3 46 764286 20171125231754
+200.123.145.161 2 33 1390460 20171125231754
+181.15.194.218 6 63 1834076 20171128082837
+2.152.199.127 54 254 5637674 20171129042244
+106.120.162.96 1 1 0 20171129161422
+171.13.14.152 1 1 0 20171129161426
+213.211.241.42 2 2 377235 20171120220453
+54.159.155.171 5 10 136846 20171130121750
+181.9.163.229 31 270 14336806 20171126143333
+181.164.217.6 7 81 1666161 20171121134201
+199.30.228.159 1 1 38889 20171125051132
+24.232.231.192 2 22 487306 20171128082837
+37.8.9.116 1 1 185485 20171125160638
+201.213.234.22 19 151 3254539 20171130073150
+54.91.198.5 1 1 40093 20171121192506
+181.228.225.27 9 95 1746283 20171120212603
+31.13.113.195 3 18 436099 20171125052607
+54.146.150.133 2 2 42214 20171130115215
+54.161.150.160 14 101 1289563 20171130121046
+201.231.78.25 7 83 2532711 20171124094812
+24.232.179.158 8 87 2657400 20171129020727
+181.9.162.61 19 250 15793488 20171130205651
+186.108.241.198 3 19 168776 20171119143149
+200.86.157.136 21 378 13608566 20171129084531
+54.215.244.183 15 15 141802 20171129142730
+190.194.17.188 9 83 3395251 20171126232708
+108.174.2.203 0 2 453775 
+171.13.14.133 1 1 0 20171129161406
+181.15.192.115 8 87 2275029 20171128083913
+173.252.84.93 2 19 476346 20171123071419
+181.166.162.24 8 87 2711494 20171130062222
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20171117 2 3 19157 2
+20171118 3 3 1935 3
+20171119 9 69 1196004 7
+20171120 627 3641 81731321 14
+20171121 1193 5629 165744878 30
+20171122 1225 5086 131846231 20
+20171123 23 195 4415236 10
+20171124 1653 3093 55356104 11
+20171125 84 1070 31242522 27
+20171126 348 2361 77745203 25
+20171127 1159 3642 81468789 16
+20171128 197 1490 43103140 29
+20171129 454 4954 181021941 56
+20171130 390 3062 97404234 37
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 12
+5mn-15mn 18
+0s-30s 167
+2mn-5mn 24
+15mn-30mn 5
+30s-2mn 42
+30mn-1h 19
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 214
+/wp-admin/admin-ajax.php 3064 3972778 2 56
+/ 672 21152212 217 128
+/wp-content/plugins/wp-job-manager/assets/font/job-manager.woff 291 84204 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 289 72180 0 0
+/wp-content/plugins/bloom/css/fonts/bloomlogo.woff 289 15084 0 0
+/wp-admin/post.php 209 12438207 0 0
+/wp-content/plugins/ml-slider/assets/fonts/metaslider.ttf 193 13062 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 189 149472 0 2
+/wp-content/themes/listable/assets/fonts/hanken/hanken-light-webfont.woff2 141 2604034 12 1
+/wp-content/themes/listable/assets/fonts/hanken/hanken-book-webfont.woff2 141 2646916 8 3
+/wp-admin/post-new.php 4 221677 0 0
+/listings/njambre/ 4 45539 0 0
+/wp-json/pvc/v1/increase/16278 2 2198 0 0
+/listings/web-grafica/ 4 92700 1 1
+/mi-cuenta/edit-account/ 2 35200 0 0
+/wp-json/pvc/v1/increase/16106 1 750 0 0
+/wp-content/plugins/page-views-count/admin/assets/fonts/fontawesome-webfont.woff 4 335912 0 0
+/wp-json/pvc/v1/increase/11375 2 1504 0 0
+/gimnasios-en-cordoba/ 2 19016 0 0
+/wp-admin/install.php 9 34408 7 7
+/wp-admin/async-upload.php 15 25603 0 0
+/wp-json/pvc/v1/increase/11827 1 1099 0 0
+/tiendas-de-ropa-argentina/ 7 152797 0 0
+/listings/ 120 2203228 1 2
+/webmail/program/js/tinymce/skins/lightgray/fonts/tinymce-small.woff 1 5348 0 0
+/wp-json/pvc/v1/increase/11281 1 1101 0 0
+/wp-json/pvc/v1/increase/11264 1 753 0 0
+/xmlrpc.php 9 20743 1 5
+/webmail/program/resources/blank.tif 1 571 0 0
+/wp-json/pvc/v1/increase/18112 1 1098 0 0
+/wp-json/pvc/v1/increase/16290 2 2198 0 0
+/listings/service-roli/ 1 21012 0 0
+/listings/epfotografia/ 1 24349 0 0
+/wp-json/pvc/v1/increase/11421 5 3785 0 0
+/listings/mundo-mascotas/ 8 147398 1 1
+/listings/cordoba-tutecnico/ 5 86572 1 0
+/listings/rumbo-visual/ 1 24727 0 0
+/listings/aj-producciones/ 2 26214 0 0
+/listings/fabrizzi-nuevocentro/ 1 22044 1 0
+/wp-json/wp/v2/posts 1 22417 0 0
+/listing-category/mascotas/ 1 18619 0 0
+/wp-json/pvc/v1/increase/16294 2 2224 0 0
+/wp-json/pvc/v1/increase/12505 1 1125 0 0
+/listings/sucre-3576-bo-panamericano-cordoba-vivencias/ 1 20221 0 0
+/wp-content/plugins/bloom/css/fonts/ET-Bloom.eot 3 11784 0 3
+/wp-content/plugins/bloom/dashboard/css/fonts/ETdashboard.woff 1 15269 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 6 1099890 0 0
+/listings/nxtplabs/ 5 68702 0 0
+/wp-content/themes/listable/assets/fonts/fontawesome/fontawesome-webfont.woff 4 393378 0 0
+/wp-admin/load-scripts.php 113 13111174 0 0
+/listings/dean-funes-163-cordoba-ar-almacen-de-mario/ 2 2688 0 0
+/listings/baitec/ 4 44414 0 0
+/listings/agnes/ 1 21963 0 0
+/wp-content/themes/listable/assets/fonts/hanken/hanken-light-webfont.eot 3 60519 2 1
+/wp-json/pvc/v1/increase/16610 4 3691 0 0
+/wp-json/pvc/v1/increase/17816 4 2998 0 0
+/wp-admin/customize.php 7 1290202 0 0
+/wp-login.php 34 123177 2 2
+/listings/vrainz/ 4 44358 0 0
+/listing-category/fiestaseventos/ 2 37668 0 0
+/listings/socialab/ 4 45621 0 0
+/listings/hotel-windsor/ 2 45375 1 1
+/wp-json/pvc/v1/increase/19858 1 767 0 0
+/tunegocioenbuscoya/ 7 114809 0 0
+/wp-json/pvc/v1/increase/14425 1 749 0 0
+/wp-json/pvc/v1/increase/11499 12 11804 0 1
+/wp-json/pvc/v1/increase/12896 1 750 0 0
+/wp-content/plugins/page-views-count/admin/assets/fonts/fontawesome-webfont.woff2 35 2347415 0 4
+/sugerencias/ 21 373490 0 0
+/wp-json/pvc/v1/increase/11951 2 1502 0 0
+/listings/opuntiacactuscrasas/ 4 46358 2 0
+/listings/chile-7-cordoba-ar-web-grafica/ 1 21967 0 0
+/wp-json/pvc/v1/increase/16299 2 2198 0 0
+/listing-category/heladerias/ 1 20217 1 1
+/webmail/program/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 9306 0 0
+/checkout/ 20 134319 0 0
+/listings/wayra/ 4 45174 0 0
+/wp-json/pvc/v1/increase/17663 6 6589 0 0
+/reclamar-mi-negocio/ 4 60596 0 1
+/wp-admin/plugin-install.php 8 275659 0 0
+/wp-json/pvc/v1/increase/16281 2 2198 0 0
+/wp-json/pvc/v1/increase/17631 1 747 0 0
+/listings/itbaf/ 3 43287 0 0
+/listing-category/comercios/ 6 112607 0 1
+/listings/incubacen/ 4 44815 0 0
+/wp-json/pvc/v1/increase/12631 1 1099 0 0
+/wp-content/plugins/bloom/dashboard/js/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 5016 0 0
+/wp-json/pvc/v1/increase/13050 1 750 0 0
+/listings/san-lorenzo-79-5000-cordoba-antares/ 1 29874 0 0
+/wp-content/plugins/wp-job-manager/assets/font/job-manager.eot 1 9351 0 0
+/checkout/order-received/19860/ 2 29940 0 0
+/listings/elmentidero/ 2 52268 0 0
+/listings/peluqueria-monica/ 1 21207 0 0
+/wp-json/pvc/v1/increase/11879 2 1847 0 0
+/gimnasios-en-argentina-donde-entrenar-en-argentina/ 6 103395 0 0
+/terminos-y-condiciones/ 3 38276 0 0
+/webmail/ 63 23158852 2 2
+/wp-json/pvc/v1/increase/12128 5 4809 0 0
+/wp-json/pvc/v1/increase/16124 1 1099 0 0
+/wp-content/themes/listable/assets/fonts/fontawesome/fontawesome-webfont.woff2 140 10863557 3 6
+/wp-json/pvc/v1/increase/11664 1 752 0 0
+/wp-json/pvc/v1/increase/16679 1 750 0 1
+/listings/green-house-ecotienda/ 6 93792 1 2
+/wp-content/themes/listable/assets/fonts/fontawesome/fontawesome-webfont.eot 1 98952 0 0
+/wp-admin/themes.php 1 35423 0 0
+/jm-ajax/upload_file/ 1 650 0 0
+/wp-admin/options-general.php 30 985962 0 0
+/wp-content/plugins/bloom/css/fonts/ET-Bloom.woff 111 362144 1 8
+/wp-json/pvc/v1/increase/17409 1 1096 0 0
+/listings/incubatec/ 5 65563 0 0
+/wp-json/pvc/v1/increase/12765 1 750 0 0
+/wp-json/pvc/v1/increase/12589 1 1095 0 0
+/wp-json2/posts 1 723 0 0
+/wp-content/plugins/wp-job-manager/assets/font/jm-logo/jm.eot 1 1197 0 0
+/wp-admin/load-styles.php 61 3632961 0 1
+/listings/divi/ 1 30246 0 0
+/buscoya/ 3 38951 0 0
+/feed/ 3 69093 1 2
+/checkout/order-received/19848/ 2 29711 0 0
+/listings/fide/ 4 45075 0 0
+/listings/escuela-kaizen/ 1 24738 0 0
+/wp-admin/tools.php 2 60584 0 0
+/listing-category/vida-nocturna/ 3 58930 0 0
+/wp-json/pvc/v1/increase/19847 1 767 0 0
+/wp-content/plugins/Gravity_Forms_v2.1.3.8/fonts/fontawesome-webfont.woff2 1 67069 0 0
+/listings/la-cabrera/ 1 20813 0 0
+/wp-admin/ 26 1074305 2 0
+/wp-content/themes/listable/assets/fonts/hanken/hanken-light-webfont.woff 5 115610 0 1
+/listings/emprear/ 2 22022 0 0
+/por-que-marketingypublicidadonline/ 4 78587 0 0
+/wp-json/pvc/v1/increase/16310 2 2198 0 0
+/wp-json/pvc/v1/increase/16790 1 750 0 0
+/wp-content/plugins/page-views-count/admin/assets/fonts/fontawesome-webfont.eot 1 71209 0 0
+/wp-admin/plugins.php 46 2065166 0 0
+/wp-content/themes/listable/assets/fonts/hanken/hanken-book-webfont.woff 5 116920 0 0
+/wp-json/ 1 13120 0 0
+/wp-content/plugins/bloom/css/fonts/ET-Bloom.ttf 1 3911 0 0
+/mi-cuenta/edit-address/ 1 29207 0 0
+/listings/casucu/ 13 284163 1 1
+/listings/vaqueria/ 1 20564 0 0
+/listing-category/oficios-y-profesionales/ 3 57585 0 0
+/listings/arte-en-chocolates/ 1 20901 0 0
+/webmail/skins/larry/watermark.html 2 1196 0 0
+/listing-category/hogar/ 4 77794 0 0
+/wp-admin/nav-menus.php 6 332649 0 0
+/wp-json/pvc/v1/increase/13529 4 3040 0 1
+/wp-json/pvc/v1/increase/16315 2 2198 0 0
+/listings/marpilar/ 5 119356 0 0
+/listings/san-lorenzo-213-cordoba-ar-aura-blanca/ 1 19736 0 0
+/listings/cle-boheme/ 1 22977 0 0
+/wp-content/themes/listable/assets/fonts/hanken/hanken-book-webfont.eot 3 61221 0 1
+/listings/gimnasio-juventus/ 6 93115 0 0
+/jm-ajax/get_listings 1 44770 0 0
+/mi-cuenta/ 5 70140 0 0
+/wp-json/pvc/v1/increase/11778 1 753 0 0
+/wp-admin/upload.php 5 152318 0 0
+/alojamientos-en-argentina/ 3 62871 0 0
+/wp-json/pvc/v1/increase/16269 3 2973 0 0
+/instrucciones-de-publicacion/ 15 220512 1 2
+/wp-json/pvc/v1/increase/11413 4 3355 0 0
+/listings/avenida-cabildo-2040-buenos-aires-escuela-kaizen/ 1 24732 0 0
+/listings/antares/ 1 29034 0 0
+/listings/baraba-resto/ 2 23104 1 1
+/listings/gala-hotel/ 1 22351 0 0
+/wp-json/pvc/v1/increase/13785 2 1499 0 0
+/wp-content/plugins/page-views-count/admin/assets/fonts/a3-plugin-framework.woff 7 5085 0 0
+/wp-json/pvc/v1/increase/19857 1 767 0 0
+/wp-admin/plugin-editor.php 10 358945 0 0
+/wp-includes/fonts/dashicons.eot 1 22765 1 1
+/listings/los-felices/ 4 46972 0 0
+/listings/santa-ana-1724-cordoba-ar-prottorta-provvianda/ 1 21693 0 0
+/listings/hotel-san-jorge/ 6 130649 0 0
+/wp-admin/comment.php 1 33921 0 0
+/emprendedores/ 4 72472 0 0
+/como-funciona/ 31 517798 0 3
+/wp-admin/admin.php 24 847339 0 0
+/listings/incutex/ 4 44286 0 0
+/listing-category/alojamientos/ 4 144325 1 1
+/blog/ 34 554694 2 3
+/listings/alka/ 3 43812 0 0
+/wp-json/pvc/v1/increase/16306 3 3297 0 0
+/listings/parana-hotel-plaza-jardin/ 3 46456 2 2
+/wp-json/pvc/v1/increase/16273 2 2224 0 0
+/wp-json/facetwp/v1/refresh 11 22866 0 0
+/wp-json/pvc/v1/increase/11735 1 779 0 0
+/wp-json/pvc/v1/increase/16303 2 2197 0 0
+/wp-content/plugins/woocommerce-predictive-search/admin/assets/fonts/a3-plugin-framework.woff 6 5085 0 0
+/wp-json/pvc/v1/increase/16285 1 1099 0 0
+/listing-category/restaurantes_comidas/ 22 399393 2 4
+/publicar-anuncio/ 1 18223 0 0
+/wp-content/plugins/comments-ratings/css/fonts/raty.woff 107 43464 0 3
+/wp-admin/options-permalink.php 5 160445 0 0
+/wp-json/pvc/v1/increase/19862 1 767 0 1
+/listings/piloto-origone-5523-casucu/ 1 25336 0 0
+/wp-json/pvc/v1/increase/16320 2 2198 0 0
+/listings/hotel-samka/ 1 21773 0 0
+/lugares-para-ir-a-comer-en-argentina-a-donde-comemos-hoy/ 4 58527 0 0
+/listings/apple-outlet/ 1 21321 0 0
+/listings/abitus-gimnasio/ 1 22318 0 0
+/listings/club-paraguay/ 1 24050 0 0
+/jm-ajax/get_listings/ 126 2260801 0 9
+/listings/niyat-urban-hotel-2/ 5 89923 0 0
+/wp-json/pvc/v1/increase/19779 2 2200 0 0
+/anunciar/ 59 1096710 5 6
+/google80a927503091d5f3.html 1 1965 0 0
+/wp-json/pvc/v1/increase/16203 1 777 0 0
+/listings/vivencias/ 1 21803 0 0
+/wp-json/pvc/v1/increase/14737 1 1099 0 0
+/listing-category/servicios/ 16 302582 0 1
+/wp-json/pvc/v1/increase/12446 2 1500 0 0
+/wp-admin/edit.php 96 4014219 0 0
+/listings/lp-hub/ 4 43792 0 0
+/listing-category/gimnasios/ 22 421937 1 2
+/wp-json/pvc/v1/increase/13867 3 2947 0 1
+END_SIDER

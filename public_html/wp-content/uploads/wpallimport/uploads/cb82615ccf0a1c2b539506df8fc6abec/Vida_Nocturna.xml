@@ -1,0 +1,3846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<nombre><![CDATA[Dicson Camote]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 269-5860]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Claret]]></barrio>
+		<direccin><![CDATA[Av. Recta Martinoli 5869X5021 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Carta de Vinos]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 570-7135]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Tablada Park]]></barrio>
+		<direccin><![CDATA[Emilio Pettoruti 2541X5009JDI Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Constantino Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 365-2354]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina brasileña]]></categoraterciaria>
+		<barrio><![CDATA[Villa Centenario]]></barrio>
+		<direccin><![CDATA[Rafael Nuñez 4865Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Pacifico Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cervecería]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Luis de Tejeda 4556X5009 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bar Hawai]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Nicolas Avellaneda 300X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Memphis Social Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Cnel. Pringles 383X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Blue Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 488-3491]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Comida rápida]]></categoraterciaria>
+		<barrio><![CDATA[Villa Cabrera]]></barrio>
+		<direccin><![CDATA[Av. Octavio Pinto 2756X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Club Fragueiro]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[Mariano Fragueiro 21995000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bizio]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Villa Belgrano]]></barrio>
+		<direccin><![CDATA[Carlos Federico Gauss 5711X5147 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cinéfilo Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 422-5525]]></telfono>
+		<categorasecundaria><![CDATA[Cines]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Bv. San Juan 1020X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Ocho Bis]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Donaciano del Campillo 2049X5009 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Las Rosas Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 328-2475]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pubs]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[José Roque Funes 1791Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Dos Onzas]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 688-4841]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Gral Manuel Belgrano 891X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Milk]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 664-3009]]></telfono>
+		<categorasecundaria><![CDATA[Lounges]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Coctelerías]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Laprida 139X5021KRC Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Dos en la Ciudad]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 343-3555]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina argentina]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Belgrano 769Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Raquelita]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 426-5717]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Panqueques]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Montevideo 56X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Vecindad]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 765-3480]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Independencia 488X5000IUJ Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Indie Club]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 518Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Baranoa Café]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 425-0032]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Avenida Colón 900X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Costanera Restobar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 712-8601]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Intendente Mestre 1635X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Skbio Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Independencia 420X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Café del 220]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Mendoza esquina Intendente MestreCórdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Santana Rock]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Duarte Quirós 18755009 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Biere]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 230-3925]]></telfono>
+		<categorasecundaria><![CDATA[Cervecerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[Antonio del Viso 811X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Wort]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Gastrobar]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cervecería]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Av. Fernando Fader 3997X5009ABU Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Martinika]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 620-1844]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Parrilla]]></categoraterciaria>
+		<barrio><![CDATA[Obrero]]></barrio>
+		<direccin><![CDATA[Duarte Quirós 1600X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Soho]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Urca]]></barrio>
+		<direccin><![CDATA[Av Ramón Menéndez Pidal 3985X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Plaza de la Música]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 426-2300]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[La Rioja 1150X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Clarkes Irish Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina irlandesa]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Santiago Derqui 225X5000GXE Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Cuadra]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 592-0812]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Av. Julio A. Roca 325X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Drinks]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 573-3828]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Licorería]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Luis de Tejeda 3970X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Macadam Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cofico]]></barrio>
+		<direccin><![CDATA[Boulevard Las Heras 2585000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Vinería Nuñez]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 481-7297]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Villa Cabrera]]></barrio>
+		<direccin><![CDATA[Octavio Pinto 3288X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bar Astro]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Cafetería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Avenida Colón 688X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Dominici Resto Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 480-6634]]></telfono>
+		<categorasecundaria><![CDATA[Bares de barrio]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Villa Cabrera]]></barrio>
+		<direccin><![CDATA[Avenida Emilio Caraffa 2495Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Barra Shanghai]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[011 5751-5690]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Ayacucho 5405000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Takkú]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares de barrio]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Nicolas Avellaneda 4815000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[The Rooftop]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 389-4431]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina española]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Gral Manuel Belgrano 731X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bar 12 PM]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[Justo j de urquiza 1600X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Locos Por La Cerveza]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Av. Marcelo T. de Alvear 575X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Good Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Claret]]></barrio>
+		<direccin><![CDATA[Av.Rafael Nuñez 51525000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Mae]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 394-1372]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[General Bustos]]></barrio>
+		<direccin><![CDATA[Carcano 5003X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Liquor]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4342-4490]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Claret]]></barrio>
+		<direccin><![CDATA[Av. Rafael Núñez 56915021 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Club Belle Epoque]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sala de conciertos y recitales]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Lima 373X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Johnny B. Good]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 420-5078]]></telfono>
+		<categorasecundaria><![CDATA[Cocina norteamericana]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Lounges]]></categoraterciaria>
+		<barrio><![CDATA[Alto Verde]]></barrio>
+		<direccin><![CDATA[José A. de Goyechea 2851X5009 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Heras Multiespacio]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cofico]]></barrio>
+		<direccin><![CDATA[Roque Saenz Peña 934X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[The Barbeer]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Barberías]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Av. Hipólito Yrigoyen 81X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Johnny B. Good]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 420-5078]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina norteamericana]]></categoraterciaria>
+		<barrio><![CDATA[Alto Verde]]></barrio>
+		<direccin><![CDATA[José de Goyechea 2851Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Tribeca]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 675-0258]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares de tapas]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Laprida 273X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Refugio Guernica]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cofico]]></barrio>
+		<direccin><![CDATA[Tillard 115Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Club Berlín]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 201-7363]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Chateau]]></barrio>
+		<direccin><![CDATA[Ramón Carcano5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Drink´s]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Tabaquerías]]></categoraterciaria>
+		<barrio><![CDATA[Argüello]]></barrio>
+		<direccin><![CDATA[Av. Recta Martinolli 6647X5147 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Dahaus]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 609-1414]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Chateau]]></barrio>
+		<direccin><![CDATA[av piamonte S/NX5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Anastasia]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 427-1903]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina argentina]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Av. 24 de Septiembre 1035Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Alfonsina Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 427-2847]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Gral Manuel Belgrano 763X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Vidon Rojo]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 264-1420]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[Cervantes 725X5001ARO Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Favela Para Habitar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 645-8362]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Achaval Rodriguez 267X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Teatro Cultural Cañada]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 542-2640]]></telfono>
+		<categorasecundaria><![CDATA[Ópera y ballet]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sala de conciertos y recitales]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 555X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Soñar, soñar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 391-2788]]></telfono>
+		<categorasecundaria><![CDATA[Bares de tapas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[Lavalleja 2095X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Urban Club]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pubs]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[Mariano Fragueiro 2222X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Leonor]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 244-5590]]></telfono>
+		<categorasecundaria><![CDATA[Artes escénicas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sala de conciertos y recitales]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Escuti 852X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Tío Jack]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 549-1502]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Obispo Trejo 439X5000IYI Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[América Profuma]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[San Luis 347X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Comedor Universitario]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 434-3200]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Gastrobar]]></categoraterciaria>
+		<barrio><![CDATA[Rogelio Martinez]]></barrio>
+		<direccin><![CDATA[Av. Juan Filloy S/NX5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Canario Negro]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 155X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Alicia en un Pais]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 276-0962]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 675X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Viejo Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Cocina argentina]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Vinotecas]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. Roque Sáenz Peña 1500Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Apartamento]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 460-0988]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Achával Rodríguez 365X5000BKG Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Luna India]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4342-1772]]></telfono>
+		<categorasecundaria><![CDATA[Restaurantes]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Café y té]]></categoraterciaria>
+		<barrio><![CDATA[Claret]]></barrio>
+		<direccin><![CDATA[Avenida Recta Martinoli 5882X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Tres Calaveras]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Hamburguesas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cervecería]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Bolivia 196Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Rayuela Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4145-3702]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[San Martín 845Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Holly Molly]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Restaurantes]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 521X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Höppers]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 424-5001]]></telfono>
+		<categorasecundaria><![CDATA[Bares de barrio]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cervecería]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Santa Rosa 916X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Tomate Uno]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 766-4968]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina argentina]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Obispo Trejo 1202X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Gala]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 243-1500]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Chateau]]></barrio>
+		<direccin><![CDATA[Ramon Carcano 7000X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Pétalos de sol]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 384X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Girgola]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 423-1519]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Independencia 604Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Pueblo Grande]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 74X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cuarto A]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 460-1853]]></telfono>
+		<categorasecundaria><![CDATA[Lounges]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Ituzaingó 10415000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Alfonsina]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 427-2847]]></telfono>
+		<categorasecundaria><![CDATA[Cocina argentina]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Av. Duarte Quirós 66X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Fuga]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Fructuoso Rivera 260X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Y Manolo??]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Avenida Marcelo T. de Alvear 600X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Joaquina Lounge]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 236-5988]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Lounges]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[José Baigorri 658X5001AJN Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Biela]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 472-8070]]></telfono>
+		<categorasecundaria><![CDATA[Bares de barrio]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Providencia, San Martin]]></barrio>
+		<direccin><![CDATA[12 de Octubre 11015000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Estancia]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Leopoldo Lugones 525000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Ángeles Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Blvd. San Juan 240X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Valentin Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 642-8319]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Marcelo T de Alvear 362X5000KGS Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Unplugged]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 203-8842]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Villa Centenario]]></barrio>
+		<direccin><![CDATA[Avenida Rafael Núñez 4914X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Brindisi]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 333-0940]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Belgrano 912X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Piano Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Kioskos]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Avenida Marcelo T. de Alvear 751X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Don’t Worry]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 208-4230]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Gral Manuel Belgrano 695X5000JQM Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Vidon Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 474-2328]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[Fragueiro 2185X5001GCI Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Tsunami Tango]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 313-8746]]></telfono>
+		<categorasecundaria><![CDATA[Artes escénicas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Laprida 453X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Peñón Cervecería]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Fábrica de cerveza]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Luis de Tejeda 4455X5009 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Vinoteca Fratelli]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 488-2582]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Obrero]]></barrio>
+		<direccin><![CDATA[Duarte Quirós 1696X5002AON Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Art Deco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 423-8526]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Humberto Primo 402X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Mercadito]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Coronel Pringles 132X5004 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Arequipa]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina argentina]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 121-139X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bonanza]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 424-9937]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 150X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[América Profunda]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 600X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Dalmacio 837]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Av. Vélez Sarsfield 837Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[The Temple Almacén de bebidas]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 531-3911]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Dean Funes 747X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[990 Arte Club]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 426-3098]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pubs]]></categoraterciaria>
+		<barrio><![CDATA[Cofico]]></barrio>
+		<direccin><![CDATA[Boulevard  Los Andes 337X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Shanti Lounge Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 328-0365]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pubs]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Rafael Nuñez 4019X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Hot Bird Drink & Fly]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 791-2223]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Ituzaingo 528Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Influencias Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 357-1700]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Ayacucho 340X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Catre Diem]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 438-0632]]></telfono>
+		<categorasecundaria><![CDATA[Centro cultural]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sala de conciertos y recitales]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 575X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Buen Dios Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Avenida Marcelo T. de Alvear 1084X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Rincón del Baco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 233-4938]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Villa Belgrano]]></barrio>
+		<direccin><![CDATA[Recta Martinoli 7636X5021HYZ Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Jerónimo Brew Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 518-0354]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 551X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Terco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Jazz y Blues]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pubs]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 500X5000KGU Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Saint Andrews]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 425-5325]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 150X5000AVD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Blue Max]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 514-5030]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Av. Rafael Nuñez 3772Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Amparo]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 421-7346]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Arturo M. Bas 126X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Giant Center]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[+1-351-427-0664]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Fitness y clases]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[25 de mayo 961Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Tommy Gun]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 421-8725]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 145X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Planta Alta Clarke’s Whiskey Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares de whiskey]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Santiago Derqui 225X5000GXE Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[OCHRE]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Luis de Tejeda 4605X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[The Tech Pub]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 589-7070]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Av. Vélez Sársfield 576X5000CCD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Doña Ernesta]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 411-8666]]></telfono>
+		<categorasecundaria><![CDATA[Pizzería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Alto Alberdi]]></barrio>
+		<direccin><![CDATA[Av. Duarte Quiros 26105003 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[The Temple Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Hamburguesas]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Achával Rodríguez 249X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Be Beer]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 376X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Hotel]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 313-3284]]></telfono>
+		<categorasecundaria><![CDATA[Gastrobar]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Coctelerías]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Independencia 1021X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Garbo]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 10675000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Los 7 locos Arte Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 686-5797]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Achával Rodríguez 371X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Parada Güemes]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 426-4017]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Comida rápida]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[San Luis 285X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Sitio]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 424-1656]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Caceres de Allende 484X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Maria Juana]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 711-5827]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Empanadas]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Av. Marcelo T. de Alvear 481X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[María María]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 403-5599]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Av. Marcelo T. de Alvear 481X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Peñón Cervecería]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Belgrano 902X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Antares]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 482-1680]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares de tapas]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Av. Rafael Núñez 4225Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Beer Joint Güemes]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Achával Rodríguez 180X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Jameson]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Avenida Marcelo T. de Alvear 370Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Teatro Griego]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Rogelio Martinez]]></barrio>
+		<direccin><![CDATA[Av Deodoro Roca S/NX5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Luzbelito Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 489X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Justino]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 422-4130]]></telfono>
+		<categorasecundaria><![CDATA[Cafetería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Coctelerías]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Av. Duarte Quirós 636Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Club Olmos]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Avenida Vélez Sárfield 400X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Último Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 360X5000ATD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Romalda Multiespacio]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 222-8970]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[Parque Capital]]></barrio>
+		<direccin><![CDATA[Av. Fuerza Aérea Argentina 1829Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Maracuyá Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 481-0807]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Villa Centenario]]></barrio>
+		<direccin><![CDATA[Ávila y Zárate 2138X5009 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Tradicional Amigos Club]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 451-1106]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Gral. Juan José Viamonte 149X5004 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Capitán]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 208-4204]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares de tapas]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Achával Rodriguez 244X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Bar de la Ciudad]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares de barrio]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Oncativo 50X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Café de la  y Cava]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 471-6195]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Bedoya 393X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Edwards Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares de barrio]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Kioskos]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[La Rioja 1451Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Blacksheep]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 203-8827]]></telfono>
+		<categorasecundaria><![CDATA[Lounges]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Discotecas]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Avenida  Hipólito Yrigoyen 325X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Morango Disco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[Fragueiro 1777X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Kambaku African Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 551-5577]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Ituzaingo 652X5000IJN Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[The Journey]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 460-2803]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Laprida 295X5021 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Club Buenos Aires]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 239-7566]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 5435000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Captain Blue XL]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 425-7150]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cofico]]></barrio>
+		<direccin><![CDATA[Boulevard Las Heras 124X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Ramirez Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 58X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Lobo Suelto]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 392-0752]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 420X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Reparata]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Sarmiento 1100Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Jamaica Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Montevideo 350X5000AXB Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Esquinita]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 468-2733]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares de tapas]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Gral. Manuel Belgrano S/NCórdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Las Tipas]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 50X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Johnny B. Good]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 424-3960]]></telfono>
+		<categorasecundaria><![CDATA[Cocina norteamericana]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Coctelerías]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Av. Hipolito Yrigoyen 320X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Dadá Mini Tienda bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 389-7983]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Achával Rodríguez 2505000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Fernet Club]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Jacinto Ríos 126X5004ASD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Capital One]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares de barrio]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Humberto Primo 649X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Quedate Muzza]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 481-3594]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Manuel Pizzaro 2088X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Molly Bloom]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[José Manuel Estrada 80Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Bici del Ángel]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 428-3477]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Centro cultural]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Gral Manuel Belgrano 118X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Aura Bar & Clubbing]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Discotecas]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 899Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Quema Pizza Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 228X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Vinoteca la Recta]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4344-0575]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Villa Belgrano]]></barrio>
+		<direccin><![CDATA[Av Recta Martinoli 8255X5147 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Rústica]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cofico]]></barrio>
+		<direccin><![CDATA[Gral Liniers 82X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Reginaldo RestoBar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 428-4239]]></telfono>
+		<categorasecundaria><![CDATA[Cocina argentina]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[General Manuel Belgrano 676Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bar El Pelado]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Cafetería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Salas de billares]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[Jeronimo Luis de Cabrera 548X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Kiui]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 323-1443]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Fructuoso Rivera 2605000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Plaza Güemes]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Marcelo T. De Alvear 665X5000BFD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Barra Boliche]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 290-4791]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Lima 152X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Relax]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 428-1047]]></telfono>
+		<categorasecundaria><![CDATA[Cafetería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares de barrio]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Dean Funes 91X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Rincón Nuestro]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 481-0888]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Roque Ferreyra 1195, Córdoba5009 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[The Temple Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[011 4831-5430]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Achával Rodríguez 241X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[KU]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 365X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Monumental Sargento Cabral]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[San Vicente]]></barrio>
+		<direccin><![CDATA[Sargento Cabral 1700X5000BFD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Vinicius]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Museos]]></categoraterciaria>
+		<barrio><![CDATA[Argüello]]></barrio>
+		<direccin><![CDATA[Ricardo Rojas 7395X5147 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Rincón Nuestro]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 482-1762]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares de tapas]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Luis de Tejeda 4531X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Vinoteca Don Ciriaco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 451-6429]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Viamonte 300 esq Lima5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Pungo Urbano]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 650-9267]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[Claret]]></barrio>
+		<direccin><![CDATA[Av. Rafael Núñez 5050Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[General Bar and Beer]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 425-7805]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares de tapas]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Lima 917X5004 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Morrison]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 348X5000KGS Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Loca Ella]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 668-7683]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Discotecas]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Figueroa Alcorta 376X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[De Botanas]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina mexicana]]></categoraterciaria>
+		<barrio><![CDATA[Quebrada de las Rosas]]></barrio>
+		<direccin><![CDATA[Avenida Colón 6200Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Gabbana]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Larrañaga 150Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Francis]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 422-7729]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[9 de Julio 685X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Club R]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Julio A. Roca 457X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Macacha Güemes]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 557-8967]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares de tapas]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Belgrano 745Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Touch And Go]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Boulevard San Juan 13X5000ATA Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Lo De Villalpando]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 465-8298]]></telfono>
+		<categorasecundaria><![CDATA[Cocina latinoamericana]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Vinotecas]]></categoraterciaria>
+		<barrio><![CDATA[Parque Capital]]></barrio>
+		<direccin><![CDATA[Av. Fuerza Aérea 1715Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Rústica Resto Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Yrigoyen 290X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Estadio del Centro]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Santa Fe 500X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Lpr Drugstore]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Int. Ramn B. Mestre 900-960Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Jamais Vu Arte Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 514-3850]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Av. Marcelo T. de Alvear 690X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Okupas]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 230-0629]]></telfono>
+		<categorasecundaria><![CDATA[Restaurantes]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Gral Manuel Belgrano 640X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Bufé Plaza Alem]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 424-2084]]></telfono>
+		<categorasecundaria><![CDATA[Bares de barrio]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bodegón]]></categoraterciaria>
+		<barrio><![CDATA[Pueyrredon]]></barrio>
+		<direccin><![CDATA[Cnel. Pringles 1420X5004 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Margarita Multiespacio]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Providencia]]></barrio>
+		<direccin><![CDATA[Intendente Mestre 1000X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Teatro Real]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Ópera y ballet]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Artes escénicas]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[San Jerónimo 66X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Fontaine Bar Cultural]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cultura y espectáculos]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 600X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cocina de Culturas]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 486-2689]]></telfono>
+		<categorasecundaria><![CDATA[Centro cultural]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sala de conciertos y recitales]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Julio A. Roca 491X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bavaro Mercader]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Ayacucho 163X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Ochava]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 460-6036]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Achaval Rodriguez 381X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Georgia Brown]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 688-4841]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 370C5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Bar de José]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 609-9852]]></telfono>
+		<categorasecundaria><![CDATA[Cafetería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sándwiches]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Arturo M Bas 272X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bar 24 Hs]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Kioskos]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Bv San Juan 441X5000ATD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Divina Boliche]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 754-9171]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[San Lorenzo 4255000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Infama]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 521X5000IMK Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Pick n´ go]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Kioskos]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Parque Tablada]]></barrio>
+		<direccin><![CDATA[Emilio Lamarca 29285009 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Estacion Victorino]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 422-6354]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Av Rafael Núñez 4005X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Bodeguita de Güemes]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Viñedos y bodegas]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Gral. Manuel Belgrano 1003X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Wachitas Bar Rock Nacional]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 606-0765]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 176X5000AVD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Il Noninno]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 460-0901]]></telfono>
+		<categorasecundaria><![CDATA[Pizzería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina italiana]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[José Manuel Estrada 52X5000BQB Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Classic´s]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 468-5301]]></telfono>
+		<categorasecundaria><![CDATA[Bares de barrio]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Ambrosio Olmos 5945000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Av. Colón 231X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Inocencio]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Restaurantes]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Vida nocturna]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Córdoba 7505220 Jesús María, Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Moddo Big Songs]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 965000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[O’Connors Irish Pub]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 421-2751]]></telfono>
+		<categorasecundaria><![CDATA[Cocina irlandesa]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Ituzaingó 567X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Unico]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 6250-4758]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[San Martin 309B1702 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Club Paraguay]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 806-5875]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cofico]]></barrio>
+		<direccin><![CDATA[Blvd. Los Andes 99X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Zen Disco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Observatorio]]></barrio>
+		<direccin><![CDATA[Avenida Julio A. Roca 7305000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Sala de las Américas]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Galerías de arte]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Centro cultural]]></categoraterciaria>
+		<barrio><![CDATA[Rogelio Martinez]]></barrio>
+		<direccin><![CDATA[Haya de la Torre 200X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Genius]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Cafetería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Duarte Quiros 800Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Buenos Aires bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 520X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Empanadería La Alameda]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Cocina argentina]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Obispo Trejo 170X5000IYD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Zombi’s Rock Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 698-1212]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Salta 350X5000BFD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Il Grego Resto Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Cafetería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Caseros 679Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Johnny B. Good]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 467-2417]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina norteamericana]]></categoraterciaria>
+		<barrio><![CDATA[Jardin Espinosa]]></barrio>
+		<direccin><![CDATA[Avenida Pablo Ricchieri 3299X5014OPQ Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Minns]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes, Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Vélez Sasfield 753X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Ganesha]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 264-8555]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Discotecas]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Laprida 175X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Inti Resto-Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[27 de Abril 306X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[RondaMora]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 328-6681]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[David Luque 2X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Africa Deck]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Discotecas]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Larrañaga 67X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bar Victoria]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 425-5882]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Av. Duarte Quirós 6515000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Peñon del Aguila]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Independencia 847X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Winchester]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 422-7743]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 868Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Champions]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 464-5576]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Jardin]]></barrio>
+		<direccin><![CDATA[Avenida Talleres 718X5016BPN Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[X-Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 517-6154]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 362X5000KGS Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Heras MS]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cofico]]></barrio>
+		<direccin><![CDATA[Av Roque Sáenz Pena 934Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Rivadavia Disco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[Fragueiro 2048X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Abasto 44]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sala de conciertos y recitales]]></categoraterciaria>
+		<barrio><![CDATA[Cofico]]></barrio>
+		<direccin><![CDATA[Boulevard Las Heras 44X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Ingloo]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Clubes de comedia]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[Jujuy 26025000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Osa Disco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Derqui 185000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Don Mario]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 480X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Happy happy Hostel]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 460-3325]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Posada]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Independencia 1077X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Palacio Alsina]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Chateau]]></barrio>
+		<direccin><![CDATA[Ramón Cárcano 1100Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[San Pietro]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 712-3128]]></telfono>
+		<categorasecundaria><![CDATA[Pizzería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina italiana]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Gral Juan José Viamonte 45X5004 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Rosen]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Discotecas]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Independencia 540X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Maui Surf Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Pueyrredon 129X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[The 27s Club]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 334-8301]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Av. Marcelo T. de Alvear 376X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Five]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 59X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Centro Cultural Manuel de Falla]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 433-2486]]></telfono>
+		<categorasecundaria><![CDATA[Centro cultural]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sala de conciertos y recitales]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Carlos Thays 1075Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Un Lugar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[Santa Fe 2202X5000BFD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[White Sheep]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 203-8827]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Hipolito Yrigoyen 325X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Ángeles]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 411-5316]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[San Juan Bv. 240X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cruz]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 342-8728]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Chateau]]></barrio>
+		<direccin><![CDATA[Ramón Cárcano 3965000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Nuevo Palo]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Obispo Oro 650Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Nuvvia]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Discotecas]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Larrañaga 80X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Villa Elvira]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Chamico 90005001 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Dicaprio]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 422-9415]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[General Alvear 40X5021 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Paradojas Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 468-3666]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Achával Rodríguez 272X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Peña de Cuti y Roberto Carabajal]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Vida nocturna]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Ruta 38, kilómetro 205155 Tablada]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[A Pleno Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 248-9520]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 1805000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Ninkasi]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 750-1591]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Mariano Fragueiro 115000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Don´t Worry Surf Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Claret]]></barrio>
+		<direccin><![CDATA[Av. Rafael Nuñez 5824X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Distrikt]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 668-9156]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Jose Manuel Estrada 142X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Billy Beer]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 208-9186]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina norteamericana]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Dr. T. Achával Rodríguez 2445000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Monoambiente]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 235-2810]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 228X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Faustino]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 423-0499]]></telfono>
+		<categorasecundaria><![CDATA[Cocina argentina]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Vinotecas]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Av. Hipólito Yrigoyen 349X5000JHD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Pulse]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 311-3525]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Laprida 175X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[LRA 7 Radio Nacional Córdoba]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Estaciones de radio]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sala de conciertos y recitales]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Santa Rosa 241X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Kantine]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 534-9457]]></telfono>
+		<categorasecundaria><![CDATA[Bares deportivos]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Delicatessen]]></categoraterciaria>
+		<barrio><![CDATA[Jardin Espinosa]]></barrio>
+		<direccin><![CDATA[Argañaraz y Murguía 3282Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Mazunte]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 687-7752]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 502X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Wunderbar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 647-3393]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Gral Belgrano 873X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Espacio Tejeda]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 521-6671]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina argentina]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Luis de tejeda s/n5142 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cuatro Catorce]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 340-8402]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Café Sports]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 446-7900]]></telfono>
+		<categorasecundaria><![CDATA[Bares deportivos]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[General Bustos]]></barrio>
+		<direccin><![CDATA[Av. Colon y Carcano5003 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Barrica]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[San Lorenzo 4415000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Casa Babylon]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Cofico]]></barrio>
+		<direccin><![CDATA[Boulevard Las Heras 48X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cuernavaca]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 652-6280]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Discotecas]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Boulevard Illia 34X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cayó Makenssy]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 309-0532]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pubs]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Independencia 1051X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Peña el Aljibe]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 676-6232]]></telfono>
+		<categorasecundaria><![CDATA[Centro cultural]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sala de conciertos y recitales]]></categoraterciaria>
+		<barrio><![CDATA[San Fernando]]></barrio>
+		<direccin><![CDATA[Avenida Ciudad de Valparaíso 3315Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Maktub Multiespacio]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 591-8998]]></telfono>
+		<categorasecundaria><![CDATA[Karaoke]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina árabe]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Ovidio Lagos 500X5004ACJ Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Boulebar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 317-3123]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Blvd. San Juan 322X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Vecindario]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 460-4893]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Centro cultural]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Marceto T. de Alvear 835X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cheers Beer and Food]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 460-0163]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Obispo Salguero  577X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Ohana]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 653-5179]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Félix Frías 344X5004 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Modo Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 90Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Resto Bar 300]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina argentina]]></categoraterciaria>
+		<barrio><![CDATA[Villa Belgrano]]></barrio>
+		<direccin><![CDATA[Av. Recta Martinoli 8500X5021 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Leparcguemes]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0358 15 506-2947]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Av. Vélez Sárfield 753X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Dorian Gray Club]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 620-5025]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cofico]]></barrio>
+		<direccin><![CDATA[Bv. Las Heras 150X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Fruta]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 250-0529]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina vegana]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. Rafael Nuñez 46145009 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Preston Güemes]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 2546-6264]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina argentina]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Fructuoso Rivera 262X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Aula Magna Ciencias Exactas]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Universidades e institutos]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Centro cultural]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Av. Vélez Sarsfield 299X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Consecuencia]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Ituzaingo 5215000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Feta Club Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Av. Figueroa Alcorta 95Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[UK Disco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 756-6047]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Independencia 585X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[VICENTE Hostel Cervecero]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Av. Ambrosio Olmos 600X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cruz Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 521X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Studio Theater]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 702-6560]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sala de conciertos y recitales]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Rosario de Santa Fe 272X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Ruta 40]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 225000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Doc Vinos y Cocina]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 460-8012]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina de autor]]></categoraterciaria>
+		<barrio><![CDATA[Rogelio Martinez]]></barrio>
+		<direccin><![CDATA[Av. Concepción Arenal 1018X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Desafinado]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Pasaje Revol 300X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Jetlag]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 635-9611]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Av. Ambrosio Olmos 536X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Sol]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[San Lorenzo 170X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Auditorio EPEC]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[La Tablada 300-398Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Beep]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bar gay]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Antonio Jose Sucre 173X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Patrón]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 451-5939]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cervecería]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Coronel Juan P. Pringles 185X5004 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bartó]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Marcelo T. Alvear 635X5000JQH Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Popular]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 429-0548]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Juniors]]></barrio>
+		<direccin><![CDATA[León Morra 40X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cuba Inc]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 688-7743]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 595X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bon Q’ Bon]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Emilio Olmos 314X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bela Lugosi]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 634-9798]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[General Manuel Belgrano 1008X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Legendario]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pubs]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Ituzaingó 1015X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Clap!]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 676-3950]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Cerro de las Rosas]]></barrio>
+		<direccin><![CDATA[Av. Rafael Núñez 39365009 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Razz Disco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 695-7963]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alta Córdoba]]></barrio>
+		<direccin><![CDATA[Sarachaga 772X5001AMP Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[BoBó]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 427-2831]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[La Rioja 237X5022 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Aqua Disco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 767-5874]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Larrañaga 52X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Clandestino Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. Goyecoechea 6125105 Villa Allende]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Boro]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 305-8440]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Delicatessen]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Félix Frías 134X5004 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Piazza Costello]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 125-1856]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Dean Funes 252X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Ruffino Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 766-5436]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares de tapas]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Rafael Nuñez 4684Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Polser]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Panchos]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cervecería]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Fructuoso Rivera 164X5000BOD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Buen Dios Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Vida nocturna]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[MARCELO T. DE ALVEAR 10845000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Hambúrguer]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Hamburguesas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cervecería]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Fructuoso Rivera 260Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Jerome]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 518-0354]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Av. Marcelo T de Alvear 545X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Deliwood]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 203-3711]]></telfono>
+		<categorasecundaria><![CDATA[Sándwiches]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Vinotecas]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Obispo Salguero 750X5000IAP Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Mundo Vino]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0341 493-7255]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Delicatessen]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Córdoba 18202132 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Casa Chabacana]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 712-4760]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina italiana]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Fructuoso Rivera 243X5000 Cordoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Sr. Espacio]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 422-3416]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Ayacucho 540X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Club del Fernet]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Jazz y Blues]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pubs]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Santiago Derqui 100Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Club Buenos Aires]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 543X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Kais Coffee & Drinks]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[San Martín 871Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Wallas]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 687-8834]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Independencia 1076X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Basement Club]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 757-1847]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 864Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Las Rosas Nightlife]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 622-3211]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Ricardo Rojas 10500Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Previa]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sala de conciertos y recitales]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Bv. Chacabuco 554X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Vizenzio Café & Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares de barrio]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Café y té]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Avenida Vélez Sarsfield 140-152X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bosco Club]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0358 506-2947]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Av. Ambrosio Olmos 530X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Loica Resto]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4340-0040]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina argentina]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Molino de Torres 697Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Antares Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 424-5785]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[San Lorenzo 79X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Get Me]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 515-1374]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Discotecas]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Independencia 1080X5000BFD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Pueblo Santo Restobar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 522-0160]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina mediterránea]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Av. 24 de Septiembre 946X5004 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cruz Espacio]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 481-5146]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Locales para eventos]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Avenida Carcano 120X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Sabores del Quijote]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 422-6354]]></telfono>
+		<categorasecundaria><![CDATA[Cafetería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Avenida Vélez Sársfield 21X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Hipolyto]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Discotecas]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Yrigoyen 419X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[KLIX]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Cocina vegetariana]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Gral. Manuel Belgrano 8595000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Tresco Macua]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 545-8440]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sala de conciertos y recitales]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Fructuoso Rivera 245X5000BOE Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Nikky]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Hipolito Yrigoyen 282X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Estación Güemes]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 230-0629]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pubs]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 647X5000BFD Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[F & V]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 341-1573]]></telfono>
+		<categorasecundaria><![CDATA[Pizzería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Sándwiches]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Rondeau 45X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Pirca]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4342-8892]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Desayuno y brunch]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Los Alamos 9155000 La Union]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Te Regalo la Muzza]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 662-2106]]></telfono>
+		<categorasecundaria><![CDATA[Karaoke]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av Donato Alvarez 9899Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Felicia Ring]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Larrañaga 67Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Milo Lockett]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Hamburguesas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Achával Rodríguez 235X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Simón Dice Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Independencia 488X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Los Infernales de Güemes]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Gral Manuel Belgrano 631X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Vuela el pez]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Panamericano]]></barrio>
+		<direccin><![CDATA[Avenida Córdoba 4379C1414BGQ Capital Federal]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La La Lá Acoustic Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 206-3644]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pubs]]></categoraterciaria>
+		<barrio><![CDATA[Velez Sarsfield]]></barrio>
+		<direccin><![CDATA[Marcelo T. de Alvear 837X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Guenat’s Beer House]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 518-0354]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Av. Marcelo T. de Alvear 545X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Lirico Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Bella Vista]]></barrio>
+		<direccin><![CDATA[Av. Marcelo T. de Alvear 400Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cactus]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 660-5747]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[José Luis de Tejeda 3961X5000 Villa Allende]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Drink’s Dealers]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 539-0163]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Río de Janeiro 245C1405 Buenos Aires]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Marco Polo Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 239-3391]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Villa Belgrano]]></barrio>
+		<direccin><![CDATA[Recta Martinoli 8761X5021 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Cova del Drac]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 469-9505]]></telfono>
+		<categorasecundaria><![CDATA[Coctelerías]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Gral. Manuel Belgrano 896X5000JQR Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Emmbasy]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Vida nocturna]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Buenos Aires 8645000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Nexo Radio Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 201-6457]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Río de Janeiro 2815105 Villa Allende]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Club M]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Roque S. Peña esq. San Martin5940 Las Varillas, Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cassual Coffe - Dino Ruta 20]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Parque Capital]]></barrio>
+		<direccin><![CDATA[Av Fuerza Aérea 17705000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[The Wall Resto Pub]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Cafetería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pubs]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[25 de Mayo 1199X5004 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Tarrazú]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Avenida Padre LuchesseVilla Allende]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Rata]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[San Vicente]]></barrio>
+		<direccin><![CDATA[Agustín Garzón 1721Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Saint Cugat Vinoteca]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[General Paz]]></barrio>
+		<direccin><![CDATA[Avenida 24 de septiembre 10265000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Pase Propiedad Privada]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 423-7274]]></telfono>
+		<categorasecundaria><![CDATA[Lounges]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Alberdi]]></barrio>
+		<direccin><![CDATA[Arturo M. Bas 136X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Lo de Roque]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 403-2518]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Gral Manuel Belgrano 589X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Café Oviedo]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. Goycoechea 491X5105 Villa Allende]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Club Allende]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 510-2439]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. Sáenz Peña 1305105 Villa Allende]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Mariachi Villa Allende]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina vegetariana]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Roque Saenz Peña 400Villa Allende]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Chic “Nostre Club”]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Obispo Trejo 8795000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Hipo Bar Galería de Arte]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 385-5431]]></telfono>
+		<categorasecundaria><![CDATA[Galerías de arte]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Belgrano 1023X5000JQU Córdoba Capital]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cristóbal]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 242-4423]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Nueva Córdoba]]></barrio>
+		<direccin><![CDATA[Av. Poeta Lugones 525000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Morocha]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Centro]]></barrio>
+		<direccin><![CDATA[Av. Maipú 100Godoy Cruz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[El Mentidero de Güemes]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 364-6355]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[Güemes]]></barrio>
+		<direccin><![CDATA[Fructuoso Rivera 260X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Zebra club]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4143-5479]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Bernardo D elia 1505152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Divi]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 542-6596]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Avenida carcano 6500X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bar Plaza]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares de barrio]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Centros recreativos]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[San Martín 1500X5109 Unquillo]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Romero RestoBar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4343-3234]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Santiago Derqui 105X5105JAC Villa Allende]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La Cantina de Papaíto]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Avenida San Martín 1947X5109 Unquillo]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[628 Bar & Deli]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Calle Rodolfo Reyna S/NCórdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cosquín Rock]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Aeroclub de Santa María de Punilla5164 Santa Maria de Punilla]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Palo Santo]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4143-7246]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. Libertad 195X5000 Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Rio Living Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4358-9005]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. San Martín 44495111 Río Ceballos]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Café Central]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4348-8999]]></telfono>
+		<categorasecundaria><![CDATA[Cafetería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Bares de barrio]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av San Martín 2184X5109ABF Unquillo]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Jazz Local]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Jazz y Blues]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Gral Belgrano 13605109 Unquillo]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Barbol]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4857-4190]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Karaoke]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Meirovich 245172 La Falda]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Teatro Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4142-6191]]></telfono>
+		<categorasecundaria><![CDATA[Sala de conciertos y recitales]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Las Heras 92Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Marco Polo]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4842-2075]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Gastrobar]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. Edén 3285172 La Falda]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Dante Amaranto]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Centro cultural]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Jazz y Blues]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. San Martín 1850X5109 Unquillo]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Johnny B. Good]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4143-2521]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina norteamericana]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Avenida Libertad 211X5147 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[La pulperia]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4143-5590]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Arturo Illia 6755152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Mytos Pool Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4358-0372]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Avenida San Martin 4850X5111 Río Ceballos]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Punto Alvear]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4142-6404]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Discotecas]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Alvear Esquina Alberdi5152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Rock and Food]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Quisquisacate 225X5000 Río Ceballos]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Kahalama Disco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. Estrada 1135152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cata Vinoteca]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Vinotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Vélez Sarsfield 225152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Secretos de gustos]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 556-8082]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cocina argentina]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. Argentina 276Villa Icho Cruz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Espacio Luxor]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4143-8133]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Roque Saenz Peña y Seneca5152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bartolomeo]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. San Martín 4450C1417 Buenos Aires]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Molino Rojo]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[9 de Julio 6235152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Club Dub]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Uruguay 4785152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Las Rosas Summer Nightlife]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. Colectora5152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Mozart]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4158-6269]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Libertad 575152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Punta Hidalgo Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4142-3914]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Palacios Hidalgo 1X5152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cuzco Chico]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. San Martín S/NPunilla]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Bar de la Montaña]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Bares de barrio]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Ruta Provincial E55 1902Córdoba]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Urbano Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4133-4854]]></telfono>
+		<categorasecundaria><![CDATA[Pubs]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. Uruguay 639Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Keops Disco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4143-8133]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Roque Saenz Peña y Seneca5152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Khalama Disco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4142-2494]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Estrada 1135152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Leyendas Bar]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4742-9086]]></telfono>
+		<categorasecundaria><![CDATA[Cocina argentina]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Bv. Carlos Pellegrini 7975186 Alta Gracia]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Güllich]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4152-9214]]></telfono>
+		<categorasecundaria><![CDATA[Cervecería]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Resistencia 40X5152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Green Paradise Disco]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4142-3007]]></telfono>
+		<categorasecundaria><![CDATA[Discotecas]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. General Paz 2805152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Waxy O’Connors]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[]]></telfono>
+		<categorasecundaria><![CDATA[Pub irlandés]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Buenos Aires 230Alta Gracia]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Cerveceria Lihue]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4155-6170]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Calle 85166 Cosquín]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Llamalo Como Quieras Irish Pub]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[0351 15 734-2714]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Leandro N Alem 205152 Villa Carlos Paz]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Lucky 77]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[035 4149-8054]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Pizzería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. San Martín 8Tanti]]></direccin>
+	</node>
+	<node>
+		<nombre><![CDATA[Mary Jane]]></nombre>
+		<categora><![CDATA[Noche]]></categora>
+		<telfono><![CDATA[03525 53-8346]]></telfono>
+		<categorasecundaria><![CDATA[Bares]]></categorasecundaria>
+		<categoraterciaria><![CDATA[Cafetería]]></categoraterciaria>
+		<barrio><![CDATA[]]></barrio>
+		<direccin><![CDATA[Av. Patria 490X5172GGJ La Falda]]></direccin>
+	</node>
+</data>

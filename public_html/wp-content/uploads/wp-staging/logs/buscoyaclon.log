@@ -1,0 +1,346 @@
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_alm
+[INFO]-[2018/09/13 04:23:23] DB Copy: wp_alm as wpstg0_alm from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_apsl_users_social_profile_details
+[INFO]-[2018/09/13 04:23:23] DB Copy: wp_apsl_users_social_profile_details as wpstg0_apsl_users_social_profile_details from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_activity
+[INFO]-[2018/09/13 04:23:23] DB Copy: wp_bp_activity as wpstg0_bp_activity from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_activity_meta
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_notifications
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_notifications_meta
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_xprofile_data
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_xprofile_fields
+[INFO]-[2018/09/13 04:23:23] DB Copy: wp_bp_xprofile_fields as wpstg0_bp_xprofile_fields from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_xprofile_groups
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_bp_xprofile_groups as wpstg0_bp_xprofile_groups from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_bp_xprofile_meta
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_cfs_sessions
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_cfs_values
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_commentmeta as wpstg0_commentmeta from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_comments
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_comments as wpstg0_comments from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_et_bloom_stats
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_et_bloom_stats as wpstg0_et_bloom_stats from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_facetwp_index
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_facetwp_index as wpstg0_facetwp_index from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_geot_countries
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_geot_countries as wpstg0_geot_countries from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_job_manager_bookmarks
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_job_manager_bookmarks as wpstg0_job_manager_bookmarks from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_links
+[INFO]-[2018/09/13 04:23:25] DB Copy: Creating table wpstg0_opanda_leads
+[INFO]-[2018/09/13 04:23:25] DB Copy: Creating table wpstg0_opanda_leads_fields
+[INFO]-[2018/09/13 04:23:25] DB Copy: Creating table wpstg0_opanda_stats_v2
+[INFO]-[2018/09/13 04:23:25] DB Copy: wp_opanda_stats_v2 as wpstg0_opanda_stats_v2 from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:25] DB Copy: Creating table wpstg0_options
+[INFO]-[2018/09/13 04:23:25] DB Copy: wp_options as wpstg0_options from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_alm
+[INFO]-[2018/09/13 04:23:23] DB Copy: wp_alm as wpstg0_alm from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_apsl_users_social_profile_details
+[INFO]-[2018/09/13 04:23:23] DB Copy: wp_apsl_users_social_profile_details as wpstg0_apsl_users_social_profile_details from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_activity
+[INFO]-[2018/09/13 04:23:23] DB Copy: wp_bp_activity as wpstg0_bp_activity from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_activity_meta
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_notifications
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_notifications_meta
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_xprofile_data
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_xprofile_fields
+[INFO]-[2018/09/13 04:23:23] DB Copy: wp_bp_xprofile_fields as wpstg0_bp_xprofile_fields from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:23] DB Copy: Creating table wpstg0_bp_xprofile_groups
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_bp_xprofile_groups as wpstg0_bp_xprofile_groups from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_bp_xprofile_meta
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_cfs_sessions
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_cfs_values
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_commentmeta as wpstg0_commentmeta from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_comments
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_comments as wpstg0_comments from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_et_bloom_stats
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_et_bloom_stats as wpstg0_et_bloom_stats from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_facetwp_index
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_facetwp_index as wpstg0_facetwp_index from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_geot_countries
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_geot_countries as wpstg0_geot_countries from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_job_manager_bookmarks
+[INFO]-[2018/09/13 04:23:24] DB Copy: wp_job_manager_bookmarks as wpstg0_job_manager_bookmarks from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:24] DB Copy: Creating table wpstg0_links
+[INFO]-[2018/09/13 04:23:25] DB Copy: Creating table wpstg0_opanda_leads
+[INFO]-[2018/09/13 04:23:25] DB Copy: Creating table wpstg0_opanda_leads_fields
+[INFO]-[2018/09/13 04:23:25] DB Copy: Creating table wpstg0_opanda_stats_v2
+[INFO]-[2018/09/13 04:23:25] DB Copy: wp_opanda_stats_v2 as wpstg0_opanda_stats_v2 from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:25] DB Copy: Creating table wpstg0_options
+[INFO]-[2018/09/13 04:23:25] DB Copy: wp_options as wpstg0_options from 0 to 5000 records
+[INFO]-[2018/09/13 04:23:47] DB Copy: wp_options as wpstg0_options from 5000 to 10000 records
+[INFO]-[2018/09/13 04:23:47] DB Copy: wp_options as wpstg0_options from 5000 to 10000 records
+[INFO]-[2018/09/13 04:24:22] DB Copy: wp_options as wpstg0_options from 10000 to 15000 records
+[INFO]-[2018/09/13 04:24:22] DB Copy: wp_options as wpstg0_options from 10000 to 15000 records
+[INFO]-[2018/09/13 04:24:50] DB Copy: wp_options as wpstg0_options from 15000 to 20000 records
+[INFO]-[2018/09/13 04:24:50] DB Copy: wp_options as wpstg0_options from 15000 to 20000 records
+[INFO]-[2018/09/13 04:25:32] DB Copy: wp_options as wpstg0_options from 20000 to 25000 records
+[INFO]-[2018/09/13 04:25:35] DB Copy: Creating table wpstg0_pmxi_files
+[INFO]-[2018/09/13 04:25:36] DB Copy: wp_pmxi_files as wpstg0_pmxi_files from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:36] DB Copy: Creating table wpstg0_pmxi_history
+[INFO]-[2018/09/13 04:25:36] DB Copy: wp_pmxi_history as wpstg0_pmxi_history from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:36] DB Copy: Creating table wpstg0_pmxi_imports
+[INFO]-[2018/09/13 04:25:36] DB Copy: wp_pmxi_imports as wpstg0_pmxi_imports from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:36] DB Copy: Creating table wpstg0_pmxi_posts
+[INFO]-[2018/09/13 04:25:36] DB Copy: wp_pmxi_posts as wpstg0_pmxi_posts from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:37] DB Copy: Creating table wpstg0_pmxi_templates
+[INFO]-[2018/09/13 04:25:37] DB Copy: Creating table wpstg0_post_views
+[INFO]-[2018/09/13 04:25:37] DB Copy: wp_post_views as wpstg0_post_views from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:37] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2018/09/13 04:25:37] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:38] DB Copy: wp_postmeta as wpstg0_postmeta from 5000 to 10000 records
+[INFO]-[2018/09/13 04:25:38] DB Copy: wp_postmeta as wpstg0_postmeta from 10000 to 15000 records
+[INFO]-[2018/09/13 04:25:39] DB Copy: wp_postmeta as wpstg0_postmeta from 15000 to 20000 records
+[INFO]-[2018/09/13 04:25:39] DB Copy: wp_postmeta as wpstg0_postmeta from 20000 to 25000 records
+[INFO]-[2018/09/13 04:25:40] DB Copy: wp_postmeta as wpstg0_postmeta from 25000 to 30000 records
+[INFO]-[2018/09/13 04:25:42] DB Copy: wp_postmeta as wpstg0_postmeta from 30000 to 35000 records
+[INFO]-[2018/09/13 04:25:42] DB Copy: wp_postmeta as wpstg0_postmeta from 35000 to 40000 records
+[INFO]-[2018/09/13 04:25:42] DB Copy: wp_postmeta as wpstg0_postmeta from 40000 to 45000 records
+[INFO]-[2018/09/13 04:25:32] DB Copy: wp_options as wpstg0_options from 20000 to 25000 records
+[INFO]-[2018/09/13 04:25:35] DB Copy: Creating table wpstg0_pmxi_files
+[INFO]-[2018/09/13 04:25:36] DB Copy: wp_pmxi_files as wpstg0_pmxi_files from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:36] DB Copy: Creating table wpstg0_pmxi_history
+[INFO]-[2018/09/13 04:25:36] DB Copy: wp_pmxi_history as wpstg0_pmxi_history from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:36] DB Copy: Creating table wpstg0_pmxi_imports
+[INFO]-[2018/09/13 04:25:36] DB Copy: wp_pmxi_imports as wpstg0_pmxi_imports from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:36] DB Copy: Creating table wpstg0_pmxi_posts
+[INFO]-[2018/09/13 04:25:36] DB Copy: wp_pmxi_posts as wpstg0_pmxi_posts from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:37] DB Copy: Creating table wpstg0_pmxi_templates
+[INFO]-[2018/09/13 04:25:37] DB Copy: Creating table wpstg0_post_views
+[INFO]-[2018/09/13 04:25:37] DB Copy: wp_post_views as wpstg0_post_views from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:37] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2018/09/13 04:25:37] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:38] DB Copy: wp_postmeta as wpstg0_postmeta from 5000 to 10000 records
+[INFO]-[2018/09/13 04:25:38] DB Copy: wp_postmeta as wpstg0_postmeta from 10000 to 15000 records
+[INFO]-[2018/09/13 04:25:39] DB Copy: wp_postmeta as wpstg0_postmeta from 15000 to 20000 records
+[INFO]-[2018/09/13 04:25:39] DB Copy: wp_postmeta as wpstg0_postmeta from 20000 to 25000 records
+[INFO]-[2018/09/13 04:25:40] DB Copy: wp_postmeta as wpstg0_postmeta from 25000 to 30000 records
+[INFO]-[2018/09/13 04:25:42] DB Copy: wp_postmeta as wpstg0_postmeta from 30000 to 35000 records
+[INFO]-[2018/09/13 04:25:42] DB Copy: wp_postmeta as wpstg0_postmeta from 35000 to 40000 records
+[INFO]-[2018/09/13 04:25:42] DB Copy: wp_postmeta as wpstg0_postmeta from 40000 to 45000 records
+[INFO]-[2018/09/13 04:25:46] DB Copy: wp_postmeta as wpstg0_postmeta from 45000 to 50000 records
+[INFO]-[2018/09/13 04:25:46] DB Copy: wp_postmeta as wpstg0_postmeta from 50000 to 55000 records
+[INFO]-[2018/09/13 04:25:46] DB Copy: wp_postmeta as wpstg0_postmeta from 55000 to 60000 records
+[INFO]-[2018/09/13 04:25:48] DB Copy: wp_postmeta as wpstg0_postmeta from 60000 to 65000 records
+[INFO]-[2018/09/13 04:25:48] DB Copy: wp_postmeta as wpstg0_postmeta from 65000 to 70000 records
+[INFO]-[2018/09/13 04:25:48] DB Copy: wp_postmeta as wpstg0_postmeta from 70000 to 75000 records
+[INFO]-[2018/09/13 04:25:49] DB Copy: wp_postmeta as wpstg0_postmeta from 75000 to 80000 records
+[INFO]-[2018/09/13 04:25:49] DB Copy: wp_postmeta as wpstg0_postmeta from 80000 to 85000 records
+[INFO]-[2018/09/13 04:25:49] DB Copy: wp_postmeta as wpstg0_postmeta from 85000 to 90000 records
+[INFO]-[2018/09/13 04:25:51] DB Copy: wp_postmeta as wpstg0_postmeta from 90000 to 95000 records
+[INFO]-[2018/09/13 04:25:51] DB Copy: wp_postmeta as wpstg0_postmeta from 95000 to 100000 records
+[INFO]-[2018/09/13 04:25:51] DB Copy: wp_postmeta as wpstg0_postmeta from 100000 to 105000 records
+[INFO]-[2018/09/13 04:25:52] DB Copy: wp_postmeta as wpstg0_postmeta from 105000 to 110000 records
+[INFO]-[2018/09/13 04:25:52] DB Copy: Creating table wpstg0_posts
+[INFO]-[2018/09/13 04:25:52] DB Copy: wp_posts as wpstg0_posts from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:53] DB Copy: wp_posts as wpstg0_posts from 5000 to 10000 records
+[INFO]-[2018/09/13 04:25:55] DB Copy: wp_posts as wpstg0_posts from 10000 to 15000 records
+[INFO]-[2018/09/13 04:25:55] DB Copy: Creating table wpstg0_ps_exclude
+[INFO]-[2018/09/13 04:25:55] DB Copy: Creating table wpstg0_ps_postmeta
+[INFO]-[2018/09/13 04:25:55] DB Copy: Creating table wpstg0_ps_posts
+[INFO]-[2018/09/13 04:25:55] DB Copy: wp_ps_posts as wpstg0_ps_posts from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:55] DB Copy: Creating table wpstg0_ps_product_sku
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_ps_product_sku as wpstg0_ps_product_sku from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_pv_commission
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_pvc_daily
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_pvc_daily as wpstg0_pvc_daily from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_pvc_total
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_pvc_total as wpstg0_pvc_total from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_redirection_404
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_redirection_404 as wpstg0_redirection_404 from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_redirection_groups
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_redirection_groups as wpstg0_redirection_groups from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_redirection_items
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_redirection_items as wpstg0_redirection_items from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_redirection_logs
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_redirection_logs as wpstg0_redirection_logs from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_rg_form
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_rg_form as wpstg0_rg_form from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_rg_form_meta
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_rg_form_meta as wpstg0_rg_form_meta from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_rg_form_view
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_rg_form_view as wpstg0_rg_form_view from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_rg_incomplete_submissions
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_rg_lead
+[INFO]-[2018/09/13 04:25:57] DB Copy: wp_rg_lead as wpstg0_rg_lead from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_rg_lead_detail
+[INFO]-[2018/09/13 04:25:57] DB Copy: wp_rg_lead_detail as wpstg0_rg_lead_detail from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_rg_lead_detail_long
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_rg_lead_meta
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_rg_lead_notes
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_say_what_strings
+[INFO]-[2018/09/13 04:25:57] DB Copy: wp_say_what_strings as wpstg0_say_what_strings from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_signups
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_siq_sync
+[INFO]-[2018/09/13 04:25:58] DB Copy: wp_siq_sync as wpstg0_siq_sync from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:58] DB Copy: Creating table wpstg0_smush_dir_images
+[INFO]-[2018/09/13 04:25:58] DB Copy: Creating table wpstg0_snippets
+[INFO]-[2018/09/13 04:25:58] DB Copy: wp_snippets as wpstg0_snippets from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:46] DB Copy: wp_postmeta as wpstg0_postmeta from 45000 to 50000 records
+[INFO]-[2018/09/13 04:25:46] DB Copy: wp_postmeta as wpstg0_postmeta from 50000 to 55000 records
+[INFO]-[2018/09/13 04:25:46] DB Copy: wp_postmeta as wpstg0_postmeta from 55000 to 60000 records
+[INFO]-[2018/09/13 04:25:48] DB Copy: wp_postmeta as wpstg0_postmeta from 60000 to 65000 records
+[INFO]-[2018/09/13 04:25:48] DB Copy: wp_postmeta as wpstg0_postmeta from 65000 to 70000 records
+[INFO]-[2018/09/13 04:25:48] DB Copy: wp_postmeta as wpstg0_postmeta from 70000 to 75000 records
+[INFO]-[2018/09/13 04:25:49] DB Copy: wp_postmeta as wpstg0_postmeta from 75000 to 80000 records
+[INFO]-[2018/09/13 04:25:49] DB Copy: wp_postmeta as wpstg0_postmeta from 80000 to 85000 records
+[INFO]-[2018/09/13 04:25:49] DB Copy: wp_postmeta as wpstg0_postmeta from 85000 to 90000 records
+[INFO]-[2018/09/13 04:25:51] DB Copy: wp_postmeta as wpstg0_postmeta from 90000 to 95000 records
+[INFO]-[2018/09/13 04:25:51] DB Copy: wp_postmeta as wpstg0_postmeta from 95000 to 100000 records
+[INFO]-[2018/09/13 04:25:51] DB Copy: wp_postmeta as wpstg0_postmeta from 100000 to 105000 records
+[INFO]-[2018/09/13 04:25:52] DB Copy: wp_postmeta as wpstg0_postmeta from 105000 to 110000 records
+[INFO]-[2018/09/13 04:25:52] DB Copy: Creating table wpstg0_posts
+[INFO]-[2018/09/13 04:25:52] DB Copy: wp_posts as wpstg0_posts from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:53] DB Copy: wp_posts as wpstg0_posts from 5000 to 10000 records
+[INFO]-[2018/09/13 04:25:55] DB Copy: wp_posts as wpstg0_posts from 10000 to 15000 records
+[INFO]-[2018/09/13 04:25:55] DB Copy: Creating table wpstg0_ps_exclude
+[INFO]-[2018/09/13 04:25:55] DB Copy: Creating table wpstg0_ps_postmeta
+[INFO]-[2018/09/13 04:25:55] DB Copy: Creating table wpstg0_ps_posts
+[INFO]-[2018/09/13 04:25:55] DB Copy: wp_ps_posts as wpstg0_ps_posts from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:55] DB Copy: Creating table wpstg0_ps_product_sku
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_ps_product_sku as wpstg0_ps_product_sku from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_pv_commission
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_pvc_daily
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_pvc_daily as wpstg0_pvc_daily from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_pvc_total
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_pvc_total as wpstg0_pvc_total from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_redirection_404
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_redirection_404 as wpstg0_redirection_404 from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_redirection_groups
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_redirection_groups as wpstg0_redirection_groups from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_redirection_items
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_redirection_items as wpstg0_redirection_items from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_redirection_logs
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_redirection_logs as wpstg0_redirection_logs from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_rg_form
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_rg_form as wpstg0_rg_form from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_rg_form_meta
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_rg_form_meta as wpstg0_rg_form_meta from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_rg_form_view
+[INFO]-[2018/09/13 04:25:56] DB Copy: wp_rg_form_view as wpstg0_rg_form_view from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:56] DB Copy: Creating table wpstg0_rg_incomplete_submissions
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_rg_lead
+[INFO]-[2018/09/13 04:25:57] DB Copy: wp_rg_lead as wpstg0_rg_lead from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_rg_lead_detail
+[INFO]-[2018/09/13 04:25:57] DB Copy: wp_rg_lead_detail as wpstg0_rg_lead_detail from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_rg_lead_detail_long
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_rg_lead_meta
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_rg_lead_notes
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_say_what_strings
+[INFO]-[2018/09/13 04:25:57] DB Copy: wp_say_what_strings as wpstg0_say_what_strings from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_signups
+[INFO]-[2018/09/13 04:25:57] DB Copy: Creating table wpstg0_siq_sync
+[INFO]-[2018/09/13 04:25:58] DB Copy: wp_siq_sync as wpstg0_siq_sync from 0 to 5000 records
+[INFO]-[2018/09/13 04:25:58] DB Copy: Creating table wpstg0_smush_dir_images
+[INFO]-[2018/09/13 04:25:58] DB Copy: Creating table wpstg0_snippets
+[INFO]-[2018/09/13 04:25:58] DB Copy: wp_snippets as wpstg0_snippets from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_swp_cf
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_swp_index
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_swp_log
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_swp_tax
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_swp_terms
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2018/09/13 04:26:00] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_termmeta as wpstg0_termmeta from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_terms
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_terms as wpstg0_terms from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_todopago_google_address
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_todopago_transaccion
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_todopago_transaccion2
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_usermeta as wpstg0_usermeta from 5000 to 10000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_users
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_users as wpstg0_users from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_wcfm_daily_analysis
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_wcfm_daily_analysis as wpstg0_wcfm_daily_analysis from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_wcfm_detailed_analysis
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_wcfm_detailed_analysis as wpstg0_wcfm_detailed_analysis from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_wcfm_enquiries
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_wcfm_messages
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_wcfm_messages_modifier
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_wcfm_messages_stat
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_wcpl_user_packages
+[INFO]-[2018/09/13 04:26:02] DB Copy: wp_wcpl_user_packages as wpstg0_wcpl_user_packages from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_woocommerce_api_keys
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_woocommerce_attribute_taxonomies
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_woocommerce_downloadable_product_permissions
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_woocommerce_order_itemmeta
+[INFO]-[2018/09/13 04:26:02] DB Copy: wp_woocommerce_order_itemmeta as wpstg0_woocommerce_order_itemmeta from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:03] DB Copy: wp_woocommerce_order_itemmeta as wpstg0_woocommerce_order_itemmeta from 5000 to 10000 records
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_order_items
+[INFO]-[2018/09/13 04:26:03] DB Copy: wp_woocommerce_order_items as wpstg0_woocommerce_order_items from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_payment_tokenmeta
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_payment_tokens
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_sessions
+[INFO]-[2018/09/13 04:26:03] DB Copy: wp_woocommerce_sessions as wpstg0_woocommerce_sessions from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_locations
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_methods
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_shipping_zones
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_woocommerce_tax_rate_locations
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_woocommerce_tax_rates
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_wsluserscontacts
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_wslusersprofiles
+[INFO]-[2018/09/13 04:26:04] DB Copy: wp_wslusersprofiles as wpstg0_wslusersprofiles from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_xcloner_scheduler
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_swp_cf
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_swp_index
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_swp_log
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_swp_tax
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_swp_terms
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2018/09/13 04:26:00] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:00] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_termmeta as wpstg0_termmeta from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_terms
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_terms as wpstg0_terms from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_todopago_google_address
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_todopago_transaccion
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_todopago_transaccion2
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_usermeta as wpstg0_usermeta from 5000 to 10000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_users
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_users as wpstg0_users from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_wcfm_daily_analysis
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_wcfm_daily_analysis as wpstg0_wcfm_daily_analysis from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_wcfm_detailed_analysis
+[INFO]-[2018/09/13 04:26:01] DB Copy: wp_wcfm_detailed_analysis as wpstg0_wcfm_detailed_analysis from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_wcfm_enquiries
+[INFO]-[2018/09/13 04:26:01] DB Copy: Creating table wpstg0_wcfm_messages
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_wcfm_messages_modifier
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_wcfm_messages_stat
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_wcpl_user_packages
+[INFO]-[2018/09/13 04:26:02] DB Copy: wp_wcpl_user_packages as wpstg0_wcpl_user_packages from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_woocommerce_api_keys
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_woocommerce_attribute_taxonomies
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_woocommerce_downloadable_product_permissions
+[INFO]-[2018/09/13 04:26:02] DB Copy: Creating table wpstg0_woocommerce_order_itemmeta
+[INFO]-[2018/09/13 04:26:02] DB Copy: wp_woocommerce_order_itemmeta as wpstg0_woocommerce_order_itemmeta from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:03] DB Copy: wp_woocommerce_order_itemmeta as wpstg0_woocommerce_order_itemmeta from 5000 to 10000 records
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_order_items
+[INFO]-[2018/09/13 04:26:03] DB Copy: wp_woocommerce_order_items as wpstg0_woocommerce_order_items from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_payment_tokenmeta
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_payment_tokens
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_sessions
+[INFO]-[2018/09/13 04:26:03] DB Copy: wp_woocommerce_sessions as wpstg0_woocommerce_sessions from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_locations
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_methods
+[INFO]-[2018/09/13 04:26:03] DB Copy: Creating table wpstg0_woocommerce_shipping_zones
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_woocommerce_tax_rate_locations
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_woocommerce_tax_rates
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_wsluserscontacts
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_wslusersprofiles
+[INFO]-[2018/09/13 04:26:04] DB Copy: wp_wslusersprofiles as wpstg0_wslusersprofiles from 0 to 5000 records
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_xcloner_scheduler
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2018/09/13 04:26:04] DB Copy: Creating table wpstg0_yoast_seo_meta

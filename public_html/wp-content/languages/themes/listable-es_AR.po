@@ -1,0 +1,3339 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"Project-Id-Version: Listable\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: 404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Esa página no se puede encontrar."
+
+#: 404.php:28
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada en este lugar. Tal vez pruebe uno de los siguientes enlaces o una búsqueda?"
+
+#. No lo acabo de entender...
+#: bookmark-form.php:12
+msgid "This %s is faved!"
+msgstr "¡%s se ha añadido a favoritos!"
+
+#. ¡Favorito!
+#: bookmark-form.php:13
+msgid "Faved!"
+msgstr "¡Favorito!"
+
+#: bookmark-form.php:20 logged-out-bookmark-form.php:9
+msgid "Add to favorites"
+msgstr "Agregar a los favoritos"
+
+#: bookmark-form.php:21 logged-out-bookmark-form.php:12
+msgid "Favorite"
+msgstr "Favorito"
+
+#: bookmark-form.php:27
+msgid "Notes:"
+msgstr "Notas:"
+
+#: bookmark-form.php:34
+msgid "Update Bookmark"
+msgstr "Actualizar Marcador"
+
+#: bookmark-form.php:34
+msgid "Add Bookmark"
+msgstr "Añadir marcador"
+
+#: bookmark-form.php:37
+msgid "Clear"
+msgstr "Limpiar"
+
+#: category.php:15
+msgid "Category: "
+msgstr "Categoría: "
+
+#. No entiendo lo que se pide
+#: comments.php:39
+msgctxt "comments title"
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 comentario"
+msgstr[1] "%1$s comentarios"
+
+#. No entiendo lo que se pide
+#: comments.php:48 comments.php:71
+msgid "Comment navigation"
+msgstr "Comentario de navegación"
+
+#: comments.php:52 comments.php:75
+msgid "Older Comments"
+msgstr "Comentarios antiguos"
+
+#: comments.php:53 comments.php:76
+msgid "Newer Comments"
+msgstr "Comentarios Nuevos"
+
+#: comments.php:86
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:91
+msgid "Rate and write a review"
+msgstr "Calificar y escribir un comentario"
+
+#: footer.php:44
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:44
+msgid "Proudly powered by %s"
+msgstr "Web-Grafica"
+
+#: functions.php:59
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#: job_manager/job-filters-hero.php:129 searchform.php:5
+#: template-parts/header-fields.php:80
+msgid "What are you looking for?"
+msgstr "¿Qué estás buscando?"
+
+#: inc/activation.php:23 inc/integrations/wp-job-manager.php:390
+#: inc/widgets.php:424
+msgid "Gallery Images"
+msgstr "Galería de imágenes"
+
+#: inc/activation.php:30 inc/activation.php:59
+msgid "Gallery Image"
+msgstr "Galería de imágenes"
+
+#: inc/activation.php:41
+msgid "Hero Area"
+msgstr "Área héroe"
+
+#: inc/activation.php:42
+msgid "Add an image or a video to be used as a Background for the Hero Area on the Front Page"
+msgstr "Añadir una imagen o un vídeo para ser usado como Fondo en la \"Hero Area\" en la Página Principal"
+
+#: inc/activation.php:43
+msgid "Tip: Uploading"
+msgstr "Tip: Subiendo"
+
+#: inc/activation.php:44
+msgid "multiple images and/or videos"
+msgstr "múltiples imágenes y/o videos"
+
+#: inc/activation.php:45
+msgid "will"
+msgstr "será"
+
+#: inc/activation.php:46
+msgid "randomly"
+msgstr "aleatoriamente"
+
+#: inc/activation.php:47
+msgid "pick one when page is loaded"
+msgstr "elige uno cuando se cargue la página"
+
+#: inc/activation.php:65
+msgid "Playlist"
+msgstr "Lista de reproducción"
+
+#: inc/activation.php:108
+msgid "Frontend Categories"
+msgstr "Categorías principales"
+
+#: inc/config.php:709
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/config.php:712
+msgid "General"
+msgstr "Ajustes Generales"
+
+#. Me pregunto si mantener la traducción literal sea prudente cuando se refiere a un elemento publicado, ya que en español tiende a crear confusión. Por otro lado, antes había una traducción al 100% con algunos errores pero en general funcional, qué paso?
+#: inc/integrations/wp-job-manager-products.php:120
+#: inc/integrations/wp-job-manager-tags.php:55
+#: inc/integrations/wp-job-manager.php:14
+#: inc/integrations/wp-job-manager.php:280
+#: inc/integrations/wp-job-manager.php:289 inc/widgets.php:19
+#: inc/widgets.php:29 inc/widgets.php:39 inc/widgets.php:96 inc/widgets.php:187
+#: inc/widgets.php:243 inc/widgets.php:273 inc/widgets.php:339
+#: inc/widgets.php:395 inc/widgets.php:424 inc/widgets.php:477
+msgid "Listing"
+msgstr "Anuncio"
+
+#: inc/integrations/wp-job-manager.php:15
+#: inc/integrations/wp-job-manager.php:230
+#: job_manager/content-single-job_listing-preview.php:69
+#: job_manager/content-single-job_listing.php:54 job_manager/job-filters.php:58
+#: job_manager/job-filters.php:152
+msgid "Listings"
+msgstr "Anuncios"
+
+#: inc/integrations/wp-job-manager.php:21
+#: inc/integrations/wp-job-manager.php:58
+#: inc/integrations/wp-job-manager.php:87
+msgid "All %s"
+msgstr "Todo %s"
+
+#: inc/integrations/wp-job-manager.php:22
+msgid "Add New"
+msgstr "Añadir Nuevo"
+
+#: inc/integrations/wp-job-manager.php:23
+msgid "Add %s"
+msgstr "Agregar %s"
+
+#: inc/integrations/wp-job-manager.php:24 job_manager/job-dashboard.php:46
+#: job_manager/job-dashboard.php:62 woocommerce/myaccount/my-address.php:69
+msgid "Edit"
+msgstr "Editar"
+
+#. translators: %s: Name of current post
+#: inc/integrations/wp-job-manager.php:25
+#: inc/integrations/wp-job-manager.php:61
+#: inc/integrations/wp-job-manager.php:90 template-parts/content-page.php:46
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: inc/integrations/wp-job-manager.php:26
+msgid "New %s"
+msgstr "Nuevo %s"
+
+#: inc/integrations/wp-job-manager.php:27
+#: inc/integrations/wp-job-manager.php:28
+msgid "View %s"
+msgstr "Ver %s"
+
+#: inc/integrations/wp-job-manager.php:29
+#: inc/integrations/wp-job-manager.php:57
+#: inc/integrations/wp-job-manager.php:86
+msgid "Search %s"
+msgstr "Buscar %s"
+
+#: inc/integrations/wp-job-manager.php:30
+msgid "No %s found"
+msgstr "No se encontraron %s"
+
+#: inc/integrations/wp-job-manager.php:31
+msgid "No %s found in trash"
+msgstr "No se encontraron %s en la papelera"
+
+#: inc/integrations/wp-job-manager.php:32
+#: inc/integrations/wp-job-manager.php:59
+#: inc/integrations/wp-job-manager.php:88
+msgid "Parent %s"
+msgstr "%s superior"
+
+#: inc/integrations/wp-job-manager.php:34
+msgid "This is where you can create and manage %s."
+msgstr "Aquí es donde se pueden crear y administrar los/las %s."
+
+#: inc/integrations/wp-job-manager.php:49
+msgid "Listing Type"
+msgstr "Tipo de anuncio"
+
+#: inc/integrations/wp-job-manager.php:50
+msgid "Listings Types"
+msgstr "Tipos de anuncios"
+
+#: inc/integrations/wp-job-manager.php:56
+msgid "Types"
+msgstr "Tipos"
+
+#: inc/integrations/wp-job-manager.php:60
+#: inc/integrations/wp-job-manager.php:89
+msgid "Parent %s:"
+msgstr "%s relacionados:"
+
+#: inc/integrations/wp-job-manager.php:62
+#: inc/integrations/wp-job-manager.php:91
+msgid "Update %s"
+msgstr "Actualizar %s"
+
+#: inc/integrations/wp-job-manager.php:63
+#: inc/integrations/wp-job-manager.php:92
+msgid "Add New %s"
+msgstr "Añadir nuevo %s"
+
+#: inc/integrations/wp-job-manager.php:64
+#: inc/integrations/wp-job-manager.php:93
+msgid "New %s Name"
+msgstr "Nuevo nombre de %s"
+
+#. Estos enlaces permanentes es mejor no traducirlos. Si se hace no funciona bien la web si se quiere utilizar con varios idiomas con el plugin WPML
+#: inc/integrations/wp-job-manager.php:68
+msgctxt "Listing type slug - resave permalinks after changing this"
+msgid "listing-type"
+msgstr "tipo-de-anuncio"
+
+#: inc/integrations/wp-job-manager.php:77
+msgid "Listing Category"
+msgstr "Categoría"
+
+#: inc/integrations/wp-job-manager.php:78
+msgid "Listings Categories"
+msgstr "Categorías"
+
+#: inc/activation.php:90 inc/integrations/wp-job-manager.php:85
+#: inc/widgets.php:339
+msgid "Categories"
+msgstr "Categorías"
+
+#: inc/integrations/wp-job-manager.php:97
+msgctxt "Listing category slug - resave permalinks after changing this"
+msgid "listing-category"
+msgstr "listing-category"
+
+#: inc/integrations/wp-job-manager.php:123
+#: inc/integrations/wp-job-manager.php:140
+msgid "Listing Tags"
+msgstr "Etiquetas de anuncio"
+
+#: inc/integrations/wp-job-manager.php:124
+#: inc/integrations/wp-job-manager.php:141
+msgid "Listing Tag"
+msgstr "Etiqueta de anuncio"
+
+#: inc/integrations/wp-job-manager.php:125
+msgid "Search Listing Tags"
+msgstr "Buscar etiquetas de anuncio"
+
+#: inc/integrations/wp-job-manager.php:126
+msgid "Popular Tags"
+msgstr "Etiquetas populares"
+
+#: inc/integrations/wp-job-manager.php:127
+msgid "All Listing Tags"
+msgstr "Todas las etiquetas del anuncio"
+
+#: inc/integrations/wp-job-manager.php:128
+msgid "Parent Listing Tag"
+msgstr "Etiqueta relacionada"
+
+#: inc/integrations/wp-job-manager.php:129
+msgid "Parent Listing Tag:"
+msgstr "Lista de etiquetas relacionadas:"
+
+#: inc/integrations/wp-job-manager.php:130
+msgid "Edit Listing Tag"
+msgstr "Editar etiqueta del anuncio"
+
+#: inc/integrations/wp-job-manager.php:131
+msgid "View Tag"
+msgstr "Ver etiqueta"
+
+#: inc/integrations/wp-job-manager.php:132
+msgid "Update Listing Tag"
+msgstr "Actualizar etiqueta del lugar"
+
+#: inc/integrations/wp-job-manager.php:133
+msgid "Add New Listing Tag"
+msgstr "Añadir nueva etiqueta"
+
+#: inc/integrations/wp-job-manager.php:134
+msgid "New Listing Tag Name"
+msgstr "Nuevo nombre de etiqueta de anuncio"
+
+#: inc/integrations/wp-job-manager.php:135
+msgid "Separate tags with commas"
+msgstr "Separar etiquetas con comas"
+
+#: inc/integrations/wp-job-manager.php:136
+msgid "Add or remove tags"
+msgstr "Añadir o eliminar etiquetas"
+
+#: inc/integrations/wp-job-manager.php:137
+msgid "Choose from the most used tags"
+msgstr "Elija entre las etiquetas más utilizadas"
+
+#: inc/integrations/wp-job-manager.php:138
+msgid "No tags found."
+msgstr "Ninguna etiqueta encontrada."
+
+#: inc/integrations/wp-job-manager.php:139
+msgid "No tags"
+msgstr "No hay etiquetas"
+
+#: inc/integrations/wp-job-manager.php:144
+msgctxt "permalink"
+msgid "listing-tag"
+msgstr "etiqueta-de-anuncio"
+
+#: inc/integrations/wp-job-manager.php:284
+msgid "Submission"
+msgstr "Alta"
+
+#: inc/integrations/wp-job-manager.php:310 inc/widgets.php:395
+msgid "Hours"
+msgstr "Hours"
+
+#: inc/integrations/wp-job-manager.php:312
+#: inc/integrations/wp-job-manager.php:408
+msgid ""
+"Mon - Fri: 09:00 - 23:00 \n"
+"Sat - Sun: 17:00 - 23:00"
+msgstr ""
+"Lunes - Viernes: 9:00 - 23:00 \n"
+"Sáb - Dom: 17:00 - 23:00"
+
+#: inc/integrations/wp-job-manager.php:318
+#: inc/integrations/wp-job-manager.php:415
+#: job_manager/content-single-job_listing-company.php:24
+msgid "Phone"
+msgstr "Teléfono"
+
+#: inc/integrations/wp-job-manager.php:320
+#: inc/integrations/wp-job-manager.php:417
+msgid "e.g +42-898-4364"
+msgstr "Ejemplo (+52) 55 7654 3211"
+
+#: inc/integrations/wp-job-manager.php:360
+msgid "Listing Name"
+msgstr "Nombre del establecimiento"
+
+#: inc/integrations/wp-job-manager.php:361
+msgid "Your listing name"
+msgstr "Nombre completo de su negocio"
+
+#: inc/wp-job-manager.php:334
+msgid "e.g Speciality Coffe Shop"
+msgstr "Ejemplo: Café Amor"
+
+#. Creo que el autor del texto quisiera decir: listing en vez de "ling". Es por esto mi modificación.
+#: inc/wp-job-manager.php:335
+msgid "Keep it short and descriptive as it will appear on search results instead of the ling description"
+msgstr "Sé breve y descriptivo, es lo que aparecerá como resultado de búsqueda en lugar de la descripción larga"
+
+#: inc/integrations/wp-job-manager.php:369
+msgid "An overview of your listing and the things you love about it."
+msgstr "Describe una visión general de tu negocio y lo más destacable."
+
+#: inc/integrations/wp-job-manager.php:372
+msgid "Choose one or more categories"
+msgstr "Elige una o más categorías. Sólo la(s) que corresponda(n) a tu negocio"
+
+#: inc/integrations/wp-job-manager.php:375
+msgid "Visitors can filter their search by the categories and amenities they want - so make sure you choose them wisely and include all the relevant ones"
+msgstr "Los visitantes pueden filtrar su búsqueda por las categorías y características que ofrece tu negocio, así que elige cuidadosamente la categoría a la que pertenezca tu negocio"
+
+#: inc/integrations/wp-job-manager.php:380
+msgid "Add tags"
+msgstr "Añadir servicios"
+
+#: inc/integrations/wp-job-manager.php:382
+msgid "Visitors can filter their search by the amenities too, so make sure you include all the relevant ones."
+msgstr "Los visitantes pueden filtrar su búsqueda también por características, así que asegúrate de no olvidar ninguna."
+
+#: inc/integrations/wp-job-manager.php:386
+msgid "e.g 34 Wigmore Street, London"
+msgstr "en caso de no tener dejar en blanco"
+
+#: inc/integrations/wp-job-manager.php:387
+msgid "Leave this blank if the location is not important."
+msgstr "Deja en blanco si la ubicación no es importante."
+
+#: inc/extras.php:423
+msgid "First photo appears on listing card."
+msgstr "Primera foto que aparecerá en la publicación de tu anuncio."
+
+#: inc/integrations/wp-job-manager.php:406
+msgid "Hours of Operation"
+msgstr "Horario de atención"
+
+#: inc/integrations/wp-job-manager.php:409
+msgid "Feel free to change the text format to fit your needs."
+msgstr "No dudes en cambiar el formato si es necesario para adaptarlo a tus necesidades."
+
+#: inc/integrations/wp-job-manager.php:423
+msgid "e.g yourwebsite.com, London"
+msgstr "por ejemplo tusitioweb.com"
+
+#: inc/integrations/wp-job-manager.php:424
+msgid "You can add more similar panels to better help the user fill the form"
+msgstr "No olvides agregar tu sitio web y tu cuenta de Twitter. En caso de no tenerla, te recomendamos abrir una"
+
+#: inc/integrations/wp-job-manager.php:529
+msgid "Position"
+msgstr "Posición"
+
+#: inc/integrations/wp-job-manager.php:534
+msgid "Image"
+msgstr "Imágen"
+
+#: inc/integrations/wp-job-manager.php:548
+msgid "ID: %d"
+msgstr "ID: %d"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/integrations/wp-job-manager-tags.php:25
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/extras.php:547
+msgid "Your name"
+msgstr "Su nombre"
+
+#: inc/extras.php:548
+msgid "your@email.com"
+msgstr "sucorreo@email.com"
+
+#: inc/integrations/jetpack/site-logo/inc/class-site-logo-control.php:19
+msgid "Add logo"
+msgstr "Añadir logo"
+
+#: inc/integrations/jetpack/site-logo/inc/class-site-logo-control.php:20
+msgid "Set as logo"
+msgstr "Establecer como logo"
+
+#: inc/integrations/jetpack/site-logo/inc/class-site-logo-control.php:21
+msgid "Choose logo"
+msgstr "Elegir logo"
+
+#: inc/integrations/jetpack/site-logo/inc/class-site-logo-control.php:22
+msgid "Change logo"
+msgstr "Cambiar Logo"
+
+#: inc/integrations/jetpack/site-logo/inc/class-site-logo-control.php:23
+msgid "Remove logo"
+msgstr "Eliminar logo"
+
+#: inc/integrations/jetpack/site-logo/inc/class-site-logo-control.php:24
+msgid "No logo set"
+msgstr "No se ha establecido ningún logo"
+
+#: inc/jetpack/site-logo/inc/class-site-logo.php:78
+msgid "Site Title, Tagline, and Logo"
+msgstr "Título del Sitio, Tag, y Logo"
+
+#: inc/integrations/jetpack/site-logo/inc/class-site-logo.php:111
+#: inc/integrations/wp-job-manager.php:400
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/integrations/jetpack/site-logo/inc/class-site-logo.php:251
+msgid "Site Logo"
+msgstr "Logo del Sitio"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:324
+#: inc/required-plugins/required-plugins.php:92
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Requeridos"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:325
+#: inc/required-plugins/required-plugins.php:93
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:326
+#: inc/required-plugins/required-plugins.php:94
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:328
+#: inc/required-plugins/required-plugins.php:96
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:329
+#: inc/required-plugins/required-plugins.php:97
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin:%1$s."
+msgstr[1] "Estos temas requieren los siguientes plugins:%1$s."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:334
+#: inc/required-plugins/required-plugins.php:99
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin:%1$s."
+msgstr[1] "Estos temas recomiendan los siguientes plugin:%1$s."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Lo sentimos, pero usted no tiene los permisos para instalar el plugin %1$s."
+msgstr[1] "Lo sentimos, pero usted no tiene los permisos para instalar los plugins %1$s."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:339
+#: inc/required-plugins/required-plugins.php:109
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plug-in necesita ser actualizado a su última versión para asegurar la máxima compatibilidad con este tema:%1$s."
+msgstr[1] "Los siguientes plug-ins necesitan ser actualizados a su última versión para asegurar la máxima compatibilidad con este tema:%1$s."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:344
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay unas actualizaciones disponibles para: %1$s."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Lo sentimos, pero usted no tiene los permisos correctos para actualizar el %1$s plugin."
+msgstr[1] "Lo sentimos, pero usted no tiene los permisos correctos para actualizar los %1$s plugins."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:349
+#: inc/required-plugins/required-plugins.php:103
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin esta inactivo: %1$s."
+msgstr[1] "Los siguientes plugins están inactivos: %1$s."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:354
+#: inc/required-plugins/required-plugins.php:105
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado esta inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados estan inactivos: %1$s."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Lo sentimos, pero usted no tiene los permisos correctos para activar el% 1 $ s plugin."
+msgstr[1] "Lo sentimos, pero usted no tiene los permisos correctos para activar los% 1 $ s plugins "
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:359
+#: inc/required-plugins/required-plugins.php:113
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar instalación de plugin"
+msgstr[1] "Comenzar instalación de los plugins"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:364
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comience la actualización del plugin"
+msgstr[1] "Comiencen las actualizaciónes del los plugins"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:369
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar activación de plugin"
+msgstr[1] "Comenzar la activaciónes de los plugins"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:374
+#: inc/required-plugins/required-plugins.php:115
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins requeridos"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:375
+msgid "Return to the dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:376
+#: inc/required-plugins/class-tgm-plugin-activation.php:3109
+#: inc/required-plugins/required-plugins.php:116
+msgid "Plugin activated successfully."
+msgstr "Plugin Activado correctamente."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:377
+#: inc/required-plugins/class-tgm-plugin-activation.php:2912
+msgid "The following plugin was activated successfully:"
+msgstr "El siguiente plugin fue activado correctamente:"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:378
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se realizó ninguna acción.  El plugin %1$s ya estaba activo."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:379
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin no activado. Una versión superior de %s es necesaria para este tema. Por favor actualice el plugin."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:380
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados satisfactoriamente. %1$s"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:381
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:383
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, ponte en contacto con el administrador de este sitio en busca de ayuda."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:506
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "El siguiente plugin necesita ser actualizado para ser compatible con este tema: %1$s."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:507
+msgid "Update Required"
+msgstr "Actualización Requerida"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:650
+msgid "Set the parent_slug config variable instead."
+msgstr "Establezca la variable de configuración slug_relacionado."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:845
+#: inc/required-plugins/class-tgm-plugin-activation.php:3523
+msgid "Return to the Dashboard"
+msgstr "Regreso al panel de control"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:952
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete del plugin externo no contiene una carpeta con el slug deseado y el renombrado no ha funcionado."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:952
+#: inc/required-plugins/class-tgm-plugin-activation.php:955
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, póngase en contacto con el proveedor del plugin para que empaqueten su plugin de acuerdo con las directrices de Wordpress ."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:955
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto de plugin consiste en más de un archivo, pero los mismos no fueron empaquetados en una carpeta."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:1139
+#: inc/required-plugins/class-tgm-plugin-activation.php:2908
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:1955
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2241
+msgid "Required"
+msgstr "Requerido"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2244
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2260
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2263
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2266
+msgid "Pre-Packaged"
+msgstr "Pre-Empaquetado"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2283
+msgid "Not Installed"
+msgstr "No Instalado"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2287
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2289
+msgid "Active"
+msgstr "Activo"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2295
+msgid "Required Update not Available"
+msgstr "Actualización requerida no disponible"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2298
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2301
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2309
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2354
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=“count”>(%s)</span>"
+msgstr[1] "Todos <span class=“count”>(%s)</span>"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2357
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=“count”>(%s)</span>"
+msgstr[1] "Para instalar <span class=“count”>(%s)</span>"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2360
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=“count”>(%s)</span>"
+msgstr[1] "Actualización disponible <span class=“count”>(%s)</span>"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2363
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Activar <span class=“count”>(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2445
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2453
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2461
+msgid "Minimum required version:"
+msgstr "Version mínima requerida:"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2473
+msgid "Available version:"
+msgstr "Version Disponible:"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2496
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "No hay plugins para instalar, actualizar o activar. <a href=“%1$s”>Volver al Escritorio</a>"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2510
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2511
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2512
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2516
+msgid "Version"
+msgstr "Version"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2517
+#: woocommerce/myaccount/my-orders.php:27
+#: woocommerce/myaccount/view-subscription.php:33
+#: woocommerce-bookings/myaccount/my-bookings.php:20
+#: woocommerce-bookings/myaccount/my-bookings.php:44
+msgid "Status"
+msgstr "Estado"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2565
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2569
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2574
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2644
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade message from the plugin author:"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2677
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2683
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2686
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2717
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Ningún plugin seleccionado para ser instalado. Ninguna acción a realizar."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2719
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Ningún plugin seleccionado para ser actualizado. Ninguna acción a realizar."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2760
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para ser instalados en este momento."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2762
+msgid "No plugins are available to be updated at this time."
+msgstr "Ningún plugin disponible para ser actualizado en este momento. Ninguna acción a realizar."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2868
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Ningún plugin seleccionado para ser activado. Ninguna acción a realizar."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2894
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para ser activados en este momento."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3108
+msgid "Plugin activation failed."
+msgstr "La activación del plugin ha fallado."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3447
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando Plugin %1$s (%2$d/%3$d)"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3449
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Un error ocurrió mientras instalábamos  %1$s: <strong>%2$s</strong>."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3450
+msgid "The installation of %1$s failed."
+msgstr "La actualización de %1$s ha fallado."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3454
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando.  Este proceso podría tomar algún tiempo en algunos servidores, por favor, ten paciencia."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3455
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3455
+#: inc/required-plugins/class-tgm-plugin-activation.php:3461
+msgid "Show Details"
+msgstr "Mostrar Detalles"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3455
+#: inc/required-plugins/class-tgm-plugin-activation.php:3461
+msgid "Hide Details"
+msgstr "Ocultar Detalles"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3456
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3457
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y Activando el Plugin %1$s (%2$d/%3$d)"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3460
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación está comenzando. Este proceso puede tomar tiempo en algunos servidores, por favor, ten paciencia."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3461
+msgid "%1$s installed successfully."
+msgstr "%1$s fue instalado con éxito."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3462
+msgid "All installations have been completed."
+msgstr "Todas la instalaciones se han completado."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3463
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: inc/required-plugins/required-plugins.php:101
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Lo siento, pero no tienes los premisos correctos para instalar el plugin %s. Contacta al administrador del sitio para obtener ayuda para instalar el plugin."
+msgstr[1] "Lo siento, pero no tienes los premisos correctos para instalar los plugins %s. Contacta al administrador del sitio para obtener ayuda para instalar los plugins."
+
+#: inc/required-plugins/required-plugins.php:107
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Lo siento, pero no tienes los premisos correctos para activar el plugin %s. Contacta al administrador del sitio para obtener ayuda para activar el plugin."
+msgstr[1] "Lo siento, pero no tienes los premisos correctos para activar los plugins %s. Contacta al administrador del sitio para obtener ayuda para activar los plugins."
+
+#: inc/required-plugins/required-plugins.php:111
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Lo siento, pero no tienes los premisos correctos para instalar el plugin %s. Contacta al administrador del sitio para obtener ayuda para activar el plugin."
+msgstr[1] "Lo siento, pero no tienes los premisos correctos para actualizar los plugins %s. Contacta al administrador del sitio para obtener ayuda para activar los plugins."
+
+#: inc/required-plugins/required-plugins.php:114
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activar plug-in instalado"
+msgstr[1] "Activar plug-ins instalados"
+
+#: inc/required-plugins/required-plugins.php:117
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins fueron instalados y activados correctamente. %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:67 inc/template-tags.php:73
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:69
+msgid "Posted in %1$s"
+msgstr "Publicado en %s"
+
+#: inc/template-tags.php:75
+msgid "Tagged %1$s"
+msgstr "Etiquetado %1$s"
+
+#: inc/template-tags.php:81
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: inc/template-tags.php:81
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: inc/template-tags.php:81
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: inc/template-tags.php:218
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:218 inc/template-tags.php:263
+#: inc/template-tags.php:294
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: inc/template-tags.php:232 inc/template-tags.php:255
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando aprobación."
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:261 inc/template-tags.php:293
+msgid "on %1$s"
+msgstr "en %1$s"
+
+#: inc/tutorials.php:28
+msgid "Let's add your first listing! To better familiarize with the process, start by adding a good"
+msgstr "¡Vamos a añadir el primer anuncio! Para familiarizarse mejor con el proceso, empieza añadiendo algo"
+
+#: inc/tutorials.php:29
+msgid "title"
+msgstr "Título "
+
+#: inc/tutorials.php:30
+msgid "Coffee Heaven"
+msgstr "Coffee Heaven"
+
+#: inc/tutorials.php:43
+msgid "Visitors can filter their search result by "
+msgstr "Los visitantes pueden filtrar sus resultados de búsqueda por "
+
+#: inc/tutorials.php:44
+msgid "categories"
+msgstr "categorías"
+
+#: inc/tutorials.php:46
+msgid "Let's add two categories: \"Food\" and \"Coffee Shops\" &#8212; later on we will "
+msgstr "Vamos a añadir dos categorías: “Alimentación” y “Entretenimiento” &#8212; más adelante lo haremos "
+
+#: inc/tutorials.php:47
+msgid "add icons"
+msgstr "agregar iconos"
+
+#: inc/tutorials.php:48
+msgid "to them"
+msgstr "a ellos"
+
+#: inc/tutorials.php:62
+msgid "Add a short and descriptive"
+msgstr "Añadir detalles y descripción"
+
+#: inc/tutorials.php:63
+msgid "Tagline"
+msgstr "Eslogan de la Empresa"
+
+#: inc/tutorials.php:64
+msgid "like \"Speciality Coffee Shop\""
+msgstr "como “Floristas especializados” "
+
+#: inc/tutorials.php:78
+msgid "Now you can add the"
+msgstr "Ahora puedes agregar"
+
+#: inc/tutorials.php:79
+msgid "address"
+msgstr "dirección"
+
+#: inc/tutorials.php:80
+msgid "of the listing. Let's use \"34 Wigmore Street, London\""
+msgstr "de la lista. Vamos a usar “34 Calle Tetouan, Barcelona. ”"
+
+#: inc/tutorials.php:93
+msgid "Add 4 or 5"
+msgstr "Añadir 4 ó 5"
+
+#: inc/tutorials.php:94
+msgid "images"
+msgstr "imágenes"
+
+#: inc/tutorials.php:95
+msgid "users love them. *Note that the first one appears on the listing card from the archive page"
+msgstr "a los visitantes les encantan. * Ten en cuenta que la primera aparece en la tarjeta de la portada de lugares"
+
+#: inc/tutorials.php:110
+msgid "phone number"
+msgstr "número de teléfono"
+
+#: inc/tutorials.php:111
+msgid "a"
+msgstr "un"
+
+#: inc/tutorials.php:113
+msgid "or a"
+msgstr "o un"
+
+#: inc/tutorials.php:112
+msgid "website"
+msgstr "sitio web"
+
+#: inc/tutorials.php:114
+msgid "Twitter username"
+msgstr "Usuario de Twitter"
+
+#: inc/tutorials.php:115
+msgid "at hand -- fill them below"
+msgstr "a mano -  llenar a continuación"
+
+#: inc/tutorials.php:129
+msgid "We're ready to launch!"
+msgstr "¡Listos para el lanzamiento!"
+
+#: inc/tutorials.php:130
+msgid "Even if there are other fields that you can play with, there's plenty of time afterwards"
+msgstr "Aunque falte algo, puede realizarse después"
+
+#: inc/tutorials.php:131
+msgid "Fasten your seatbelt and hit the"
+msgstr "Abróchate el cinturón de seguridad y pulsa el"
+
+#: inc/tutorials.php:132
+msgid "Publish button"
+msgstr "Botón Publicar"
+
+#: inc/tutorials.php:133
+msgid "Congratulations for your first listing!"
+msgstr "¡Enhorabuena por su primera publicación!"
+
+#: inc/tutorials.php:288
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+#: inc/tutorials.php:296
+msgid "&larr; Prev"
+msgstr "&larr; Anterior"
+
+#: inc/tutorials.php:300
+msgid "Finish!"
+msgstr "¡Finalizado!"
+
+#: inc/tutorials.php:304
+msgid "Step"
+msgstr "Paso"
+
+#: inc/tutorials.php:314 inc/tutorials.php:318
+msgid "PixCare&reg; Assistant"
+msgstr "Asistente PixCare&reg"
+
+#: inc/widgets.php:20
+msgid "The wider area where the main listing content should go."
+msgstr "El área más amplia donde el contenido de la lista principal debería ir."
+
+#: inc/widgets.php:30
+msgid "Placed to the top of the right sidebar, this area put each widget in a visually different boxed container."
+msgstr "Situado a la parte superior de la barra lateral derecha, este área pone cada widget en un contenedor visualmente diferente."
+
+#: inc/widgets.php:40
+msgid "Placed below the Sidebar Top, this area brings together all the widgets under the same container."
+msgstr "Colocada debajo de la barra lateral superior, esta zona reúne todos los widgets en el marco del mismo contenedor."
+
+#: inc/widgets.php:49
+msgid "Footer Area"
+msgstr "Area de Footer"
+
+#: inc/widgets.php:97
+msgid "The action buttons like Write a Review, Share or Add to Favorites."
+msgstr "Los botones de acción como Opinar, Compartir o Añadir a Favoritos."
+
+#: inc/widgets.php:141
+msgid "Write a review"
+msgstr "Deja un comentario"
+
+#: inc/widgets.php:142
+msgid "Review"
+msgstr "Comentario"
+
+#: inc/widgets.php:159 inc/widgets.php:160
+msgid "Share"
+msgstr "Compartir"
+
+#: inc/widgets.php:188
+msgid "The main listing content."
+msgstr "Contenido principal del anuncio."
+
+#: inc/widgets.php:244
+msgid "A list of the recent reviews and the submission form."
+msgstr "Una lista de opiniones recientes, y el formulario de envío."
+
+#: inc/integrations/wp-job-manager-tags.php:56
+msgid "A list of tags or amenities."
+msgstr "Una lista de etiquetas o servicios."
+
+#: inc/widgets.php:274
+msgid "A Map View of the listing location along with a Directions link to Google Map."
+msgstr "Mapa de ubicación e instrucciones para llegar mediante Google Maps."
+
+#: inc/widgets.php:321
+msgid "Get directions"
+msgstr "Obtener las direcciones"
+
+#: inc/widgets.php:341
+msgid "The listing categories along with the related icon."
+msgstr "Categorías del Negocio, junto con el icono relacionado."
+
+#: inc/widgets.php:396
+msgid "The Hours field content."
+msgstr "Horario."
+
+#: inc/widgets.php:425
+msgid "The attached images in a gallery grid format."
+msgstr "Las imágenes que se adjuntan a la galería en formato de cuadrícula."
+
+#: inc/widgets.php:438
+msgid "Photo gallery"
+msgstr "Galería de imágenes"
+
+#: inc/widgets.php:439
+msgid "All photos"
+msgstr "Todas las imágenes"
+
+#: inc/widgets.php:624
+msgid "Displays a list of your listings based on different criteria (eg. latest of featured listings from a specific category)"
+msgstr "Muestra una lista de lugares en base a diferentes criterios (por ejemplo. Último de los anuncios destacados de una categoría específica)"
+
+#: inc/widgets.php:623 inc/widgets.php:922
+msgid "Listing Cards"
+msgstr "Tarjetas del lugares"
+
+#: inc/integrations/wp-job-manager-products.php:207 inc/widgets.php:572
+#: inc/widgets.php:841 inc/widgets.php:1160 inc/widgets.php:1367
+#: inc/widgets.php:1583 inc/widgets.php:1615 inc/widgets.php:1886
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/integrations/wp-job-manager-products.php:212 inc/widgets.php:846
+#: inc/widgets.php:1165 inc/widgets.php:1372 inc/widgets.php:1891
+msgid "Subtitle:"
+msgstr "﻿Subtítulo:"
+
+#: inc/widgets.php:851 inc/widgets.php:1170 inc/widgets.php:1377
+#: inc/widgets.php:1896
+msgid "Number of items to show:"
+msgstr "Número de elementos a mostrar:"
+
+#: inc/widgets.php:856
+msgid "Show:"
+msgstr "Mostrar:"
+
+#: inc/widgets.php:858
+msgid "All Listings"
+msgstr "Todos los anuncios"
+
+#: inc/widgets.php:859
+msgid "Featured Listings"
+msgstr "Anuncios Destacados"
+
+#: inc/widgets.php:864 inc/widgets.php:1175 inc/widgets.php:1901
+msgid "Order by:"
+msgstr "Ordenar por:"
+
+#: inc/widgets.php:866 woocommerce/myaccount/my-orders.php:26
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/widgets.php:867 inc/widgets.php:1179 inc/widgets.php:1905
+msgid "Random"
+msgstr "Aleatorio"
+
+#: inc/widgets.php:872
+msgid "Items IDs(optional):"
+msgstr "ID de artículos (opcional):"
+
+#: inc/widgets.php:877 inc/widgets.php:1184
+msgid "Categories Slug(optional):"
+msgstr "Categorías (opcional):"
+
+#: inc/widgets.php:945
+msgid "Display a list of listing categories based on different criteria (eg. most popular, random) or specify which ones you want to show."
+msgstr "Mostrar una lista de categorías en función de diferentes criterios (por ejemplo. El más popular, al azar) o especificar cuáles desea mostrar."
+
+#: inc/widgets.php:1247
+msgid "What are you interested in?"
+msgstr "¿En qué estás interesado?"
+
+#: inc/widgets.php:1248
+msgid "Discover something nice"
+msgstr "Descubre algo fascinante"
+
+#: inc/widgets.php:1177 inc/widgets.php:1903
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/widgets.php:1178 inc/widgets.php:1904
+msgid "Number of Listings"
+msgstr "Número de anuncios"
+
+#: inc/widgets.php:1268
+msgid "A list of the latest posts from blog."
+msgstr "Una lista de las últimas publicaciones del blog."
+
+#: inc/widgets.php:1328
+msgid "View All"
+msgstr "Ver Todas"
+
+#: inc/widgets.php:1408
+msgid "Latest Posts"
+msgstr "Últimas publicaciones"
+
+#: inc/widgets.php:1409
+msgid "Fresh articles from the blog"
+msgstr "Artículos actuales del blog"
+
+#: inc/widgets.php:1653
+msgid "How It Works"
+msgstr "Cómo Funciona"
+
+#: inc/widgets.php:1529 inc/widgets.php:1571 inc/widgets.php:1579
+#: inc/widgets.php:1606
+msgid "Select an Image"
+msgstr "Selecciona una Imagen"
+
+#: inc/widgets.php:1530 inc/widgets.php:1572 inc/widgets.php:1607
+msgid "Update Image"
+msgstr "Actualizar Imagen"
+
+#: inc/widgets.php:1588 inc/widgets.php:1620
+msgid "Content:"
+msgstr "Contenido:"
+
+#: inc/widgets.php:1599
+msgid "Add Spotlight"
+msgstr "Añadir Destacado"
+
+#: inc/widgets.php:1611
+msgid "Choose an Image"
+msgstr "Elige una Imagen"
+
+#: job_manager/content-single-job_listing-meta.php:23
+msgid "Posted %s ago"
+msgstr "Subido hace %s"
+
+#: job_manager/content-single-job_listing-meta.php:26
+msgid "This position has been filled"
+msgstr "Este empleo ya ha sido cubierto"
+
+#: job_manager/content-single-job_listing-meta.php:28
+msgid "Applications have closed"
+msgstr "No se aceptan más solicitudes"
+
+#: job_manager/content-single-job_listing-preview.php:63
+#: job_manager/content-single-job_listing.php:48
+msgid "This listing has expired."
+msgstr "Este anuncio ha caducado."
+
+#: inc/activation.php:89 job_manager/job-filters-hero.php:143
+#: job_manager/job-filters-hero.php:146 job_manager/job-filters-hero.php:150
+#: job_manager/job-filters.php:88 job_manager/job-filters.php:89
+msgid "Location"
+msgstr "Ubicación"
+
+#: job_manager/job-filters-hero.php:160 job_manager/job-filters.php:122
+msgid "Category"
+msgstr "Categoría"
+
+#: job_manager/job-filters-hero.php:161 job_manager/job-filters.php:125
+msgid "Any category"
+msgstr "Todas las Categorías"
+
+#: job_manager/job-filters.php:139
+msgid "Filter by tags"
+msgstr "Filtrar por etiquetas"
+
+#: job_manager/job-filters.php:57 job_manager/job-filters.php:151
+msgid "Filter"
+msgstr "Filtro"
+
+#: job_manager/job-filters.php:59 job_manager/job-filters.php:153
+msgid "Map View"
+msgstr "Vista de Mapa"
+
+#: job_manager/job-filters.php:62 job_manager/job-filters.php:156
+msgid "Cards View"
+msgstr "Vista de tarjetas"
+
+#: job_manager/job-filters-hero.php:181 job_manager/job-filters.php:165
+msgid "Your browser does not support JavaScript, or it is disabled. JavaScript must be enabled in order to view listings."
+msgstr "Su navegador no soporta JavaScript o está desactivado. JavaScript debe estar habilitado para ver los anuncios."
+
+#: job_manager/account-signin.php:44 job_manager/account-signin.php:51
+#: job_manager/job-submit.php:41
+msgid "(optional)"
+msgstr "(Opcional)"
+
+#: job_manager/job-filters-hero.php:22 job_manager/job-filters-hero.php:171
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/template-tags.php:423
+msgid "Or browse the highlights"
+msgstr "O selecciona una categoría"
+
+#: search.php:15
+msgid "Search results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: single-job_listing.php:64 template-parts/content-page.php:39
+#: template-parts/content-single.php:42
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: tag.php:15
+msgid "Tag: "
+msgstr "Etiqueta "
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "No hay resultados"
+
+#: template-parts/content-none.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primer artículo? <a href=\\”%1$s\\”>Comienza</a>."
+
+#: template-parts/content-none.php:20
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada corresponde a tu búsqueda. Intenta de nuevo con algo diferente."
+
+#: template-parts/content-none.php:25
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no pudimos encontrar lo que andas buscando.  Por favor, intenta usar nuestro buscador."
+
+#: woocommerce/custom/form-login.php:41 woocommerce/myaccount/form-login.php:30
+#: woocommerce/myaccount/form-login.php:52
+msgid "Login"
+msgstr "Login"
+
+#: woocommerce/myaccount/form-login.php:35
+msgid "Username or email address"
+msgstr "Nombre de usuario o email"
+
+#: plugins/login-with-ajax/modal/widget_out.php:20
+#: woocommerce/custom/form-login.php:30 woocommerce/myaccount/form-login.php:39
+#: woocommerce/myaccount/form-login.php:91
+msgid "Password"
+msgstr "Contraseña"
+
+#: plugins/login-with-ajax/modal/widget_out.php:26
+#: woocommerce/custom/form-login.php:44 woocommerce/myaccount/form-login.php:47
+msgid "Remember me"
+msgstr "Recordarme"
+
+#: plugins/login-with-ajax/modal/widget_out.php:30
+#: woocommerce/custom/form-login.php:48 woocommerce/myaccount/form-login.php:55
+msgid "Lost your password?"
+msgstr "¿Has olvidado la contraseña?"
+
+#: plugins/login-with-ajax/modal/widget_out.php:87
+#: woocommerce/myaccount/form-login.php:68
+#: woocommerce/myaccount/form-login.php:105
+msgid "Register"
+msgstr "Register"
+
+#: job_manager/account-signin.php:44
+#: plugins/login-with-ajax/modal/widget_out.php:69
+#: woocommerce/myaccount/form-login.php:77
+msgid "Username"
+msgstr "Nombre de Usuario"
+
+#: plugins/login-with-ajax/modal/widget_out.php:74
+#: woocommerce/myaccount/form-edit-account.php:40
+#: woocommerce/myaccount/form-login.php:84
+msgid "Email address"
+msgstr "Dirección email"
+
+#: woocommerce/myaccount/form-login.php:98
+msgid "Anti-spam"
+msgstr "Anti-spam"
+
+#. Theme Name of the plugin/theme
+#: inc/config.php:71
+msgid "Listable"
+msgstr "Listable"
+
+#. Theme URI of the plugin/theme
+msgid "https://pixelgrade.com/demos/listable/"
+msgstr "https://pixelgrade.com/demos/listable/"
+
+#. Description of the plugin/theme
+msgid "A directory WordPress theme that will help you create and manage a local or global listings site."
+msgstr "Un directorio de Wordpress tema que le ayudará a crear y gestionar un sitio local o anuncios globales. "
+
+#. Author of the plugin/theme
+msgid "PixelGrade"
+msgstr "Pixelgrade"
+
+#. Author URI of the plugin/theme
+msgid "https://pixelgrade.com/"
+msgstr "https://pixelgrade.com/"
+
+#. Template Name of the plugin/theme
+#: inc/widgets.php:623 inc/widgets.php:944 inc/widgets.php:1267
+#: inc/widgets.php:1422 inc/widgets.php:1675
+msgid "Front Page"
+msgstr "Pagina Principal"
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "1 review"
+msgid_plural "%1$s reviews"
+msgstr[0] "1 Comentarios"
+msgstr[1] "%1$s reseñas"
+
+#: footer.php:45
+msgid "and"
+msgstr "y"
+
+#: footer.php:46
+msgid "%1$s by %2$s."
+msgstr "%1$s por %2$s."
+
+#: functions.php:62 inc/import/demo-data/demo_data.php:6
+msgid "Footer Menu"
+msgstr "Menú de pie de página"
+
+#: functions.php:217
+msgid "The import didn't work completely!"
+msgstr "¡La importación no funcionó totalmente!"
+
+#: functions.php:217
+msgid "Check out the errors given. You might want to try reloading the page and try again."
+msgstr "Verifique los errores y recarga la página para intentarlo de nuevo."
+
+#: functions.php:218
+msgid "Importing the demo data will overwrite your current site content and options. Proceed anyway?"
+msgstr "La importación de los datos de demostración sobrescribirá el contenido del sitio actual y las opciones. ¿Proceder de todas maneras?"
+
+#: functions.php:219
+msgid "Phew...that was a hard one!"
+msgstr "Ufff… ¡Esto ha sido duro!"
+
+#: functions.php:220
+msgid "The demo data was imported without a glitch! Awesome! "
+msgstr "Importación completa! Impresionante! "
+
+#: functions.php:221
+msgid "<i>We have reloaded the page on the right, so you can see the brand new data!</i>"
+msgstr "<i>¡Hemos recargado la página correctamente, para que puedas ver los datos de nuevo!</i>"
+
+#: functions.php:222 inc/import/wordpress-importer/wordpress-importer.php:181
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Recuerde actualizar las contraseñas y funciones de los usuarios importados."
+
+#: functions.php:223
+msgid "All done!"
+msgstr "¡Ya está terminado!"
+
+#: functions.php:224
+msgid "Working..."
+msgstr ""
+
+#: functions.php:225
+msgid "The setting up of the demo widgets failed..."
+msgstr "La configuración de los widgets demo ha fallado…"
+
+#: functions.php:226
+msgid "The setting up of the demo widgets failed"
+msgstr "La configuración de los widgets demo ha fallado"
+
+#: functions.php:226 functions.php:229
+msgid "(The script returned the following message"
+msgstr "(El script devolvió el siguiente mensaje"
+
+#: functions.php:227
+msgid "Finished setting up the demo widgets..."
+msgstr "Configuración de los widgets demos terminada…"
+
+#: functions.php:228 functions.php:231
+msgid "The importing of the theme options has failed..."
+msgstr "La importación de las opciones del tema ha fallado…"
+
+#: functions.php:229
+msgid "The importing of the theme options has failed"
+msgstr "La importación de las opciones del tema ha fallado"
+
+#: functions.php:230
+msgid "Finished importing the demo theme options..."
+msgstr "Finalizó la importación de las opciones del tema de demostración."
+
+#: functions.php:232
+msgid "Importing posts | Step"
+msgstr "Importando publicaciones | Paso"
+
+#: functions.php:233
+msgid "Error:"
+msgstr "Error:"
+
+#: functions.php:234
+msgid "You can reload the page and try again."
+msgstr "Por favor, recarga la página y vuelve a intentarlo."
+
+#: inc/config.php:813
+msgid "Colors"
+msgstr "Colores"
+
+#: inc/config.php:716
+msgid "Footer Copyright Text"
+msgstr "Texto de Derechos de Autor"
+
+#: inc/config.php:718
+msgid "Copyright &copy; 2015 Company Inc.   &bull;   Address  &bull;   Tel: 42-898-4363"
+msgstr "Copyright &copy; 2015 Compañía Inc.   &bull;   Dirección  &bull;   Tel: 42-898-4363"
+
+#: inc/config.php:725
+msgid "Map Options"
+msgstr "Opciones de Mapa"
+
+#: inc/config.php:729
+msgid "Mapbox Integration (optional)"
+msgstr "Integración de Mapbox (opcional)"
+
+#: inc/config.php:734
+msgid "We are offering integration with the"
+msgstr "Ofrecemos integración con el"
+
+#: inc/config.php:735
+msgid "Mapbox"
+msgstr "Mapbox"
+
+#: inc/config.php:736
+msgid "service, so you can have better looking and highly performance maps"
+msgstr "service, así se consiguen mapas con mejor aspecto y alto rendimiento"
+
+#: inc/config.php:737
+msgid "Get a FREE token"
+msgstr "Obtén un token GRATIS"
+
+#: inc/config.php:738
+msgid "and paste it below. If there is nothing added, we will fallback to the Google Maps service"
+msgstr "y pégalo a continuación. Si no hay nada añadido, se apuntará al servicio de Google Maps"
+
+#: inc/config.php:743
+msgid "Mapbox Style"
+msgstr "Estilo del Mapbox"
+
+#: inc/config.php:755
+msgid "Custom styles works only if you have set a valid Mapbox API token in the field above."
+msgstr "Los estilos personalizados sólo funcionan si se especifica un token de la API de Mapbox válido en el campo de arriba."
+
+#: inc/config.php:760
+msgid "Custom JavaScript"
+msgstr "JavaScript Personalizado"
+
+#: inc/config.php:764
+msgid "Header"
+msgstr "Encabezado"
+
+#: inc/config.php:765
+msgid "Easily add Custom Javascript code. This code will be loaded in the <head> section."
+msgstr "Agregar código JavaScript fácilmente. Será cargado en la sección <head>."
+
+#: inc/config.php:770 inc/config.php:1370
+msgid "Footer"
+msgstr "Pié de página"
+
+#: inc/config.php:771
+msgid "You can paste here your Google Analytics tracking code (or for what matters any tracking code) and we will put it on every page."
+msgstr "Puedes pegar aquí un código de Google Analytics (o cualquier otro código de seguimiento) y se incluirá en cada página."
+
+#: inc/config.php:778
+msgid "Demo Data"
+msgstr "Datos Demo"
+
+#: inc/config.php:791
+msgid "Import demo data"
+msgstr "Importar datos demo"
+
+#: inc/config.php:796
+msgid "Please wait a few minutes (between 1 and 3 minutes usually, but depending on your hosting it can take longer) and <strong>don't reload the page</strong>. You will be notified as soon as the import has finished!"
+msgstr "Por favor, espere unos minutos (entre 1 y 3 minutos por lo general, pero dependiendo de su alojamiento puede tomar más tiempo) y <strong> no recargar la página </ strong>. Se le notificará tan pronto como la importación ha terminado!"
+
+#: inc/config.php:816
+msgid "Site Header"
+msgstr "Cabecera del Sitio"
+
+#: inc/config.php:821
+msgid "Transparent on Front Page Hero"
+msgstr "Transparencia en la Portada"
+
+#: inc/config.php:825
+msgid "Header Background Color"
+msgstr "Color de fondo de Cabecera"
+
+#: inc/config.php:864
+msgid "Site Title Color"
+msgstr "Color del Título del sitio"
+
+#: inc/config.php:877
+msgid "Search Color"
+msgstr "Buscar de color"
+
+#: inc/config.php:890
+msgid "Nav Link Color"
+msgstr "Color de vínculo Nav"
+
+#: inc/config.php:925
+msgid "Nav Active Color"
+msgstr "Color de Nav. activa"
+
+#: inc/config.php:958
+msgid "Nav Button Color"
+msgstr "Color de Bóton"
+
+#: inc/config.php:973
+msgid "Main Content"
+msgstr "Contenido Principal"
+
+#: inc/config.php:977
+msgid "Content Background"
+msgstr "Fondo del Contenido"
+
+#: inc/config.php:1002
+msgid "Page Background"
+msgstr "Fondo de la Página"
+
+#: inc/config.php:1044
+msgid "Page Titles Color"
+msgstr "Títulos de Página - Color"
+
+#: inc/config.php:350
+msgid "Headings Color"
+msgstr "Color encabezado"
+
+#: inc/config.php:1081 inc/config.php:1238 inc/config.php:1356
+#: inc/config.php:1386
+msgid "Text Color"
+msgstr "Color texto"
+
+#: inc/config.php:1132
+msgid "Buttons Color"
+msgstr "Color de Botones"
+
+#: inc/config.php:1170
+msgid "Cards"
+msgstr "Tarjetas"
+
+#: inc/config.php:1174
+msgid "Cards Background"
+msgstr "Fondo de Tarjetas"
+
+#: inc/config.php:1222
+msgid "Title Color"
+msgstr "Color del título"
+
+#: inc/config.php:1252
+msgid "Icons Color"
+msgstr "Color de Icono"
+
+#: inc/config.php:1267
+msgid "Icons Border Color"
+msgstr "Iconos Color del borde"
+
+#: inc/config.php:1304
+msgid "Pin Background Color"
+msgstr "Pin - Color de Fondo"
+
+#: inc/config.php:1320
+msgid "Pin Color"
+msgstr "Color de Pin"
+
+#: inc/config.php:1340
+msgid "Pre Footer"
+msgstr "Pre pie de página"
+
+#: inc/config.php:1344 inc/config.php:1374
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/config.php:1398
+msgid "Credits Color"
+msgstr "Color de Créditos"
+
+#: inc/config.php:1412
+msgid "Other Colors"
+msgstr "Otros Colores"
+
+#: inc/config.php:1416
+msgid "Accent Color"
+msgstr "Color para Resaltar"
+
+#: inc/config.php:685
+msgid "Gray Color"
+msgstr "Color Gris"
+
+#: inc/config.php:766
+msgid "Descriptions"
+msgstr "Descripción"
+
+#: inc/config.php:802
+msgid "Style"
+msgstr "Estilo"
+
+#: inc/extras.php:131 inc/extras.php:141
+msgid "Page Subtitle"
+msgstr "Subtítulo de Página"
+
+#: inc/extras.php:133
+msgid "This is the subtitle that will be shown in the page's Hero Area, below the page title."
+msgstr "Este es el subtítulo que se muestra en la Portada, debajo del título de la Página."
+
+#: inc/integrations/wp-job-manager.php:222
+msgid "Post a Listing"
+msgstr "Publicar un Lugar"
+
+#: inc/integrations/wp-job-manager.php:226
+msgid "Listing Dashboard"
+msgstr "Panel de Lugar"
+
+#: inc/import/demo-data/demo_data.php:4
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: inc/import/demo-data/demo_data.php:5
+msgid "Social Menu"
+msgstr "Menú Social"
+
+#: inc/import/import-demo-listing-categories.php:37
+#: inc/import/import-demo-listing-tags.php:37
+msgid "The Auto importing script could not be loaded. Please use the  "
+msgstr "El Script de importación automática no se pudo cargar. Utilice el "
+
+#: inc/import/import-demo-listing-categories.php:38
+#: inc/import/import-demo-listing-tags.php:38
+msgid "WordPress default import"
+msgstr "Importación de WP por defecto"
+
+#: inc/import/import-demo-listing-categories.php:39
+#: inc/import/import-demo-listing-tags.php:39
+msgid "and import the .XML file provided in the archive you've received on purchase manually."
+msgstr "e importar el archivo .XML proporcionado en el archivo que ha recibido en la compra."
+
+#: inc/import/wordpress-importer/parsers.php:44
+#: inc/import/wordpress-importer/parsers.php:75
+#: inc/import/wordpress-importer/parsers.php:83
+msgid "There was an error when reading this WXR file"
+msgstr "Se produjo un error al leer este archivo"
+
+#: inc/import/wordpress-importer/parsers.php:45
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Los detalles se muestran a continuación. El importador lo intentará de nuevo con un analizador diferente (RegEx)..."
+
+#: inc/import/wordpress-importer/parsers.php:88
+#: inc/import/wordpress-importer/parsers.php:94
+#: inc/import/wordpress-importer/parsers.php:356
+#: inc/import/wordpress-importer/parsers.php:574
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Esto no parece ser un archivo WXR, falta o no es válido el número de versión WXR"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:136
+#: inc/import/wordpress-importer/wordpress-importer.php:145
+#: inc/import/wordpress-importer/wordpress-importer.php:195
+#: inc/import/wordpress-importer/wordpress-importer.php:200
+#: inc/import/wordpress-importer/wordpress-importer.php:210
+msgid "Sorry, there has been an error."
+msgstr "Ha habido un error."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:137
+msgid "The file does not exist, please try again."
+msgstr "El archivo no existe, inténtalo nuevamente."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:180
+msgid "All done."
+msgstr "¡Ya está terminado!"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:180
+msgid "Have fun!"
+msgstr "Diviértase!  "
+
+#: inc/import/wordpress-importer/wordpress-importer.php:201
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "El archivo de exportación no podía encontrar <code>%s</code> Es probable que esto fue causado por un problema de permisos."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:219
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Este archivo WXR (versión %s) puede que no sea compatible con esta versión del importador. Por favor considere actualizar."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:243
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Error al importar autora%s. Sus puestos se atribuyen al usuario actual."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:270
+msgid "Assign Authors"
+msgstr "Asignar Autores"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:271
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr "Para hacerlo más fácil para que usted pueda editar y guardar el contenido importado, es posible que desee reasignar el autor del artículo importado a un usuario existente de este sitio. Por ejemplo, es posible que desee importar todas las entradas como <code>admin</code> entradas s."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:273
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user's role will be set as %s. Manually changing the new user's details will be necessary."
+msgstr "Si se crea un nuevo usuario con Wordpress, una nueva contraseña se generará aleatoriamente y el perfil del nuevo usuario  se configurará como %s. Para cambiar los detalles del nuevo usuario tendrá que hacerse manualmente."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:283
+msgid "Import Attachments"
+msgstr "Adjuntos de importación"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:286
+msgid "Download and import file attachments"
+msgstr "Descargue e importe los archivos adjuntos"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:291
+#: inc/template-tags.php:440 woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr "Enviar"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:305
+msgid "Import author:"
+msgstr "Importación autor:"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:319
+msgid "or create new user with login name:"
+msgstr "o crear un nuevo usuario con el nombre de inicio de sesión:"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:322
+msgid "as a new user:"
+msgstr "como un nuevo usuario:"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:330
+msgid "assign posts to an existing user:"
+msgstr "asignar publicación a un usuario existente:"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:332
+msgid "or assign posts to an existing user:"
+msgstr "o asignar publicación a un usuario existente :"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:337
+msgid "- Select -"
+msgstr "- Seleccionar -"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:392
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Error al crear nuevo usuario para%s. Sus puestos se atribuyen al usuario actual."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:450
+msgid "Failed to import category %s"
+msgstr "No se pudo importar la categoría%s"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:497
+msgid "Failed to import post tag %s"
+msgstr "Error al importar la etiqueta posterior%s"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:558
+#: inc/import/wordpress-importer/wordpress-importer.php:736
+#: inc/import/wordpress-importer/wpgrade-import-class.php:280
+msgid "Failed to import %s %s"
+msgstr "Error al importar%s%s"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:607
+#: inc/import/wordpress-importer/wpgrade-import-class.php:136
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr "Error al importar “%s”: Tipo de  publicación %s no válida"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:630
+msgid "%s \"%s\" already exists."
+msgstr "%s “%s” ya existe."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:700
+#: inc/import/wordpress-importer/wpgrade-import-class.php:244
+msgid "Failed to import %s \"%s\""
+msgstr "Error al importar %s \"%s\""
+
+#: inc/import/wordpress-importer/wordpress-importer.php:876
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Elemento de menú saltado debido a la falta slug del menú"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:884
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Elemento de menú saltado debido a no válida el slug  de menú:%s"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:984
+msgid "Fetching attachments is not enabled"
+msgstr "Obteniendo los archivos adjuntos no está habilitado"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1000
+msgid "Invalid file type"
+msgstr "Archivo no válido"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1047
+msgid "Remote server did not respond"
+msgstr "Servidor remoto no respondió"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1054
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Servidor remoto de error devuelto respuesta% 1 $ d%2$s"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1062
+msgid "Remote file is incorrect size"
+msgstr "Tamaña de Archivo remoto es incorrecto"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1068
+msgid "Zero size file downloaded"
+msgstr "Archivo de tamaño cero descargardo"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1075
+msgid "Remote file is too large, limit is %s"
+msgstr "Remote file is too large, limit is %s"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1183
+msgid "Import WordPress"
+msgstr "Importación WordPress"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1190
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr "Una nueva versión de este importador está disponible. Por favor, actualice a la versión%s para asegurar la compatibilidad con los archivos de exportación más nuevos."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1205
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we'll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "¡Hola! Carga tu archivo Wordpress (WXR) y nosotros importaremos las entradas, páginas, comentarios, campos personalizados, categorías y etiquetas en este sitio."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1206
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Elige un archivo WXR (.xml) para subir, luego haz click en “subir archivo e importar”."
+
+#: inc/tutorials.php:45
+msgid "so make sure you choose them wisely and include all the relevant ones."
+msgstr "asegurase de elegir bien e incluir lo más relevante."
+
+#: inc/tutorials.php:109
+msgid "Contact information is always useful. If you have a"
+msgstr "La información de contacto es siempre útil. Si tiene un"
+
+#: inc/tutorials.php:116
+msgid "Even if they are optional, they are very important so visitors can get find you"
+msgstr "Incluso si son opcionales, son muy importantes para que los visitantes puedan obtener encontrarle"
+
+#: inc/tutorials.php:166 inc/tutorials.php:202
+msgid "Let me give you a leaner start by loading some "
+msgstr "Déjeme darle una primera lección mediante la carga de algunos "
+
+#: inc/tutorials.php:167
+msgid "sample categories and icons"
+msgstr "ejemplo de categorías e iconos"
+
+#: inc/tutorials.php:168 inc/tutorials.php:204
+msgid "that you can use (or delete) later on"
+msgstr "que se puede utilizar (o eliminar) más adelante"
+
+#: inc/tutorials.php:169
+msgid "Load Sample Categories & Icons"
+msgstr "Cargar Muestras de Categorías e iconos"
+
+#: inc/tutorials.php:170 inc/tutorials.php:206
+msgid "Please wait a few minutes (between 1 and 3 minutes usually, but depending on your hosting it can take longer) and"
+msgstr "Por favor, espere un breve tiempo (entre 1 y 3 minutos por lo general, eso dependiendo de su hosting puede tomar más tiempo) y"
+
+#: inc/config.php:798 inc/tutorials.php:171 inc/tutorials.php:207
+msgid "don't reload the page"
+msgstr "no recargues la página"
+
+#: inc/config.php:799 inc/tutorials.php:172 inc/tutorials.php:208
+msgid "You will be notified as soon as the import has finished!"
+msgstr "¡Te avisaremos en cuanto la importación esté lista!"
+
+#: inc/tutorials.php:203
+msgid "sample tags and icons"
+msgstr "ejemplo de etiquetas e iconos"
+
+#: inc/tutorials.php:205
+msgid "Load Sample Tags & Icons"
+msgstr "Cargar ejemplo de Etiquetas e Iconos"
+
+#: inc/widgets.php:923
+msgid "Explore these lovely listings"
+msgstr "Explore estos lugares increíbles"
+
+#: inc/widgets.php:1424
+msgid "Emphasize some features of your website or use it as a step-by-step explaining process."
+msgstr "Destaca algunas de las características de la web o utilízalo como un proceso de explicación paso a paso."
+
+#: inc/widgets.php:1549
+msgid "Main Title:"
+msgstr "Título Principal:"
+
+#: inc/widgets.php:1554
+msgid "Main Subtitle:"
+msgstr "Subtítulo Principal:"
+
+#: job_manager/content-no-jobs-found.php:9
+#: job_manager/content-no-jobs-found.php:11
+msgid "There are no listings matching your search."
+msgstr "No hay registros que coincidan con su búsqueda."
+
+#: job_manager/content-single-job_listing-company.php:33
+msgid "Twitter"
+msgstr "Twitter"
+
+#: job_manager/content-single-job_listing-company.php:48
+msgid "Website"
+msgstr "Sitios web"
+
+#: job_manager/form-fields/file-field.php:28
+msgid "Maximum file size: %s."
+msgstr "Tamaño máximo del archivo %s."
+
+#: job_manager/form-fields/multiselect-field.php:3
+msgid "No results match"
+msgstr "Ningún resultado coincide"
+
+#: job_manager/form-fields/multiselect-field.php:3
+msgid "Select Some Options"
+msgstr "Selecciona algunas opciones"
+
+#: job_manager/form-fields/uploaded-file-html.php:6
+#: job_manager/form-fields/uploaded-file-html.php:8
+msgid "remove"
+msgstr "borrar"
+
+#: wc-paid-listings/package-selection.php:14
+msgid "%s job posted out of %d"
+msgid_plural "%s jobs posted out of %d"
+msgstr[0] "%s trabajo publicado de %d"
+msgstr[1] "%s trabajos publicados de %d"
+
+#: wc-paid-listings/package-selection.php:16
+msgid "%s job posted"
+msgid_plural "%s jobs posted"
+msgstr[0] "%s trabajo publicado"
+msgstr[1] "%s trabajos publicados"
+
+#: wc-paid-listings/package-selection.php:42
+msgid "listed for %s day"
+msgid_plural "listed for %s days"
+msgstr[0] "enumerado para el día de%s"
+msgstr[1] "publicados por %s días"
+
+#: wc-paid-listings/package-selection.php:70
+msgid "Most Popular"
+msgstr "Más Popular"
+
+#: wc-paid-listings/package-selection.php:81
+msgid "Free"
+msgstr "Gratis"
+
+#: wc-paid-listings/package-selection.php:49
+#: wc-paid-listings/package-selection.php:91
+msgid "Get Started"
+msgstr "Anunciar"
+
+#: wc-paid-listings/package-selection.php:99
+msgid "No packages found"
+msgstr "No se han encontrado paquetes"
+
+#: woocommerce/archive-product.php:51
+msgid "All Products"
+msgstr "Todos los Productos"
+
+#: woocommerce/cart/cart.php:27 woocommerce/myaccount/view-subscription.php:94
+msgid "Product"
+msgstr "Producto"
+
+#: woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr "Precio"
+
+#: woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: woocommerce/cart/cart-totals.php:78 woocommerce/cart/cart.php:30
+#: woocommerce/checkout/review-order.php:117
+#: woocommerce/myaccount/my-orders.php:28
+#: woocommerce/myaccount/view-subscription.php:95
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/cart/cart.php:95
+msgid "Available on backorder"
+msgstr "Disponible para reservar"
+
+#: woocommerce/cart/cart.php:60
+msgid "Remove this item"
+msgstr "Eliminar este artículo"
+
+#: woocommerce/cart/cart.php:146
+msgid "Coupon"
+msgstr "Cupón"
+
+#: woocommerce/cart/cart.php:146 woocommerce/checkout/form-coupon.php:28
+msgid "Coupon code"
+msgstr "Tu código de cupón"
+
+#: woocommerce/cart/cart.php:147 woocommerce/checkout/form-coupon.php:32
+msgid "Apply Coupon"
+msgstr "Aplicar cupón"
+
+#: woocommerce/cart/cart.php:154
+msgid "Update Cart"
+msgstr "Actualizar carrito"
+
+#: woocommerce/loop/result-count.php:32
+msgid "Showing the single result"
+msgstr "Mostrando un solo resultado"
+
+#: woocommerce/loop/result-count.php:34
+msgid "Showing all %d results"
+msgstr "Mostrando todos los %d resultados"
+
+#: woocommerce/loop/result-count.php:36
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr "Mostrando %1$d&ndash;%2$d of %3$d resultados"
+
+#: woocommerce/single-product/review.php:48
+msgid "Your comment is awaiting approval"
+msgstr "Tu comentario está pendiente de aprobación"
+
+#: woocommerce/single-product/review.php:57
+msgid "verified owner"
+msgstr "propietario verificado"
+
+#: woocommerce/single-product/review.php:38
+msgid "Rated %d out of 5"
+msgstr "Calificado en %d de 5"
+
+#: woocommerce/single-product/review.php:39
+msgid "out of 5"
+msgstr "sobre 5"
+
+#: woocommerce/single-product-reviews.php:24
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s reseñas de %s"
+msgstr[1] "%s reseñas de %s"
+
+#: inc/widgets.php:243 woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr "Reseñas"
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr "Aún no hay reseñas."
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr "Agregar una reseña"
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr "Sé el primero en poner una reseña"
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Leave a Reply to %s"
+msgstr "Deja una Respuesta a %s"
+
+#: woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr "Nombre"
+
+#: woocommerce/myaccount/view-subscription.php:244
+#: woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr "Email"
+
+#: woocommerce/single-product-reviews.php:76
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr "Usted debe ser conectado <a href=\"%s\"> </a> para escribir un comentario."
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Your Rating"
+msgstr "Tu valoración"
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Rate&hellip;"
+msgstr "Rate&hellip;"
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Perfect"
+msgstr "Perfecto"
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Good"
+msgstr "Bueno"
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Average"
+msgstr "En la media"
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Not that bad"
+msgstr "No esta mal"
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Very Poor"
+msgstr "Malo"
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Your Review"
+msgstr "Tu reseña"
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr "Únicamente las clientes que compraron este producto puede dejar un comentario."
+
+#: inc/activation.php:74
+msgid "Front Page » Highlighted Categories"
+msgstr "Portada »Categorías destacadas"
+
+#: inc/activation.php:74
+msgid "<p>You can select which categories to highlight, by adding their <em>slugs</em>, separated by a comma: <em>food, hotels, restaurants</em></p><p> You can add change their <em>shown name</em> (in case it is too long) with this pattern: <em>slug (My Custom Name)</em></p>"
+msgstr "<p>Puede seleccionar las categorías para resaltar, mediante la adición de sus <em>relaciones</em>,separados por una coma: <em>alimentos, hoteles, restaurantes</em></p><p>Puede añadir cambiar su<em>nombre que se muestra </em>(en caso de que es demasiado largo) con este patrón:<em>babosa (mi nombre personalizado)</em></p>"
+
+#: inc/extras.php:87
+msgid "Customize Front Page Sections"
+msgstr "Personalizar secciones  de Portada"
+
+#: inc/extras.php:106
+msgid "Customize Listings Layout"
+msgstr "Personalizar plantilla de Listado"
+
+#: inc/widgets.php:9
+msgid "Front Page Sections"
+msgstr "Secciones de Portada"
+
+#: inc/widgets.php:19 inc/widgets.php:187
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/widgets.php:29
+msgid "Sidebar Top"
+msgstr "Barra lateral superior"
+
+#: inc/widgets.php:39
+msgid "Sidebar Bottom"
+msgstr "Barra lateral inferior"
+
+#: inc/widgets.php:96 woocommerce/myaccount/view-subscription.php:57
+#: wp-job-manager-bookmarks/my-bookmarks.php:7
+msgid "Actions"
+msgstr "Acciones"
+
+#: inc/integrations/wp-job-manager-tags.php:55
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: inc/widgets.php:273
+msgid "Location Map"
+msgstr "Localización en el Mapa"
+
+#: inc/widgets.php:944
+msgid "Listing Categories"
+msgstr "Categorías de lugares"
+
+#: inc/widgets.php:1267
+msgid "Recent Posts"
+msgstr "﻿Publicaciones recientes"
+
+#: inc/widgets.php:1422
+msgid "Spotlights"
+msgstr "Destacados"
+
+#: bookmark-form.php:12 bookmark-form.php:13
+msgid "Favorited"
+msgstr "Favorito"
+
+#: functions.php:61 inc/import/demo-data/demo_data.php:5
+msgid "Search Menu"
+msgstr "Menú de Búsqueda"
+
+#: functions.php:185
+msgid "Add Photo"
+msgstr "Añadir Foto"
+
+#: functions.php:186
+msgid "No results"
+msgstr "No se encontraron resultados"
+
+#: functions.php:187
+msgid "Results"
+msgstr "Resultados"
+
+#: inc/activation.php:98
+msgid "Front Page &raquo; Highlighted Categories"
+msgstr "Página Principal &raquo; Categorías Destacadas"
+
+#: inc/activation.php:98
+msgid "<p>You can select which categories to highlight, by adding their <em>slugs</em>, separated by a comma: <em>food, hotels, restaurants</em></p><p> You can change their <em>shown name</em> (in case it is too long) with this pattern: <em>slug (My Custom Name)</em></p>"
+msgstr "<p>Puedes seleccionar qué categorías destacar, mediante la adición de <em>slugs</em>, separadas por una coma: <em>comida, hoteles, restaurantes</em></p><p> Puedes cambiar <em>el nombre mostrado</em> (si es demasiado largo) con este patrón: <em>slug (Mi Nombre Personalizado)</em></p>"
+
+#: inc/config.php:61
+msgid "Style Presets"
+msgstr "Estilo Prestablecido"
+
+#: inc/config.php:65
+msgid "Select a style:"
+msgstr "Seleccionar un estilo:"
+
+#: inc/config.php:66
+msgid "Conveniently change the design of your site with built-in style presets. Easy as pie."
+msgstr "Es conveniente cambiar el diseño del sitio con un estilo prestablecido incorporado. Muy fácil."
+
+#: inc/config.php:160
+msgid "Royal"
+msgstr "Royal"
+
+#: inc/config.php:244
+msgid "Silkberry"
+msgstr "Silkberry"
+
+#: inc/config.php:339
+msgid "Orangina"
+msgstr "Orangina"
+
+#: inc/config.php:437
+msgid "Jolly"
+msgstr "Jolly"
+
+#: inc/config.php:538
+msgid "Navy"
+msgstr "Navy"
+
+#: inc/config.php:617
+msgid "Grass"
+msgstr "Grass"
+
+#: inc/config.php:1069
+msgid "Page Subtitles Color"
+msgstr "Subtítulos de Página - Color"
+
+#: inc/config.php:1290
+msgid "Icon Background Color"
+msgstr "Fondo de Color del Ícono"
+
+#: inc/config.php:1486
+msgid "Meta Fields Color"
+msgstr "Meta Campos - Color"
+
+#: inc/config.php:1561
+msgid "Micro Elements"
+msgstr "Micro Elementos"
+
+#: inc/config.php:1592
+msgid "Fonts"
+msgstr "Fuentes"
+
+#: inc/config.php:1595
+msgid "Site Title"
+msgstr "Título del Sitio"
+
+#: inc/config.php:1600
+msgid "The font used for Site Title when you do not have a Logo image."
+msgstr "Fuente usada para el Título (sí no hay imagen)."
+
+#: inc/config.php:1609 inc/config.php:1686 inc/config.php:1843
+msgid "Font Size"
+msgstr "Tamaño de Fuente"
+
+#: inc/config.php:1629 inc/config.php:1707 inc/config.php:1864
+msgid "Text Transform"
+msgstr "Transformación de texto"
+
+#: inc/config.php:1650 inc/config.php:1729 inc/config.php:1886
+msgid "Letter Spacing"
+msgstr "Espaciado entre caracteres"
+
+#: inc/config.php:1671 inc/config.php:1675
+msgid "Navigation Text"
+msgstr "Texto de la Navegación"
+
+#: inc/config.php:1751
+msgid "Body Text"
+msgstr "Texto del Cuerpo"
+
+#: inc/config.php:1755
+msgid "Body Font"
+msgstr "Fuentes cuerpo"
+
+#: inc/config.php:1782
+msgid "Page Titles"
+msgstr "Títulos de Páginas"
+
+#: inc/config.php:1786
+msgid "Headings"
+msgstr "Títulos"
+
+#: inc/config.php:1806 inc/config.php:1810
+msgid "Page Subtitles"
+msgstr "Subtítulos de Página"
+
+#: inc/config.php:1829 inc/config.php:1833
+msgid "Card Title Font"
+msgstr "Título de Tarjeta - Fuente"
+
+#: inc/config.php:1908 inc/config.php:1912
+msgid "Card Font"
+msgstr "Fuente Tarjeta"
+
+#: inc/config.php:1922 inc/config.php:1926
+msgid "Meta & Forms"
+msgstr "Meta y Formularios"
+
+#: inc/extras.php:660 inc/extras.php:667
+msgid "Wrong Password"
+msgstr "Contraseña Incorrecta"
+
+#: inc/integrations/jetpack/site-logo/inc/class-site-logo.php:78
+msgid "Site Identity"
+msgstr "Identidad del sitio"
+
+#: inc/template-tags.php:439
+msgid "This content is password protected. To view it please enter your password below:"
+msgstr "Este contenido está protegido por contraseña. Para verlo por favor a continuación ingrese su contraseña:"
+
+#: inc/template-tags.php:440
+msgid "Password:"
+msgstr "Contraseña:"
+
+#: inc/integrations/wp-job-manager.php:179
+#: inc/integrations/wp-job-manager.php:198 inc/widgets.php:1675
+msgid "Listing Regions"
+msgstr "Zonas de Lugares"
+
+#: inc/widgets.php:1676
+msgid "Display a list of listing regions based on different criteria (eg. most popular, random) or specify which ones you want to show."
+msgstr "Mostrar una lista de categorías en función de diferentes criterios (por ejemplo. El más popular, al azar) o especificar cuáles desea mostrar."
+
+#: inc/widgets.php:1910
+msgid "Regions Slug(optional):"
+msgstr "Regiones Slug (opcional):"
+
+#: inc/widgets.php:1948
+msgid "Where are you going next?"
+msgstr "¿A dónde va ahora?"
+
+#: inc/widgets.php:1949
+msgid "Find the best places to spend your time, near you or in any location around the world."
+msgstr "Encuentra los mejores lugares para pasar el tiempo, cerca de ti o en cualquier lugar."
+
+#: inc/integrations/woocommerce.php:66
+msgid "Place order"
+msgstr "Realizar pedido"
+
+#: inc/integrations/wp-job-manager.php:180
+msgid "Region"
+msgstr "Zona"
+
+#: inc/integrations/wp-job-manager.php:181
+msgid "Search Regions"
+msgstr "Buscar Zonas"
+
+#: inc/integrations/wp-job-manager.php:182
+msgid "Popular Regions"
+msgstr "Zonas Populares"
+
+#: inc/integrations/wp-job-manager.php:183 job_manager/job-filters-hero.php:147
+msgid "All Regions"
+msgstr "Ciudades"
+
+#: inc/integrations/wp-job-manager.php:184
+msgid "Parent Region"
+msgstr "Zona Relacionada"
+
+#: inc/integrations/wp-job-manager.php:185
+msgid "Parent Region:"
+msgstr "Ciudad relacionada:"
+
+#: inc/integrations/wp-job-manager.php:186
+msgid "Edit Region"
+msgstr "Editar Zona"
+
+#: inc/integrations/wp-job-manager.php:187
+msgid "View Region"
+msgstr "Ver Zona"
+
+#: inc/integrations/wp-job-manager.php:188
+msgid "Update Region"
+msgstr "Actualizar Zona"
+
+#: inc/integrations/wp-job-manager.php:189
+msgid "Add New Region"
+msgstr "Agregar nueva Zona"
+
+#: inc/integrations/wp-job-manager.php:190
+msgid "New Region Name"
+msgstr "Nuevo Nombre de Zona"
+
+#: inc/integrations/wp-job-manager.php:191
+msgid "Separate regions with commas"
+msgstr "Zonas separadas con comas"
+
+#: inc/integrations/wp-job-manager.php:192
+msgid "Add or remove regions"
+msgstr "Agregar o quitar zonas"
+
+#: inc/integrations/wp-job-manager.php:193
+msgid "Choose from the most used regions"
+msgstr "Elija una de las zonas más populares"
+
+#: inc/integrations/wp-job-manager.php:194
+msgid "No regions found."
+msgstr "No se encontraron zonas."
+
+#: inc/integrations/wp-job-manager.php:195
+msgid "No regions"
+msgstr "No hay zonas"
+
+#: inc/integrations/wp-job-manager.php:196
+msgid "Regions"
+msgstr "Zonas"
+
+#: inc/integrations/wp-job-manager.php:197
+msgid "Listing Region"
+msgstr "Zona de Lugar"
+
+#. Qué debemos hacer con estos enlaces permanentes???
+#: inc/integrations/wp-job-manager.php:201
+msgctxt "permalink"
+msgid "listing-region"
+msgstr "lugar-zona"
+
+#: inc/integrations/wp-job-manager.php:398
+#: inc/integrations/wp-job-manager.php:403
+msgid "The first image will be shown on listing cards."
+msgstr "La primer imagen será la principal del Negocio, en el orden de aparición."
+
+#: inc/integrations/wp-job-manager.php:780
+msgid "Submit Listing"
+msgstr "Confirmar Anuncio"
+
+#: inc/integrations/wp-job-manager.php:781
+msgid "Edit listing"
+msgstr "Editar Anuncio"
+
+#: inc/integrations/wp-job-manager.php:787
+msgid "Preview"
+msgstr "Previsualizacion"
+
+#: inc/integrations/wp-job-manager-products.php:120
+msgid "Products"
+msgstr "Productos"
+
+#: inc/integrations/wp-job-manager-products.php:122
+msgid "The products linked to the current listing."
+msgstr "Los productos ligados al lugar actual."
+
+#: inc/integrations/wp-job-manager-products.php:241
+msgid "Make an Online Reservation"
+msgstr "Realizar una reserva en línea"
+
+#: inc/integrations/wp-job-manager-products.php:242
+msgid "Powered by WooCommerce Plugin"
+msgstr "Desarrollado por WooCommerce Plugin"
+
+#: job_manager/job-submitted.php:7
+msgid "%s listed successfully. To view your listing <a href=\"%s\">click here</a>."
+msgstr "%s publicado correctamente. Para ver su Lugar <a href=“%s”>haz clic aquí</a>."
+
+#: job_manager/job-submitted.php:12
+msgid "%s submitted successfully. Your listing will be visible once approved."
+msgstr "%s enviado correctamente. Su anuncio será visible una vez que sea aprobado."
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr "Compras totales"
+
+#: woocommerce/cart/cart-totals.php:24 woocommerce/checkout/review-order.php:70
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr "Envío"
+
+#: woocommerce/cart/cart-totals.php:90
+msgid " (taxes estimated for %s)"
+msgstr " (impuesto estimado por %s)"
+
+#: woocommerce/cart/cart-totals.php:93
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr "Nota: Los costes de envío son estimados%s y se actualizarán antes de realizar el pago."
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Usted debe estar conectado para pagar."
+
+#: woocommerce/checkout/form-coupon.php:20
+msgid "Have a coupon?"
+msgstr "¿Tiene un cupón de descuento?"
+
+#: woocommerce/checkout/form-coupon.php:20
+msgid "Click here to enter your code"
+msgstr "Haz clic aquí para introducir tu código"
+
+#: woocommerce/checkout/form-login.php:21
+msgid "Returning customer?"
+msgstr "¿Ya es cliente?"
+
+#: woocommerce/checkout/form-login.php:29
+#: woocommerce/checkout/form-login.php:34
+msgid "Click here to login"
+msgstr "Haz clic aquí para iniciar sesión"
+
+#: woocommerce/checkout/form-login.php:38
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr "Si no es primera vez que compras aquí, por favor ingresa tu usuario y contraseña. Si aun no eres cliente, por favor continúa a la sección de facturación y envío."
+
+#: woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Por favor, introduce tus datos arriba para ver los métodos de pago disponibles."
+
+#: woocommerce/checkout/payment.php:34
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Lo sentimos, parece que no existen métodos de pago disponibles en su estado. Por favor, póngase en contacto con nosotros si necesita ayuda."
+
+#: woocommerce/checkout/place-order-button.php:9
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "Debido a que su navegador no soporta JavaScript, o no funciona, por favor asegúrese de hacer clic en los <em> Totales Actualizar </ em> botón antes de realizar su pedido. Se le puede cobrar más de la cantidad indicada anteriormente si no lo hace."
+
+#: woocommerce/checkout/place-order-button.php:9
+msgid "Update totals"
+msgstr "Actualizar totales"
+
+#: woocommerce/checkout/place-order-button.php:19
+msgid "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; conditions</a>"
+msgstr "Lea y acepte <a href=“%s” target=“_blank”>términos y condiciones</a>"
+
+#: woocommerce/custom/form-login.php:26
+msgid "Username or email"
+msgstr "Nombre de usuario o e-mail"
+
+#: functions.php:60
+msgid "Secondary Menu"
+msgstr "Menú Secundario"
+
+#: functions.php:456
+msgid "A <strong>valid purchase code</strong> is required for automatic updates."
+msgstr "Se requiere un <strong>código de compra válida</strong> para actualizaciones automáticas."
+
+#: functions.php:467
+msgid "Purchase code not updated. We will keep the existing one."
+msgstr "Código de compra no se actualiza. Vamos a mantener el existente."
+
+#: functions.php:470
+msgid "Your <strong>purchase code is valid</strong>. Thank you! Enjoy one-click automatic updates."
+msgstr "Su <strong>código de compra es válido.</strong> ¡Gracias! Disfrutar de un solo clic actualizaciones automáticas."
+
+#: functions.php:478
+msgid "Enter your purchase code and <strong>hit return/enter</strong>."
+msgstr "Introduzca su código de compra y <strong>pulsa enter / intro.</strong>."
+
+#: functions.php:480
+msgid "Find out how to <a href=\"https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-\" target=\"_blank\">get your purchase code</a>."
+msgstr "Encontrar la manera de <a href=\"https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-\" target=\"_blank\">obtener su código de compra</a> ."
+
+#: functions.php:537
+msgid "Your purchase's support period has ended. Please extend it to receive automatic updates."
+msgstr "Período de soporte de su compra ha terminado. Por favor, extenderlo para recibir actualizaciones automáticas."
+
+#: functions.php:539
+msgid "Could not find a sale with this purchase code. Please double check."
+msgstr "No se pudo encontrar una venta con este código de compra. Revisa otra vez, por favor."
+
+#: functions.php:546
+msgid "Please enter a purchase code"
+msgstr "Por favor, introduzca un código de compra"
+
+#: functions.php:601
+msgid "You can also create an account with a social network."
+msgstr "También puede crear una cuenta con una red social."
+
+#: inc/activation.php:73
+msgid "Front Page &raquo; Search Fields"
+msgstr "Portada »Campos de búsqueda"
+
+#: inc/activation.php:73
+msgid "<p>Choose what fields to show in the hero area of this front page.</p>"
+msgstr "<p> Elegir qué campos para mostrar en la zona héroe de esta portada. </p>"
+
+#: inc/activation.php:83
+msgid "Search Fields"
+msgstr "Campos de búsqueda"
+
+#: inc/activation.php:88 job_manager/job-filters-hero.php:128
+#: template-parts/header-fields.php:79
+msgid "Keywords"
+msgstr "Keywords"
+
+#: inc/config.php:779
+msgid "If you would like to have a \"ready to go\" website as the Listable's demo page here is the button"
+msgstr "Si desea tener un \"listo para ir\" sitio web como la página de demostración listables aquí está el botón"
+
+#: inc/config.php:789
+msgid "(Note: We cannot serve you the original images due the "
+msgstr "(Nota: No podemos servir a las imágenes originales debido al "
+
+#: inc/config.php:797
+msgid "Please wait a few minutes (between 1 and 3 minutes usually, but depending on your hosting it can take longer) and "
+msgstr "Por favor, espere un breve tiempo (entre 1 y 3 minutos por lo general, eso dependiendo de su hosting puede tomar más tiempo) y "
+
+#: inc/extras.php:677
+msgid "&#x1f4bc; Listing URL Base"
+msgstr "&#x1f4bc; Lugar URL base"
+
+#: inc/extras.php:684
+msgid "&#x1f4bc; Listing Category Base"
+msgstr "&#x1f4bc; Categoría base de Lugar"
+
+#: inc/extras.php:691
+msgid "&#x1f4bc; Listing Tag Base"
+msgstr "&#x1f4bc; Etiquetas de Lugar URL base"
+
+#: inc/extras.php:730
+msgctxt "slug"
+msgid "listings"
+msgstr "lugares"
+
+#: inc/extras.php:738
+msgctxt "slug"
+msgid "listing-category"
+msgstr "categoría-de-lugares"
+
+#: inc/extras.php:746
+msgctxt "slug"
+msgid "listing-tag"
+msgstr "lugar-etiqueta"
+
+#: inc/extras.php:803
+msgid "User Menu"
+msgstr "Menú del Usuario"
+
+#: inc/extras.php:812 inc/extras.php:813
+#: plugins/login-with-ajax/modal/widget_out.php:35
+msgid "Log In"
+msgstr "Log in"
+
+#: inc/extras.php:816 inc/extras.php:817
+msgid "Log Out"
+msgstr "Cerrar sesión"
+
+#: inc/extras.php:820
+msgid "Welcome!"
+msgstr "¡Bienvenido!"
+
+#: inc/extras.php:821
+msgid "Current Username"
+msgstr "Nombre de usuario actual"
+
+#: inc/extras.php:855
+msgid "Add to Menu"
+msgstr "Añadir a Menú"
+
+#: inc/integrations/facetwp.php:216
+msgid "Facets Advanced Filtering"
+msgstr "Filtrado facetas avanzado"
+
+#: inc/integrations/facetwp.php:217
+msgid "Add filtering fields to your site and allow your visitors to better search through the listings"
+msgstr "Añadir campos de filtrado para su sitio y permita que sus visitantes buscar mejor a través de los listados"
+
+#: inc/integrations/facetwp.php:220
+msgid "Available Facets"
+msgstr "Facetas Disponibles"
+
+#: inc/integrations/facetwp.php:221
+msgid "Drag and drop the facets you'd like to add into the right side boxes"
+msgstr "Arrastrar y soltar las facetas desea agregar en la casilla del lado derecho"
+
+#: inc/integrations/facetwp.php:231
+msgid "Listing Archive"
+msgstr "Archivo de lugares"
+
+#: inc/integrations/facetwp.php:232
+msgid "This area is where most of your facets should go (except the ones already shown in the Navigation Bar)"
+msgstr "Esta zona es donde la mayoría de sus facetas debe ir (excepto los ya mostrados en la barra de navegación)"
+
+#: inc/integrations/facetwp.php:242
+msgid "Facets dragged here will be hidden under an \"More Filters\" button"
+msgstr "Arrastradas aquí las facetas se oculta debajo de un botón de “Más filtros” "
+
+#: inc/integrations/facetwp.php:253
+msgid "Navigation Bar"
+msgstr "Barra de Navegación"
+
+#: inc/integrations/facetwp.php:254
+msgid "Site-wide available facets. Choose wisely a maximum of two of the most essential filters -- the rest of them go to the Listings Archive section."
+msgstr "Todo el sitio disponibles facetas. Elija sabiamente un máximo de dos de los filtros más importantes—el resto de ellos vaya a la sección de archivo listados."
+
+#: inc/integrations/facetwp.php:264
+msgid "Front Page Hero"
+msgstr "Primera Pagina Hero"
+
+#: inc/integrations/facetwp.php:265
+msgid "Considering that Navigation Bar facets will not be shown on the Front Pagem feel free to use a similar configuration."
+msgstr "Teniendo en cuenta que la barra de navegación facetas no se mostrarán en la Pagem delantero no dude en utilizar una configuración similar."
+
+#: inc/integrations/wp-job-manager.php:261
+msgid "FacetWP"
+msgstr "FacetWP"
+
+#: inc/integrations/wp-job-manager.php:364
+msgid "e.g Speciality Coffee Shop"
+msgstr "por ejemplo: especializado en Cafetería"
+
+#: inc/integrations/wp-job-manager.php:365
+msgid "Keep it short and descriptive as it will appear on search results instead of the link description"
+msgstr "Agregue el Eslogan de su Negocio y además de forma breve y clara describa su Negocio tal y como desea que aparezcan en los resultados de búsqueda"
+
+#: inc/integrations/wp-job-manager.php:374
+msgid "Listing category"
+msgstr "Categoría del lugar"
+
+#: inc/integrations/wp-job-manager.php:381
+msgid "Listing tags"
+msgstr "Etiquetas de Lugares"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:327
+msgid "Updating Plugin: %s"
+msgstr "Actualización de Plugin:%s"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:382
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins requeridos o recomendados para instalar, actualizar o activar."
+
+#: inc/widgets.php:477
+msgid "Claim Listing"
+msgstr "Reclamar Lugar"
+
+#: inc/widgets.php:478
+msgid "Display a claim listing button."
+msgstr "Mostrar un botón reclamar lista."
+
+#: inc/widgets.php:577
+msgid "Claim Button Text:"
+msgstr "Texto del botón reclamar:"
+
+#: inc/widgets.php:582
+msgid "Description:"
+msgstr "Descripción:"
+
+#: inc/widgets.php:596
+msgid "Is this your business?"
+msgstr "¿Es ésta su empresa?"
+
+#: inc/widgets.php:597
+msgid "Claim it now."
+msgstr "¡Reclamar Ahora!."
+
+#: inc/widgets.php:598
+msgid "Make sure your information is up to date."
+msgstr "Asegúrese de que su información está actualizada."
+
+#: inc/widgets.php:730 job_manager/content-job_listing.php:60
+msgid "Featured"
+msgstr "Destacado"
+
+#: job_manager/account-signin.php:4
+msgid "Your account"
+msgstr "Su cuenta"
+
+#: job_manager/account-signin.php:8
+msgid "You are currently signed in as <strong>%s</strong>."
+msgstr "Usted está conectado como <strong>%s</strong>."
+
+#: job_manager/account-signin.php:11
+msgid "Sign out"
+msgstr "Sign out"
+
+#: job_manager/account-signin.php:25
+msgid "Have an account?"
+msgstr "Tiene una cuenta?"
+
+#: job_manager/account-signin.php:27
+msgid "Sign in"
+msgstr "Iniciar Sesión"
+
+#: job_manager/account-signin.php:31
+msgid "If you don&rsquo;t have an account you can %screate one below by entering your email address/username. Your account details will be confirmed via email."
+msgstr "Si usted no tiene una cuenta puede crear una abajo introduciendo su dirección de correo electrónico / nombre de usuario. Los detalles de su cuenta serán confirmados por correo electrónico."
+
+#: job_manager/account-signin.php:31
+msgid "optionally"
+msgstr "﻿Opcionalmente"
+
+#: job_manager/account-signin.php:35
+msgid "You must sign in to create a new listing."
+msgstr "Debe acceder para publicar un nuevo lugar."
+
+#: job_manager/account-signin.php:51
+msgid "Your email"
+msgstr "Su Correo electrónico"
+
+#: job_manager/account-signin.php:53
+msgid "you@yourdomain.com"
+msgstr "escriba aquí su correo"
+
+#: job_manager/job-dashboard.php:2
+msgid "Your listings are shown in the table below."
+msgstr "Tus publicaciones se muestran en la parte inferior."
+
+#: job_manager/job-dashboard.php:15
+msgid "You do not have any active listings."
+msgstr "No tienes lugares activos."
+
+#: job_manager/job-dashboard.php:49
+msgid "Mark not filled"
+msgstr "Marcar como no llena"
+
+#: job_manager/job-dashboard.php:51
+msgid "Mark filled"
+msgstr "Marcar como llena"
+
+#: job_manager/job-dashboard.php:56
+msgid "Relist"
+msgstr "Volver a publicar"
+
+#: job_manager/job-dashboard.php:67
+#: wp-job-manager-bookmarks/my-bookmarks.php:28
+msgid "Delete"
+msgstr "Eliminar"
+
+#: job_manager/job-filters.php:67
+msgid "More filters"
+msgstr "Más filtros"
+
+#: job_manager/job-filters.php:68
+msgid "Less filters"
+msgstr "Menos filtros"
+
+#: plugins/login-with-ajax/modal/widget_out.php:16
+msgid "Username or Email Address"
+msgstr "Nombre de usuario o email"
+
+#: plugins/login-with-ajax/modal/widget_out.php:30
+msgid "Password Lost and Found"
+msgstr "Contraseña Perdida y encontrada"
+
+#: plugins/login-with-ajax/modal/widget_out.php:44
+msgid "Don't have an account?"
+msgstr "¿No tienes una cuenta?"
+
+#: plugins/login-with-ajax/modal/widget_out.php:44
+msgid "Sign up"
+msgstr "Sign up"
+
+#: plugins/login-with-ajax/modal/widget_out.php:52
+msgid "Forgotten Password"
+msgstr "Contraseña Olvidada"
+
+#: plugins/login-with-ajax/modal/widget_out.php:57
+msgid "Get New Password"
+msgstr "Obtener una nueva contraseña"
+
+#: plugins/login-with-ajax/modal/widget_out.php:61
+#: woocommerce/myaccount/my-orders.php:92
+#: woocommerce-bookings/myaccount/my-bookings.php:47
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: plugins/login-with-ajax/modal/widget_out.php:83
+msgid "A password will be e-mailed to you."
+msgstr "Una contraseña será enviada a su correo electrónico."
+
+#: plugins/login-with-ajax/modal/widget_out.php:92
+msgid "Already have an account?"
+msgstr "¿Ya tienes una cuenta?"
+
+#: plugins/login-with-ajax/modal/widget_out.php:92
+msgid "Log in"
+msgstr "Log in"
+
+#: wc-paid-listings/package-selection.php:26
+msgid "Your packages"
+msgstr "Sus paquetes disponibles"
+
+#: wc-paid-listings/package-selection.php:36
+msgid "%s listing posted out of %d"
+msgid_plural "%s listings posted out of %d"
+msgstr[0] "%s anuncio publicado de %d"
+msgstr[1] "%s anuncios publicados de %d"
+
+#: wc-paid-listings/package-selection.php:38
+msgid "%s listing posted"
+msgid_plural "%s listings posted"
+msgstr[0] "anuncio publicado de %s"
+msgstr[1] "%s listas publicadas"
+
+#: wc-paid-listings/package-selection.php:57
+msgid "Purchase packages"
+msgstr "Comprar paquetes"
+
+#: woocommerce/cart/cross-sells.php:48
+msgid "You may be interested in&hellip;"
+msgstr "Podría estar interesado en&hellip;"
+
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "First name"
+msgstr "Nombre"
+
+#: woocommerce/myaccount/form-edit-account.php:34
+msgid "Last name"
+msgstr "Apellidos"
+
+#: woocommerce/myaccount/form-edit-account.php:44
+msgid "Password Change"
+msgstr "Cambiar Contraseña"
+
+#: woocommerce/myaccount/form-edit-account.php:47
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr "Contraseña actual (Déjalo en blanco si no la quieres cambiar)"
+
+#: woocommerce/myaccount/form-edit-account.php:51
+msgid "New Password (leave blank to leave unchanged)"
+msgstr "Nueva contraseña (Déjalo en blanco para mantener sin cambios)"
+
+#: woocommerce/myaccount/form-edit-account.php:55
+msgid "Confirm New Password"
+msgstr "Confirma tu nueva contraseña"
+
+#: woocommerce/myaccount/form-edit-account.php:63
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: woocommerce/myaccount/my-account.php:24
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr "Hola <strong>%1$s</strong> (Si no eres %1$s? <a href=“%2$s”>Desconectar</a>)."
+
+#: woocommerce/myaccount/my-account.php:29
+msgid "From your account dashboard you can view your recent orders, manage your shipping and billing addresses and <a href=\"%s\">edit your password and account details</a>."
+msgstr "Desde el panel de administración de tu cuenta puedes ver tus últimos pedidos, gestionar tus direcciones de envío y facturación y <a href=“%s”>editar tu información de cuenta y contraseña</a>."
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr "Mis direcciones"
+
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/myaccount/view-subscription.php:266
+#: woocommerce/order/order-details-customer.php:49
+msgid "Billing Address"
+msgstr "Dirección de Facturación"
+
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/myaccount/view-subscription.php:287
+#: woocommerce/order/order-details-customer.php:60
+msgid "Shipping Address"
+msgstr "Dirección de envío"
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr "Mi Dirección"
+
+#: woocommerce/myaccount/my-address.php:37
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "Las siguientes direcciones se pueden utilizar en la página de pago por defecto."
+
+#: woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr "No configuraste ningún tipo de dirección."
+
+#: woocommerce/myaccount/my-orders.php:25
+#: woocommerce-bookings/myaccount/my-bookings.php:17
+#: woocommerce-bookings/myaccount/my-bookings.php:35
+msgid "Order"
+msgstr "Pedido"
+
+#: woocommerce/myaccount/my-orders.php:42
+msgid "Recent Orders"
+msgstr "Pedidos recientes"
+
+#: woocommerce/myaccount/my-orders.php:67
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: woocommerce/myaccount/my-orders.php:77
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s de %s elemento"
+msgstr[1] "%s de %s elementos"
+
+#: woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr "Pagar"
+
+#: woocommerce/myaccount/my-orders.php:88
+msgid "View"
+msgstr "Ver"
+
+#: woocommerce/myaccount/view-subscription.php:20
+msgid "Invalid Subscription."
+msgstr "Suscripción no Válida."
+
+#: woocommerce/myaccount/view-subscription.php:20
+msgid "My Account"
+msgstr "Mi cuenta"
+
+#: woocommerce/myaccount/view-subscription.php:37
+#: woocommerce-bookings/myaccount/my-bookings.php:18
+#: woocommerce-bookings/myaccount/my-bookings.php:42
+msgid "Start Date"
+msgstr "Fecha de Comienzo"
+
+#: woocommerce/myaccount/view-subscription.php:41
+msgctxt "admin subscription table header"
+msgid "Last Payment Date"
+msgstr "Última fecha de pago"
+
+#: woocommerce/myaccount/view-subscription.php:42
+msgctxt "admin subscription table header"
+msgid "Next Payment Date"
+msgstr "Próxima fecha de pago"
+
+#: woocommerce/myaccount/view-subscription.php:43
+msgctxt "admin subscription table header"
+msgid "End Date"
+msgstr "Fecha final"
+
+#: woocommerce/myaccount/view-subscription.php:44
+msgctxt "admin subscription table header"
+msgid "Trial End Date"
+msgstr "Fecha de finalización de prueba"
+
+#: woocommerce/myaccount/view-subscription.php:68
+msgid "Subscription Updates"
+msgstr "Actualizaciones de suscripción"
+
+#: woocommerce/myaccount/view-subscription.php:74
+msgctxt "date on subscription updates list. Will be localized"
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+#: woocommerce/myaccount/view-subscription.php:87
+msgid "Subscription Totals"
+msgstr "Totales de suscripción"
+
+#: woocommerce/myaccount/view-subscription.php:109
+msgid "Are you sure you want remove this item from your subscription?"
+msgstr "¿Está seguro de que desea eliminar este artículo de su suscripción?"
+
+#. translators: placeholder is "number:" or just ":"
+#: woocommerce/myaccount/view-subscription.php:135
+msgid "Download file%s"
+msgstr "Descargar archivos%s"
+
+#: woocommerce/myaccount/view-subscription.php:198
+#: woocommerce/myaccount/view-subscription.php:202
+msgctxt "includes tax"
+msgid "(Includes %s)"
+msgstr "(Incluye %s)"
+
+#: woocommerce/myaccount/view-subscription.php:220
+msgid "Refunded:"
+msgstr "Reembolso:"
+
+#: woocommerce/myaccount/view-subscription.php:229
+msgctxt "customer note"
+msgid "Note:"
+msgstr "Nota:"
+
+#: woocommerce/myaccount/view-subscription.php:239
+msgid "Customer details"
+msgstr "Detalles del cliente"
+
+#: woocommerce/myaccount/view-subscription.php:244
+#: woocommerce/order/order-details-customer.php:26
+msgid "Email:"
+msgstr "Email:"
+
+#: woocommerce/myaccount/view-subscription.php:248
+#: woocommerce/order/order-details-customer.php:33
+msgid "Telephone:"
+msgstr "Teléfono:"
+
+#: woocommerce/myaccount/view-subscription.php:248
+msgid "Telephone"
+msgstr "Teléfono"
+
+#: woocommerce/myaccount/view-subscription.php:271
+msgctxt "no formatted billing address"
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/myaccount/view-subscription.php:292
+msgctxt "no formatted shipping address"
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/order/order-details-customer.php:14
+msgid "Customer Details"
+msgstr "Datos del Cliente"
+
+#: woocommerce/order/order-details-customer.php:19
+msgid "Note:"
+msgstr "Nota:"
+
+#: woocommerce/order/order-details-customer.php:52
+#: woocommerce/order/order-details-customer.php:63
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/single-product/related.php:50
+msgid "Related Products"
+msgstr "Productos Relacionados"
+
+#: woocommerce/single-product/up-sells.php:51
+msgid "You may also like&hellip;"
+msgstr "Quizá también te guste&hellip;"
+
+#: woocommerce-bookings/myaccount/my-bookings.php:10
+msgid "My bookings"
+msgstr "Mis Reservas"
+
+#: woocommerce-bookings/myaccount/my-bookings.php:15
+#: woocommerce-bookings/myaccount/my-bookings.php:27
+msgid "ID"
+msgstr "ID"
+
+#: woocommerce-bookings/myaccount/my-bookings.php:16
+#: woocommerce-bookings/myaccount/my-bookings.php:28
+msgid "Booked"
+msgstr "Reservado"
+
+#: woocommerce-bookings/myaccount/my-bookings.php:19
+#: woocommerce-bookings/myaccount/my-bookings.php:43
+msgid "End Date"
+msgstr "Fecha final"
+
+#: wp-job-manager-bookmarks/my-bookmarks.php:5
+#: wp-job-manager-bookmarks/my-bookmarks.php:19
+msgid "Bookmark"
+msgstr "Marcador"
+
+#: wp-job-manager-bookmarks/my-bookmarks.php:6
+#: wp-job-manager-bookmarks/my-bookmarks.php:22
+msgid "Notes"
+msgstr "Notas"
+
+#: wp-job-manager-bookmarks/my-bookmarks.php:44
+msgid "You currently have no bookmarks"
+msgstr "No tiene favoritos en este momento"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Anchura Completa"
+
+#. Template Name of the plugin/theme
+msgid "Full Width (No title)"
+msgstr "Ancho total (Sin título)"

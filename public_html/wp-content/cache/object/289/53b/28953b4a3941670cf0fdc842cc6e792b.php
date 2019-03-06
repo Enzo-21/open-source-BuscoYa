@@ -1,0 +1,9 @@
+�\<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:23779;s:11:"post_author";s:3:"276";s:9:"post_date";s:19:"2018-08-01 20:46:09";s:13:"post_date_gmt";s:19:"2018-08-01 23:46:09";s:12:"post_content";s:651:"El "Rincón de José Luis" nace de la idea de traer un pedazo de España a Argentina, a través de nuestros platos de marisco y pescados invitamos a nuestros clientes a degustar las especialidades mediterráneas. Nos encontramos en Cabalango a 5 Km de Villa Carlos Paz, nuestro restaurante como nuestro complejo hotelero esta diseñado en base a la cultura española, intentamos trasladar a nuestros clientes a nuestras raíces, y qué mejor forma que a través del descanso y de la mejor comida.
+
+Te estaremos esperando..
+
+&nbsp;
+
+Dirección: Calle Las Salinas Esquina El Nogal, Cabalango (Villa Carlos Paz - Córdoba)
+
+Contacto: 351 228 2017";s:10:"post_title";s:24:"El Rincón de José Luis";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:5:"trash";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:101:"calle-las-salinas-esquina-el-nogal-cabalango-villa-carlos-paz-cordoba-el-rincon-de-jose-luis__trashed";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-12-11 12:35:18";s:17:"post_modified_gmt";s:19:"2018-12-11 15:35:18";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:128:"http://www.buscoya.com.ar/listings/calle-las-salinas-esquina-el-nogal-cabalango-villa-carlos-paz-cordoba-el-rincon-de-jose-luis/";s:10:"menu_order";i:0;s:9:"post_type";s:11:"job_listing";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

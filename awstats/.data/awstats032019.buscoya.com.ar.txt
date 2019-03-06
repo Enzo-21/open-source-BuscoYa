@@ -1,0 +1,665 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201903 will be lost/reset.
+# Last config file used to build this data file was /home/buscoya/domains/buscoya.com.ar/awstats/.data/awstats.buscoya.com.ar.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2105                
+POS_TIME 2791                
+POS_VISITOR 9385                
+POS_DAY 18143               
+POS_DOMAIN 3649                
+POS_LOGIN 3882                
+POS_ROBOT 4037                
+POS_WORMS 5035                
+POS_EMAILSENDER 5166                
+POS_EMAILRECEIVER 5309                
+POS_SESSION 18333               
+POS_SIDER 18540               
+POS_FILETYPES 5444                
+POS_DOWNLOADS 5790                
+POS_OS 5893                
+POS_BROWSER 6136                
+POS_SCREENSIZE 6788                
+POS_UNKNOWNREFERER 6862                
+POS_UNKNOWNREFERERBROWSER 6978                
+POS_ORIGIN 7089                
+POS_SEREFERRALS 7229                
+POS_PAGEREFS 7414                
+POS_SEARCHWORDS 7771                
+POS_KEYWORDS 7923                
+POS_MISC 2455                
+POS_ERRORS 7982                
+POS_CLUSTER 3738                
+POS_SIDER_403 8150                
+POS_SIDER_400 8251                
+POS_SIDER_404 8333                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190305012812 1878 482491 12222781392081
+FirstTime 20190301003634
+LastTime 20190304223410
+LastUpdate 20190305013325 1878 0 1878 0 0
+TotalVisits 255                 
+TotalUnique 219                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 229                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 5 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 127631 82 164 4719951
+1 46 77 1271037 116 185 5425448
+2 4 4 8623 60 105 1785406
+3 40 79 2438713 108 162 4027701
+4 10 29 851313 54 103 2623379
+5 10 10 47254 45 85 2126752
+6 4 4 8623 58 104 1938970
+7 2 6 86365 82 131 5235284
+8 7 26 878665 84 127 3916549
+9 4 4 6654 84 143 4122656
+10 2 3 262531 101 190 8559672
+11 17 49 644709 90 158 4547114
+12 58 102 1202664 95 148 2230938
+13 133 135 386115 685 734 6621918
+14 129 129 243341 1300 1341 2706873
+15 147 164 1267522 104 144 3761129
+16 126 132 2186387 80 366 18795207
+17 85 86 176818 84 134 1385384
+18 5 6 195169 268 401 9671441
+19 0 0 0 86 179 4315434
+20 891 5272 43341248 159 429 7544245
+21 8 96 1485439 65 123 2723261
+22 23 63 2162863 74 131 6240394
+23 1 3 330849 54 98 1562697
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1757 6484 59610533
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+wordpress 1307 0 20190305012812 0
+DotBot/ 258 13306362 20190305011802 114
+(firefox/)([0-9]\.|[0-1][0]\.) 237 16628861 20190304165334 0
+AhrefsBot/ 224 18878431 20190305012810 4
+BDCbot/ 221 1010530 20190302185225 1
+Googlebot/ 81 1116272 20190304225711 6
+bingbot/ 44 590289 20190304222448 7
+bingpreview 21 2424170 20190303213603 0
+facebookexternalhit/ 15 23550574 20190304130038 0
+YandexBot/ 11 67330 20190304035453 7
+Googlebot\-Image/ 1 0 20190302075901 0
+no_user_agent 1 212 20190302184236 0
+CFNetwork 1 5424 20190303114651 0
+MSIE[\x20]6 1 29841 20190302071341 0
+unknown 2 136 20190303203013 2
+DomainCrawler/ 6 253058 20190301034459 1
+SemrushBot/ 2 18525 20190302230918 1
+Apache\-HttpClient/ 9 97944 20190301135424 0
+bot[\s_+:,\.\;\/\\-] 5 119857 20190304204306 0
+Cliqzbot/ 1 69 20190303094724 1
+MJ12bot/ 8 150007 20190304093520 4
+netcraft 1 119009 20190301174859 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+eot 3 205617 0 0
+css 110 1923225 0 0
+png 102 11167285 0 0
+ttf 17 262462 0 0
+woff 18 161619 0 0
+txt 3711 7418 0 0
+woff2 27 1022568 0 0
+otf 1 134808 0 0
+json 2 238322 0 0
+php 1689 9726463 0 0
+xml 1 1557 0 0
+js 212 3265226 0 0
+jpg 504 29867259 0 0
+svg 73 730162 0 0
+gif 14 896542 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/uploads/WP-STATIC-PROGRESS.txt 3711 0 7418
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+linuxandroid 7 1
+winxp 20 3
+ios_iphone 54 11
+macosx12 5 5
+linux 863 774
+win7 39 10
+macosx 4720 860
+macosx10 3 3
+Unknown 704 61
+win8.1 18 18
+win10 28 9
+ios_ipad 22 1
+macosx7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 28
+chrome59.0.3071.115 1 1
+chrome67.0.3396.87 1 1
+chrome52.0.2743.116 3 3
+opera42.0.2393.94 1 0
+safari11.0 22 1
+chrome63.0.3239.111 1 0
+chrome38.0.2125.104 18 18
+chrome72.0.3626.119 4777 870
+firefox55.0 38 37
+chrome5.0.375.99 3 3
+chrome68.0.3440.106 26 7
+chrome71.0.3578.98 1 1
+chrome56.0.2924.87 4 0
+safari12.1 54 11
+firefox62.0 686 686
+chrome61.0.3163.100 3 3
+safari9.0 79 40
+chrome15.0.861.0 1 1
+netscape5.0 1 1
+chrome38.0.2125.122 34 4
+chrome71.0.3578.80 1 1
+chrome41.0.2272.89 4 4
+chrome71.0.3578.99 1 0
+chrome59.0.3071.109 1 1
+Unknown 704 61
+firefox36.0 1 1
+firefox11.0 17 0
+chrome62.0.3202.75 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+WP2Static.com 20190303204331
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WP2Static.com 20190303204331
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 836 1504
+From1 3 3
+From2 0 3
+From3 5 9
+From4 913 4965
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com_ar 0 1
+www_google_com 0 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://%20www.buscoya.com.ar 1 1
+http://hundejo.com 1 1
+http://burger-imperia.com 1 1
+http://pizza-imperia.com 1 1
+http://burger-imperia.com 1 1
+http://miidesigner.com/tecnicas-visuales-diseo-grafico.html 0 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 1763 386097
+302 16 36132
+500 2 3279
+405 7 300
+406 1 271
+301 238 40912
+404 1396 37753911
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 1
+/xmlrpc.php 1763 -
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 12
+/listings/fletes-valentino/ 1 -
+/wp-content/uploads/job-manager-uploads/main_image/2017/11/rrrrr-6.jpg 1 -
+/wp-content/uploads/job-manager-uploads/main_image/2017/09/20759880_138707243396776_1722242165838446592_n.jpg 3 https://www.google.com/
+/wp-content/uploads/job-manager-uploads/main_image/2017/11/xxxx-4.jpg 1 -
+/wp-content/uploads/job-manager-uploads/main_image/2017/11/zzz-5.jpg 1 -
+/wp-content/uploads/job-manager-uploads/main_image/2017/11/hhhhh-2.jpg 1 -
+/listings/cremolati/ 1 -
+/wp-content/uploads/job-manager-uploads/main_image/2017/11/ttttttt-1.jpg 1 -
+/wp-content/uploads/job-manager-uploads/main_image/2017/11/eeeeeeeeee-1.jpg 1 -
+/listings/onda1-peinados/ 1 -
+/listing-category/salas-de-billares/ 1 -
+/listings/nxtplabs/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 229
+190.18.242.176 861 4742 6226030 20190303221038
+158.69.189.149 61 704 41488417 20190303203210
+176.221.52.179 41 80 2468554 20190302045430
+37.17.172.132 37 38 642224 20190303013552
+31.184.238.11 18 18 279126 20190304223410
+217.70.186.133 12 12 18212 20190304173809
+186.111.163.42 11 54 1090231 20190303125601
+23.95.129.130 10 10 17728 20190304170938
+54.36.120.197 9 9 13659 20190304172448
+171.252.122.3 9 9 13659 20190304162636
+113.23.212.4 3 3 4553 20190304141309
+196.41.122.37 3 3 4553 20190304163348
+138.68.252.246 6 6 9106 20190304160737
+185.104.28.139 3 3 4553 20190304131220
+167.114.240.199 3 3 4553 20190304161110
+142.93.175.15 3 3 4553 20190304144212
+66.102.8.183 0 5 377153 
+154.0.161.82 1 1 230 20190304162927
+167.99.108.195 3 3 4553 20190304133957
+181.92.30.134 0 1 105920 
+104.131.169.32 3 3 4553 20190304131556
+165.227.155.206 3 3 4553 20190304164545
+139.59.64.181 3 3 4553 20190304141448
+52.45.142.13 3 3 4553 20190304170943
+47.92.33.91 1 1 126770 20190304100511
+52.77.164.63 3 3 4553 20190304143052
+79.137.41.36 3 3 4553 20190304143831
+51.68.143.229 1 1 29841 20190303222047
+213.136.92.127 3 3 4553 20190304150408
+54.194.221.19 3 3 4553 20190304153215
+178.128.57.57 3 3 4553 20190304125014
+212.112.93.206 1 5 117308 20190302045441
+13.56.234.39 1 1 29841 20190304213407
+139.99.156.119 3 3 4553 20190304153613
+113.190.240.254 3 3 4553 20190304124732
+162.217.206.130 3 3 4553 20190304133959
+66.102.8.217 0 1 14131 
+37.26.195.244 4 4 8622 20190303115845
+92.86.115.253 6 6 9106 20190304152226
+5.188.210.31 1 1 119009 20190302005346
+78.108.43.232 3 3 4553 20190304131944
+103.90.220.53 6 6 9106 20190304164851
+45.76.145.60 6 6 9106 20190304154140
+159.203.131.94 3 3 4553 20190304155453
+37.28.155.58 3 3 4553 20190304145317
+51.38.191.121 3 3 4553 20190304165823
+23.129.64.106 1 1 29841 20190304043658
+82.214.157.50 4 4 8622 20190302144954
+147.135.229.28 3 3 4553 20190304160127
+207.244.70.35 1 1 29841 20190304105422
+192.241.129.70 3 3 4553 20190304133116
+153.126.211.131 6 6 9106 20190304142719
+187.210.230.29 0 4 1891123 
+184.105.184.226 3 3 4553 20190304155025
+45.252.250.110 3 3 4553 20190304130914
+45.76.47.39 3 3 4553 20190304163152
+104.237.136.127 3 3 4553 20190304134505
+54.39.106.70 6 6 9106 20190304130522
+104.248.235.238 3 3 4553 20190304152949
+104.236.101.236 3 3 4553 20190304172806
+62.116.169.56 3 3 4553 20190304160536
+138.68.244.127 3 3 4553 20190304164849
+37.97.166.120 6 6 9106 20190304173020
+138.68.178.73 3 3 4553 20190304171302
+46.101.228.109 3 3 4553 20190304145514
+5.101.156.100 3 3 4553 20190304124529
+190.188.226.139 4 34 537173 20190304115335
+178.254.10.124 3 3 4553 20190304173038
+52.47.109.147 9 9 13659 20190304170948
+188.165.195.122 3 3 4553 20190304141631
+181.169.127.140 0 1 45262 
+203.154.33.232 6 6 9106 20190304171705
+18.209.218.16 6 6 9106 20190304152453
+52.175.25.159 6 6 9106 20190304170046
+213.32.109.8 6 6 9106 20190304165420
+5.134.14.2 3 3 4553 20190304173158
+5.9.136.188 3 3 4553 20190304172415
+192.99.106.61 3 3 4553 20190304170353
+45.227.255.37 0 1 0 
+149.28.170.111 3 3 4553 20190304153954
+199.247.21.79 3 3 4553 20190304140344
+52.53.201.78 1 1 29841 20190303053716
+45.76.124.69 3 3 4553 20190304152823
+54.193.2.170 1 1 0 20190302070933
+62.210.185.4 3 3 4553 20190304153626
+69.55.60.107 6 6 9106 20190304163028
+45.77.192.44 3 3 4553 20190304142727
+212.112.93.152 1 5 176263 20190302045442
+52.53.178.26 1 1 0 20190301110805
+167.99.98.28 3 3 4553 20190304134535
+144.217.4.100 3 3 4553 20190304165236
+13.59.46.93 2 2 2208 20190304145635
+192.99.14.196 3 3 4553 20190304172826
+194.24.160.132 6 6 9106 20190304171255
+104.131.136.70 3 3 4553 20190304135918
+69.162.113.186 3 3 4553 20190304131535
+39.107.127.149 1 1 119009 20190304220009
+104.248.127.94 3 3 4553 20190304170417
+167.114.85.48 3 3 4553 20190304163723
+112.196.86.34 3 3 4553 20190304140635
+35.185.62.205 3 3 4553 20190304125510
+23.254.240.227 4 4 8623 20190301060838
+167.114.211.14 6 6 9106 20190304142153
+23.238.18.241 3 3 4553 20190304131323
+190.18.40.183 6 24 653736 20190302080603
+52.22.87.50 6 6 9106 20190304173956
+45.76.92.23 3 3 4553 20190304161757
+18.237.100.127 1 1 29841 20190303124114
+118.68.170.130 3 3 4553 20190304161342
+24.21.47.104 1 1 2101 20190302093608
+68.183.88.61 3 3 4553 20190304171630
+195.146.10.229 4 4 8622 20190302054148
+5.188.44.20 1 1 119009 20190304182605
+64.111.123.196 3 3 4553 20190304154711
+50.116.20.23 3 3 4553 20190304132148
+94.130.88.20 1 1 119009 20190303085807
+182.253.107.62 3 3 4553 20190304144022
+87.236.20.40 3 3 4553 20190304163345
+185.50.197.159 3 3 4553 20190304143309
+212.112.93.5 1 7 151023 20190302045442
+176.53.62.59 3 3 4553 20190304160325
+104.248.251.189 3 3 4553 20190304152121
+59.13.232.158 4 4 8625 20190303175102
+212.112.93.38 1 4 25290 20190302045442
+91.233.229.8 3 3 4553 20190304095659
+128.199.107.89 3 3 4553 20190304143247
+66.102.8.215 0 2 151182 
+202.182.101.172 3 3 4553 20190304160736
+165.227.73.144 3 3 4553 20190304155312
+75.119.200.116 3 3 4553 20190304143437
+211.115.65.103 2 2 2208 20190304162047
+181.46.37.224 4 32 529667 20190302010721
+128.199.144.196 3 3 4553 20190304133449
+5.101.156.58 6 6 9106 20190304140903
+185.34.216.210 3 3 4553 20190304172635
+70.182.199.253 9 9 13659 20190304144932
+91.214.2.120 4 4 8622 20190301113637
+178.238.237.2 3 3 4553 20190304151151
+5.45.73.2 3 3 4553 20190304153240
+173.212.243.21 3 3 4553 20190304171838
+91.208.99.2 2 2 238018 20190301042705
+122.114.245.21 3 3 4553 20190304141232
+103.27.239.216 3 3 4553 20190304172047
+83.17.17.121 4 4 8622 20190301003637
+198.187.28.203 6 6 9106 20190304130330
+212.112.93.111 1 3 83568 20190302045442
+183.90.241.118 6 6 9106 20190304153428
+197.242.156.112 3 3 4553 20190304153029
+18.215.250.187 3 3 4553 20190304173950
+204.15.248.77 3 3 4553 20190304170152
+178.128.155.251 3 3 4553 20190304150245
+65.246.187.19 4 4 8625 20190304053748
+212.47.251.127 3 3 4553 20190304145508
+13.52.77.7 1 1 0 20190303014256
+85.214.62.122 3 3 4553 20190304155627
+207.180.241.236 3 3 4553 20190304132525
+185.201.9.58 6 6 9106 20190304165023
+45.33.20.140 3 3 4553 20190304135551
+207.38.86.10 3 3 4553 20190304150547
+128.199.242.52 3 3 4553 20190304165955
+39.105.218.213 3 3 4553 20190304165636
+178.128.97.206 6 6 9106 20190304162512
+104.243.43.82 3 3 4553 20190304160357
+47.74.133.210 3 3 4553 20190304134904
+176.31.106.57 3 3 4553 20190304140206
+82.223.38.21 6 6 9106 20190304152302
+199.249.230.79 1 1 29841 20190304070751
+54.37.7.37 3 3 4553 20190304142347
+188.165.74.66 6 6 9106 20190304150103
+173.231.199.56 3 3 4553 20190304142449
+212.112.93.119 1 1 161 20190302045442
+107.161.23.241 3 3 4553 20190304141819
+91.206.14.10 1 1 29841 20190301150310
+45.252.248.220 3 3 4553 20190304165253
+211.198.225.81 3 3 4553 20190304144513
+69.163.152.138 6 6 9106 20190304164318
+195.201.147.194 3 3 4553 20190304135118
+35.154.252.13 3 3 4553 20190304135249
+45.76.144.214 3 3 4553 20190304155312
+198.211.98.221 3 3 4553 20190304142255
+200.110.195.253 0 1 14131 
+173.236.224.16 3 3 4553 20190304162744
+45.252.249.203 3 3 4553 20190304161905
+5.188.210.10 1 1 119009 20190301233731
+206.198.227.18 3 3 4553 20190304144321
+206.189.166.94 3 3 4553 20190304125120
+178.254.36.49 3 3 4553 20190304125748
+115.68.187.140 3 3 4553 20190304132701
+104.248.66.251 3 3 4553 20190304155647
+35.166.199.158 1 1 19377 20190303143929
+192.99.14.225 3 3 4553 20190304133758
+45.77.242.36 3 3 4553 20190304152407
+105.29.86.121 3 3 4553 20190304173639
+142.93.252.82 3 3 4553 20190304134849
+66.102.8.181 0 4 179444 
+51.38.94.65 3 3 4553 20190304163525
+138.68.184.98 3 3 4553 20190304150745
+54.39.145.42 3 3 4553 20190304124729
+108.61.223.185 6 6 9106 20190304162633
+142.93.211.101 3 3 4553 20190304173641
+134.95.126.23 3 3 4553 20190304155948
+119.73.225.156 6 6 9106 20190304152830
+157.112.176.71 3 3 4553 20190304133246
+209.59.190.100 6 6 9106 20190304154851
+45.252.248.188 6 6 9106 20190304155114
+185.26.122.73 6 6 9106 20190304165638
+66.102.8.185 0 5 70655 
+13.233.130.6 3 3 4553 20190304151929
+103.45.230.11 3 3 4553 20190304153953
+155.133.138.66 3 3 4553 20190304142553
+54.190.159.16 3 3 4553 20190304163007
+149.28.133.155 3 3 4553 20190304155805
+188.165.85.24 4 4 8625 20190304132037
+104.248.143.112 3 3 4553 20190304140007
+66.96.195.213 4 4 8623 20190302024144
+35.224.107.234 3 3 4553 20190304155949
+202.254.236.19 3 3 4553 20190304144742
+85.214.25.74 3 3 4553 20190304134133
+165.227.219.4 3 3 4553 20190304125522
+13.57.233.99 2 2 332 20190304121948
+77.253.203.24 8 8 17245 20190303013811
+206.81.3.87 3 3 4553 20190304135428
+139.162.89.50 3 3 4553 20190304172249
+91.82.85.76 3 3 4553 20190304161331
+24.134.75.193 3 3 4553 20190304161426
+78.46.218.173 3 3 4553 20190304133531
+82.196.8.200 3 3 4553 20190304154338
+142.93.197.33 3 3 4553 20190304131101
+35.203.12.227 4 4 8622 20190301220925
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20190301 66 111 3107696 11
+20190302 32 104 2104540 15
+20190303 988 5558 49912520 14
+20190304 671 709 4395253 215
+20190305 0 2 90524 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 1
+30s-2mn 4
+2mn-5mn 4
+15mn-30mn 5
+0s-30s 232
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 87
+/wp-admin/admin-ajax.php 784 22221 0 0
+/wp-login.php 488 1051629 217 15
+/xmlrpc.php 211 48530 1 198
+/ 75 2296531 30 34
+/wp-admin/load-scripts.php 10 1028050 0 0
+/wp-content/themes/listable/assets/fonts/hanken/hanken-light-webfont.woff2 9 162688 2 1
+/wp-content/themes/listable/assets/fonts/fontawesome/fontawesome-webfont.woff2 9 694456 1 1
+/wp-content/themes/listable/assets/fonts/hanken/hanken-book-webfont.woff2 9 165424 2 1
+/jm-ajax/get_listings/ 8 47716 0 0
+/listings/ 8 210535 1 1
+/tipo-de-anuncio/visit/ 1 73529 0 0
+/listing-category/disenadores-graficos/ 4 132540 0 0
+/wp-admin/load-styles.php 4 240705 0 0
+/category/1/ 2 89405 0 0
+/listings-dashboard/ 2 89533 0 0
+/wp-content/themes/listable/assets/fonts/fontawesome/fontawesome-webfont.ttf 1 165548 0 0
+/feed/ 1 2627 0 0
+/listings/cordoba-argentina-erks-agency/ 1 105777 0 0
+/wp-content/plugins/woo-thank-you-page-nextmove-lite/admin/assets/fonts/xlcore.ttf 7 630 0 0
+/wp-admin/ 1 35026 1 0
+/wp-content/themes/listable/assets/fonts/hanken/hanken-light-webfont.woff 1 22812 0 0
+/comments/feed/ 1 426 0 0
+/product/basico/ 1 76989 0 0
+/listing-category/programadores-android/ 3 114070 0 0
+/mas/ 3 107980 0 0
+/wp-admin/plugins.php 2 90233 0 0
+/product-tag/mayor-exposicion/ 1 72371 0 0
+/product_orders/ 1 72224 0 0
+/wp-content/themes/listable/assets/fonts/hanken/hanken-book-webfont.woff 1 23088 0 0
+/wp-json/ 1 29991 0 0
+/wp-json/wp/v2/ 1 4379 0 0
+/selecciona-una-opcion/ 3 113051 0 0
+/wp-content/themes/listable/assets/fonts/fontawesome/FontAwesome.otf 1 134808 0 0
+/listings/lucas-ivan-gimenez/ 3 145133 0 0
+/search/ 1 72207 0 0
+/registro/ 4 131569 0 0
+/wp-content/themes/listable/assets/fonts/hanken/hanken-book-webfont.ttf 1 47760 0 0
+/tipo-de-anuncio/shop/ 1 73525 0 0
+/listings/cordoba-argentina-francisco-gasco-2/ 1 102645 0 0
+/mis-favoritos/ 1 72180 0 0
+/product-category/uncategorized/ 1 73430 0 0
+/wp-content/themes/listable/assets/fonts/fontawesome/fontawesome-webfont.woff 1 98024 0 0
+/listings/julian-gil/ 3 155117 0 0
+/category/1/feed/ 1 2642 0 0
+/wp-content/themes/listable/gulpconfig.example.json 1 38 0 0
+/wp-content/themes/listable/assets/fonts/hanken/hanken-book-webfont.eot 1 20046 0 0
+/listings/buenos-aires-federico-terpin/ 4 184716 0 1
+/wp-content/themes/listable/assets/fonts/hanken/hanken-light-webfont.eot 1 19829 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 7 7644 0 0
+/mi-cuenta/ 5 153981 0 0
+/listing-category/especialista-en-big-data/ 1 18438 0 0
+/listings/monagasvenezuela-juan-figuera/ 1 105101 0 0
+/listing-category/traductores/ 1 18421 0 0
+/listing-category/programadores-ios/ 2 36862 0 0
+/listings/misiones-argentina-sergio-oviedo-2/ 1 101535 0 0
+/mi-cuenta/lost-password/ 1 18837 0 0
+/listing-category/programadores-full-stack/ 3 114098 0 1
+/sugerencias/ 4 133050 0 0
+/listings/misiones-argentina-sergio-oviedo/ 1 98383 0 0
+/como-funciona/ 5 145491 0 0
+/woocommerce-search/ 1 72356 0 0
+/wp-admin/admin.php 1 45319 0 0
+/wp-content/plugins/wp-job-manager/assets/font/job-manager.woff 7 8980 0 0
+/planes-destacados/ 1 73953 0 0
+/shop_settings/ 1 72269 0 0
+/eliminar-anuncio/ 1 82121 0 0
+/tipo-de-anuncio/eat/ 1 73520 0 0
+/cart/ 1 119518 0 0
+/listings/julian-gil/feed/ 1 446 0 0
+/wp-admin/plugin-install.php 1 33830 0 0
+/publicar-anuncio/ 1 74327 0 0
+/pago-exitoso/ 1 72681 0 0
+/wp-content/plugins/comments-ratings/css/fonts/raty.woff 1 1071 0 1
+/listing-category/disenadores-uiux/ 4 132519 0 0
+/terminos-y-condiciones/ 3 118468 0 0
+/product/destacado/ 1 77048 0 0
+/wp-content/plugins/code-snippets/css/font/code-snippets.ttf 7 768 0 0
+/wp-content/themes/listable/package-lock.json 1 238284 0 1
+/listing-category/programadores-javascript/ 1 77195 0 0
+/product-tag/gratis/ 1 72170 0 0
+/pago-en-proceso/ 1 73305 0 0
+/mi-cuenta/mis-favoritos/ 1 72204 0 0
+/tipo-de-anuncio/stay/ 1 73524 0 0
+/wp-content/themes/listable/assets/fonts/fontawesome/fontawesome-webfont.eot 1 165742 0 0
+/wp-admin/edit.php 2 92598 0 0
+/listings/buenos-aires-fernando-del-valle/ 1 103663 0 0
+/wp-content/themes/listable/assets/fonts/hanken/hanken-light-webfont.ttf 1 47756 0 0
+END_SIDER
